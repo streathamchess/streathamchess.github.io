@@ -1,34 +1,45 @@
 <!DOCTYPE html>
-<html lang="en">
-	<head>
-    	<meta charset="utf-8">
-    	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-    	<meta name="viewport" content="width=device-width, initial-scale=1">
-		<link href="/css/bootstrap.css" rel="stylesheet">
-		<style>
-  			body {
-  			  padding-top: 60px;
-			}
-		</style>
-	</head>
-	<body>
-		<div class="navbar navbar-default navbar-fixed-top">
-		  <div class="navbar-inner">
-		    <div class="container">		     
-		      <h3><a class="brand" href="#">{{ site.name }}</a></h3>
-		      <div class="nav-collapse collapse">
-		        <ul class="nav">
-		          <li class="active"><a href="/">Home</a></li>
-		        </ul>
-		      </div>
-		    </div>
-		  </div>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>{{ page.title }}</title>
+	<meta name="viewport" content="width=device-width">
+	<link href="/css/bootstrap.css" rel="stylesheet">
+</head>
+<body>
+	<div class="navbar navbar-default navbar-fixed-top">
+		<div class="navbar-inner">
+			<div class="container">
+				<h3>
+					<a class="brand" href="#">{{ site.name }}</a>
+				</h3>
+			</div>
 		</div>
-
-		<div class="container">
-		  <h3>{{ page.title }}</h3>
-		  {{ content }}
-
-		</div>
-	</body>
+	</div>
+	<div style="padding-top: 65px;" class="wrapper">
+		<table style="width: 100%;">
+			<tbody>
+				<tr>
+					<td width="20%" valign="top">
+						<nav>
+							<ul class="sidebar">
+								<li><a href="/">Home</a></li>
+								<li><a href="/about">About Us</a></li>
+								<ul>
+									<li><a href="/">Chess at Woodfield Grove</a></li>
+								</ul>
+							</ul>
+						</nav>
+					</td>
+					<td>
+						<div class="container">
+							<h3>{{ page.title }}</h3>
+							{{ content }}
+						</div>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+</body>
 </html>
