@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>{{ page.title }}</title>
+	<meta name="viewport" content="width=device-width">
+	<link href="/css/bootstrap.css" rel="stylesheet">
+</head>
+<body>
+	<div class="navbar navbar-default navbar-fixed-top">
+		<div class="navbar-inner">
+			<div class="container">
+				<h3>
+					<a class="brand" href="#">{{ site.name }}</a>
+				</h3>
+			</div>
+		</div>
+	</div>
+	<div style="padding-top: 65px;" class="wrapper">
+		<table style="width: 100%;">
+			<tbody>
+				<tr>
+					<td width="20%" valign="top">
+						<nav>
+							<ul class="sidebar">
+								<li><a href="/">Home</a></li>
+								<li><a href="/about">About Us</a></li>
+								<ul>
+									<li><a href="/">Chess at Woodfield Grove</a></li>
+								</ul>
+							</ul>
+						</nav>
+					</td>
+					<td>
+						<div class="container">
+							<h3>{{ page.title }}</h3>
+							{{ content }}
+						</div>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+</body>
+</html>
