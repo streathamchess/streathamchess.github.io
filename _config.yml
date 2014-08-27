@@ -1,7 +1,6 @@
 name: "Streatham & Brixton Chess Club"
 
-source: jekyll
-exclude: ["Gemfile", "old", "bootstrap-3.2.0"]
+exclude: ["Gemfile"]
 
 
 markdown: rdiscount
