@@ -1,45 +1,54 @@
 <!DOCTYPE html>
-<html>
-<head>
-	<meta charset="UTF-8">
-	<title>{{ page.title }}</title>
-	<meta name="viewport" content="width=device-width">
-	<link href="/css/bootstrap.css" rel="stylesheet">
-</head>
-<body>
-	<div class="navbar navbar-default navbar-fixed-top">
-		<div class="navbar-inner">
-			<div class="container">
-				<h3>
-					<a class="brand" href="#">{{ site.name }}</a>
-				</h3>
-			</div>
-		</div>
+<html lang="en">
+	<head>
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+		<meta charset="utf-8">
+		<title>{{ page.title }}</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+		<link href="css/bootstrap.css" rel="stylesheet">
+		<!--[if lt IE 9]>
+			<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->
+		<link href="css/styles.css" rel="stylesheet">
+	</head>
+	<body>
+<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+      <div class="container-fluid">
+        {% include navigation-top.html %}  
+      </div>
+</nav>
+
+<div class="container-fluid">
+      
+      <div class="row row-offcanvas row-offcanvas-left">
+        
+        <div class="col-sm-3 col-md-2 sidebar-offcanvas" id="sidebar" role="navigation">
+           	{% include navigation-sidebar.html %}  
+        </div>
+        
+        <div class="col-sm-9 col-md-10 main">
+          
+          <!--toggle sidebar button-->
+          <p class="visible-xs">
+            <button type="button" class="btn btn-primary btn-xs" data-toggle="offcanvas"><i class="glyphicon glyphicon-chevron-left"></i></button>
+          </p>
+          
+		  <h2 class="page-header">
+            {{ page.title }}
+          </h2>
+
+          <div class="row placeholders">
+            {{ content }}
+          </div>
+          
+          <hr>
+
+      </div>
 	</div>
-	<div style="padding-top: 65px;" class="wrapper">
-		<table style="width: 100%;">
-			<tbody>
-				<tr>
-					<td width="20%" valign="top">
-						<nav>
-							<ul class="sidebar">
-								<li><a href="/">Home</a></li>
-								<li><a href="/about">About Us</a></li>
-								<ul>
-									<li><a href="/">Chess at Woodfield Grove</a></li>
-								</ul>
-							</ul>
-						</nav>
-					</td>
-					<td>
-						<div class="container">
-							<h3>{{ page.title }}</h3>
-							{{ content }}
-						</div>
-					</td>
-				</tr>
-			</tbody>
-		</table>
-	</div>
-</body>
+</div><!--/.container-->
+
+<footer>
+  {% include footer.html %}  
+</footer>
+	</body>
 </html>
