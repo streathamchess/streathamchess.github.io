@@ -17,6 +17,8 @@ footer {
  * --------------------------------------------------
  */
 @media screen and (max-width: 768px) {
+
+  
   .row-offcanvas {
     position: relative;
     -webkit-transition: all 0.25s ease-out;
@@ -58,6 +60,10 @@ footer {
   background-color: #428bca;
 }
 
+.nav-sidebar > .active > a:hover {
+  color: #555;
+}
+
 /*
  * Main content
  */
@@ -74,4 +80,4 @@ footer {
 }
 .main .page-header {
   margin-top: 0;
-}
+} 
