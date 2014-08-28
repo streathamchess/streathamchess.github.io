@@ -10,7 +10,14 @@
   <!--[if lt IE 9]>
     <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
   <![endif]-->
-  <link href="/css/styles.css" rel="stylesheet">
+  <link href="/css/styles.css" rel="stylesheet">  
+  <script type="text/javascript">
+    $(document).ready(function(){
+      $('[data-toggle=offcanvas]').click(function() {
+        $('.row-offcanvas').toggleClass('active');
+      });
+    });
+  </script>
 </head>
 
 <body>
@@ -62,7 +69,6 @@
 
 <script src="/js/jquery.min.js"></script>
 <script src="/js/bootstrap.min.js"></script>
-<script src="/js/scripts.js"></script>
 
 </body>
 </html>

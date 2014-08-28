@@ -1,0 +1,27 @@
+<script src="/js/pgn4web.js" type="text/javascript"></script>
+
+
+<script type="text/javascript">
+  	"use strict";
+	SetPgnUrl("{{ include.url }}");
+	SetImagePath("/assets/pgn4web-images/alpha/24");
+    SetImageType("png");
+    SetShortcutKeysEnabled(true);
+    SetHighlightOption(false);
+    SetGameSelectorOptions("Select game...", false, 0, 0, 0, 10, 10, 0, 0); 
+</script>
+
+<link href="/css/pgn4web-mini.css" rel="stylesheet" />
+
+<b><span id="GameWhite"></span>&nbsp;-&nbsp;<span id="GameBlack"></span>&nbsp;&nbsp;<span id="GameResult"></span></b>
+
+<div class="col-sm-3 col-md-3">
+	<div id="GameBoard"></div>	
+	<div id="GameButtons"></div>
+	<p/>
+	<div id="GameSelector"></div>
+</div>
+<div class="col-sm-8 col-md-9">
+	<div id="GameText"></div> 
+</div>
+

@@ -1,0 +1,91 @@
+Event "Sinquefield Cup 2014"]
+[Site "St Louis, Mo"]
+[Date "2014.08.27"]
+[Round "1.3"]
+[White "Topalov, Veselin"]
+[Black "Caruana, Fabiano"]
+[Result "0-1"]
+[ECO "A34"]
+[WhiteElo "2772"]
+[BlackElo "2801"]
+[Annotator "Finegold"]
+[PlyCount "68"]
+[EventDate "2014.??.??"]
+[SourceDate "2014.01.04"]
+
+1. Nf3 Nf6 2. c4 c5 3. Nc3 Nc6 4. g3 d5 5. cxd5 Nxd5 6. Bg2 Nc7 7. O-O e5 {
+Fabiano was pleased with the opening, saying he was playing white in a Maroczy
+with a tempo down.} 8. a3 Rb8 9. d3 Be7 10. Be3 O-O 11. Rc1 Bd7 12. Nd2 {White
+has given up on b4 ideas, and switches to f4 ideas instead!} Nd4 13. Nc4 f6 14.
+f4 exf4 15. Bxf4 Nde6 16. Bd2 b6 {The whole game has been slow positional
+maneuvering, where neither side can really claim any edge. The next move
+shocked Alejandro and me!} 17. g4 $5 {Diagram #} Be8 18. Be1 {Ah, the point of
+17.g4!? Topalov wants to play Bg3 and control dark squares. Fabiano nicely
+thwarts his opponent's plans.} b5 $1 {In the commentary afterwards, Fabiano
+said he was worried a bit about the c5 pawn, but thought it would be okay.} 19.
+Ne3 Bd6 {Diagram # Black drives away the Nc4 so he can play Bd6-e5. An idea
+which works excellently!} 20. Ncd5 $2 {The next few moves shows that Veselin
+has lost the thread of the game. By trading pieces and giving black Be5, his
+g4 move is simply weakening. Now black seizes the initiative!} Nxd5 21. Bxd5
+Bf7 22. Nf5 Be5 23. Qd2 $2 {Fabiano thought this was the losing move. Now
+black gets to hop his knight to a great square, and with tempo!} Nd4 $1 24.
+Bxf7+ Rxf7 {With Nb3 in the air, and 25.Nxd4 unplayable, due to 25...Qxd4+
+forking, white is in big trouble.} 25. Rd1 Nxf5 26. gxf5 Qd4+ 27. Bf2 Qg4+ 28.
+Kh1 c4 $1 29. Qc2 Re8 $1 {Diagram # Fabiano finishes with computer-like
+precision. White is defenseless on both sides of the board, and the center!}
+30. dxc4 $2 Qh5 31. h4 ({The natural} 31. Bg1 {loses to} Bxh2 32. Bxh2 Rxe2 {
+and here Fabiano pointed out that if he had played his other rook to the "e"
+file with 29...Re7, then white would play 33.Qxe2 and 33.Bxb8 here!}) 31... Qg4
+32. Qd3 bxc4 33. Qe3 Rfe7 34. b3 Bb2 0-1
+
+[Event "Sinquefield Cup 2014"]
+[Site "St Louis, Mo"]
+[Date "2014.08.27"]
+[Round "1.1"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[ECO "C45"]
+[WhiteElo "2768"]
+[BlackElo "2877"]
+[Annotator "Finegold"]
+[PlyCount "75"]
+[EventDate "2014.??.??"]
+[SourceDate "2014.01.04"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 {The Scotch! I would normally say that MVL gets the
+first surprise, but I don't either player was surprised this game!} exd4 4.
+Nxd4 Bc5 5. Nb3 Bb6 6. Nc3 Nf6 7. Qe2 {Magnus played this way (7.Qe2) against
+Bacrot a few years ago and won. Black usually plays 7...0-0 here, but Magnus
+plays an extremely rare move.} a5 {Diagram # This was played in the Ukranian
+Championship by Elijanov. White played 8.a4, preventing black from doing the
+same. MVL immediately plays the most testing move.} 8. e5 O-O $1 9. exf6 a4 10.
+Nd5 Re8 11. Be3 axb3 12. Qg4 g6 13. Bc4 {Diagram # Somehow, this must have
+been pre-game prep for both players, as they rushed to this position! I don't
+understand how MVL could have anazlyed 7...a5 so deeply, since this move is
+played less than 1% of the time! Instead, Magnus seemed surprised by the
+Stockfish recommended 13.Bc4, and went into the tank.} Nb4 $1 {Played after 30
+minutes of thought. This move, and 13...Bd4 are the engine recommended moves.
+Alejandro, at first, thought there was no way Magnus would play this (I heard
+this before last year, and Magnus usually played the "computer move" in these
+situations).} 14. Nxb4 {And MVL also thought about 25 minutes on his response!
+Even though he clearly prepared this variation, he either did not know, or
+forgot this move. Now both player were clearly on their own.} d5 {The point of
+Nb4... now the powerful white Nd5 is missing, and white has many pieces pinned
+and attacked.} 15. Qf4 dxc4 16. O-O bxc2 $1 {Black has a lot of tempting
+choices, but, as usual, Magnus finds the best move. This prevents white from
+playing either rook to d1.} 17. Nd5 ({Perhaps a little bit better was} 17. Bxb6
+cxb6 18. Nd5 $1 Re6 (18... Qxd5 $4 19. Qh6) 19. Qxc4 b5 $1 20. Qc5 Rd6 21. Ne7+
+Kh8 22. Qxc2 Rxf6 23. Nxc8 $11) 17... Re6 $1 18. Qxc4 Bxe3 19. fxe3 b5 $1 20.
+Qc5 Bb7 21. Ne7+ {MVL and Magnus are both playing fantastic moves. Now the
+game could end in a draw, but Magnus plays for the win!} Kh8 (21... Rxe7 22.
+fxe7 Qd2 23. Rf2 Qd1+ 24. Rf1 Qd2 25. Rf2 Qd1+ 26. Rf1 $11) 22. Qxc2 Raa6 23.
+Rac1 $6 {Probably MVL saw the final position when he played this move. But 23.
+Rad1 should be equal.} Rxf6 24. Rxf6 Rxf6 25. Qxc7 {Diagram #} Qd2 $6 {Magnus
+played this with only a few minutes remaining. Instead, black has the edge in
+the pawn down ending (!) after 25...Qd3!} ({Better was} 25... Qd3 26. Qc3 Qxc3
+27. Rxc3 Rd6 $1 {and black can play for a win}) 26. Qb8+ Kg7 27. Qg8+ Kh6 28.
+Qf8+ Kh5 29. Rc5+ g5 30. Rxg5+ $1 Kxg5 31. Qg7+ Rg6 32. Qe5+ f5 (32... Kh6 33.
+Nf5+ Kh5 34. Ng3+ Kh6 35. Nf5+ $11) 33. h4+ Kh5 (33... Kg4 34. Qxf5+ Kxh4 35.
+Qf4+ Kh5 36. Qf5+ Kh4 37. Qf4+ $11) 34. Qxf5+ Kh6 35. Qf8+ Kh5 36. Qf5+ Kh6 37.
+Qf8+ Kh5 38. Qf5+ 1/2-1/2
