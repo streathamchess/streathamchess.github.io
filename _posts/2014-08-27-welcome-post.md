@@ -3,4 +3,4 @@ title: Welcome Notice
 layout: default
 ---
 
-Hello world!
+Hello Juraj & Andy!
