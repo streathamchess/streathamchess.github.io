@@ -1,6 +1,7 @@
 [Event "White Lion Pub Blitz"]
 [Site "White Lion Pub"]
 [Date "2014.08.27"]
+[Round ""]
 [White "Hladik, Pavel"]
 [Black "French, Angus"]
 [Result "1-0"]
@@ -9,14 +10,15 @@
 
 1. c4 c6 2. e4 d5 3. exd5 cxd5 4. d4 e6 5. Nf3 Nf6 6. Nc3 Bb4 7. a3 Bxc3+ 8. bxc3 O-O 9. Bd3 Nc6 10. O-O b6 11. Bg5 h6 12. Bh4 Ba6 13. Ne5 Na5 14. Ng4 Bxc4 15. Nxf6+ Kh8 16. g3 Bxd3 17. Qxd3 gxf6 18. Qf3 Qd7 19. Bxf6+ Kh7 20. Qd3+ Kg8 21. Qe3 Kh7 22. Rae1 Rg8 23. Qd3+ Rg6 24. h4 h5 25. Be5 f6 26. Bf4 Nc4 27. Bc1 f5 28. Qe2 Rg4 29. Qxe6 Qxe6 30. Rxe6 Rag8 31. Rfe1 Rxh4 32. Rh6+ Kg7 33. gxh4  1-0
 
-
 [Event "White Lion Pub Blitz"]
 [Site "White Lion Pub"]
-[Date "2014.08.27"]
+[Date "2014. 8.27"]
+[Round "?"]
 [White "French, Angus"]
 [Black "Hladik, Pavel"]
 [Result "1-0"]
 [ECO "B06"]
 [TimeControl "5min+5sec"]
 
-1. e4 d6 2. d4 g6 3. Nc3 Bg7 4. Be3 Nd7 5. Qd2 a6 6. f4 b5 7. a3 Bb7 8. Bd3 Ngf6 9. h3 e5 10. dxe5 dxe5 11. f5 Qe7 12. fxg6 hxg6 13. Nf3 Nc5 14. Ng5 Rd8 15. O-O Ncxe4 16. Ncxe4 Bxe4 17. Rxf6 Bxf6 18. Nxe4 Bg7 19. Qf2 f5 20. Bg5 Qd7 21. Nf6+ Bxf6 22. Bxf6 Kf7 23. Bxh8 Rxh8 24. Rd1 Kf6 25. Be2 Qc6 26. Bf3 e4 27. Qd4+  1-0
+1. e4 d6 2. d4 g6 3. Nc3 Bg7 4. Be3 Nd7 5. Qd2 a6  {  Pavel started to employ this system recently in blitz with great success. He likes flexibility of this system.}  6. f4 b5 7. a3 Bb7 8. Bd3 Ngf6 9. h3 e5 10. dxe5 dxe5 11. f5 Qe7 12. fxg6 hxg6 13. Nf3 Nc5 14. Ng5 Rd8 15. O-O Ncxe4 16. Ncxe4 Bxe4 17. Rxf6 $3  {  Angus}  17... Bxf6 18. Nxe4 Bg7 19. Qf2 f5  {  At this moment Pavel regrets that he didn't castle on move 15}  20. Bg5 Qd7 21. Nf6+ Bxf6 22. Bxf6 Kf7 23. Bxh8 Rxh8 24. Rd1 Kf6 25. Be2 Qc6 26. Bf3 e4 27. Qd4+  1-0
+

@@ -5,9 +5,8 @@ layout: default
 ---
 
 ###French vs. Hladik
-
 GM Pavlov strikes
 
 Revenge of the French
 
-{% include pgn.html url="/assets/pgn/white-lion-blitz.pgn" %}
+{% include pgn.html url="/assets/pgn/wl-blitz.pgn" %}
