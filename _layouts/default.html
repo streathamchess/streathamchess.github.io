@@ -2,73 +2,67 @@
 <html lang="en">
 
 <head>
-  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-  <meta charset="utf-8">
-  <title>{{ page.title }}</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <link href="/css/bootstrap.css" rel="stylesheet">
-  <!--[if lt IE 9]>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta charset="utf-8">
+<title>{{ page.title }}</title>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link href="/css/bootstrap.css" rel="stylesheet">
+<!--[if lt IE 9]>
     <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
   <![endif]-->
-  <link href="/css/styles.css" rel="stylesheet">   
+<link href="/css/styles.css" rel="stylesheet">
 </head>
 
 <body>
-<div class="page-container">
-  
-  <!-- top navbar -->
-    <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
-      <div class="container">
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle" data-toggle="offcanvas" data-target=".sidebar-nav">
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-          <a class="navbar-brand" href="/">{{ site.name }}</a>
-        </div>
-        <div class="navbar-collapse collapse">
-             {% include navigation-top.html %}  
-        </div>
-      </div>
-    </div>
-      
-    <div class="container-fluid">
-      <div class="row row-offcanvas row-offcanvas-left">
-        
-        <div class="col-sm-3 col-md-2 sidebar-offcanvas" id="sidebar" role="navigation">
-          <div data-spy="affix" data-offset-top="45" data-offset-bottom="90">
-              {% include navigation-sidebar.html %}  
-          </div>
-        </div>
-    
-        <div class="col-sm-9 col-md-10 main" data-spy="scroll" data-target="#sidebar-nav">
-          <h2 class="page-header">
-            {{ page.title }}
-          </h2>
 
-          <div class="row placeholders">
-            {{ content }}          
-          </div>            
-        </div>
+	<!-- top navbar -->
+	<div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+		<div class="container-fluid">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle collapsed" data-toggle="offcanvas" data-target=".sidebar-nav">
+					<span class="sr-only">Toggle navigation</span> 
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+				<a class="navbar-brand" href="/">{{ site.name }}</a>
+			</div>
+			<div class="navbar-collapse collapse">{% include navigation-top.html %}</div>
+		</div>
+	</div>
 
-    </div><!--/.row-->
-  </div><!--/.container-->
-  <footer>
-  {% include footer.html %}
-  </footer>
-</div><!--/.page-container-->
+	<div class="container-fluid">
+		<div class="row row-offcanvas row-offcanvas-left">
+			<div class="col-sm-3 col-md-2 sidebar-offcanvas" id="sidebar" role="navigation">
+				<div data-spy="affix" data-offset-top="45" data-offset-bottom="90">
+					{% include navigation-sidebar.html %}
+				</div>
+			</div>
+			
+			<div class="col-sm-9 col-md-10 main" data-spy="scroll" data-target="#sidebar-nav">
+	          <h2 class="page-header">
+    	        {{ page.title }}
+        	  </h2>
 
+	          <div class="row placeholders">
+    	        {{ content }}          
+        	  </div>            
+	        </div>
 
+		</div>
+	</div>
 
-<script src="/js/jquery.min.js"></script>
-<script src="/js/bootstrap.min.js"></script>
-<script type="text/javascript">
-    $(document).ready(function(){
-      $('[data-toggle=offcanvas]').click(function() {
-        $('.row-offcanvas').toggleClass('active');
-      });
-    });
-</script>
+	<footer> {% include footer.html %} </footer>
+
+	<script src="/js/jquery.min.js"></script>
+	<script src="/js/bootstrap.min.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function() {
+			$('[data-toggle=offcanvas]').click(function() {
+				$('.row-offcanvas').toggleClass('active');
+			});
+		});
+	</script>
 </body>
 </html>
