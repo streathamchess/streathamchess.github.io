@@ -4,7 +4,7 @@ layout: default
 ---
 
 You can play chess at the White Lion bar on Wednesday evenings throughout the year from 5.00 to 8.00 pm. 
-The White Lion is located here at 232/234 Streatham High Road, SW16 1BB. We play in the main bar and also in 
+The White Lion is located [here](https://goo.gl/maps/rlRcp) at 232/234 Streatham High Road, SW16 1BB. We play in the main bar and also in 
 the Stables area at the rear of the premises.
 
 It’s not necessary to be a paid-up member of Streatham & Brixton Chess Club to participate – everyone is welcome 
