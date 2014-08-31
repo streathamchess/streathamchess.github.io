@@ -8,19 +8,21 @@
     SetImageType("svg");
     SetShortcutKeysEnabled(true);
     SetHighlightOption(false);
-    SetGameSelectorOptions("Select game...", false, 0, 0, 0, 10, 10, 0, 0); 
+    SetCommentsIntoMoveText(true);
+    SetGameSelectorOptions("Select game...", true, 0, 0, 0, 15, 15, 0, 0); 
 </script>
 
 <link href="/css/pgn4web-mini.css" rel="stylesheet" />
 
-<div class="col-sm-4 col-md-4" style="width: 320px;">
-	<b><span id="GameWhite"></span>&nbsp;-&nbsp;<span id="GameBlack"></span>&nbsp;&nbsp;<span id="GameResult"></span></b>
-	<div id="GameBoard"></div>	
-	<div id="GameButtons"></div>
-	<p></p>
+<div class="col-sm-4 col-md-4" style="width: 260px;">
 	<div id="GameSelector"></div>
+	<p></p>
+	<div id="GameBoard"></div>	
+	<p></p>
+	<div id="GameButtons"></div>
 </div>
 <div class="col-sm-7 col-md-8">
+	<b><span id="GameWhite"></span>&nbsp;-&nbsp;<span id="GameBlack"></span>&nbsp;&nbsp;<span id="GameResult"></span></b>
 	<div id="GameText"></div> 
 </div>
 
