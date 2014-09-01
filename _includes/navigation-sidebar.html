@@ -22,6 +22,12 @@
 </ul>
 
 <ul class="nav nav-sidebar">
+  <li {% if current[1] == 'join.html' %} class="active" {% endif %}>
+    <a href="/join.html">How to join</a>
+  </li>
+</ul>	
+
+<ul class="nav nav-sidebar">
   <li {% if current[1] == 'noticeboard' %} class="active" {% endif %}>
     <a href="/noticeboard">Noticeboard</a>
   </li>
