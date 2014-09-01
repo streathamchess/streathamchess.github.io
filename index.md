@@ -16,5 +16,6 @@ We offer one of the best-value membership packages in London with a special redu
 for the first year of membership. If all you want is to play ungraded games of friendly 
 chess, you won't have to pay anything at all.
 
+<br/>
 
-{% include image.html url="/assets/chessart/NorahBorges.jpg" width="172" description="Ajedrez, painted in 1922 by Norah Borges (1901-1998), sister of the writer Jorge Luis Borges" %}
+{% include image.html url="/assets/chessart/NorahBorges.jpg" width="222" description="Ajedrez, painted in 1922 by Norah Borges (1901-1998), sister of the writer Jorge Luis Borges" %}

@@ -1,5 +1,8 @@
-<div align="right">
-	<img src="{{ include.url }}" alt="{{ include.description }}" 
-		class="img-rounded" width="{{ include.width }}"/>
-	<p align="bottom"><i>{{ include.description }}</i></p>
-</div>
+{% if include.align  %}
+ <div style="float: {{ include.align }}; padding-right: 10px; margin-top: -20px;" align="include.align">  
+{% else %} 
+ <div style="float: right; padding-left: 10px; margin-top: -15px;" align="right">
+{% endif %}
+  <img src="{{ include.url }}" alt="{{ include.description }}" class="img-rounded" width="{{ include.width }}"/>
+  <p align="bottom"><i>{{ include.description }}</i></p>
+ </div>

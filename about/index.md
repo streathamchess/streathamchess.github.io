@@ -2,6 +2,7 @@
 title: About us
 layout: default
 ---
+{% include image.html url="/assets/chessart/graffiti-chess-one.jpg" width="300" %}
 
 Streatham & Brixton Chess Club goes back a long way. Our club was founded around 125 years ago and we are still flourishing today with more than 60 active members.
 
@@ -15,4 +16,4 @@ Although we don’t have a junior section, keen youngsters are welcome to join u
 A group of our members is responsible for the widely-read [Streatham & Brixton Chess Blog](http://streathambrixtonchess.blogspot.com/), a past winner of the English Chess Federation’s Website of the Year award. There you’ll find articles and discussion about chess in general and our club in particular. The [chess graffiti](http://streathambrixtonchess.blogspot.com/2009/06/chess-graffiti.html) picture on this page, and the other chess-in-art illustrations on this website, are all taken from the blog.
 
 
-{% include image.html url="/assets/chessart/graffiti-chess-one.jpg" width="300" %}
+
