@@ -6,12 +6,12 @@ layout: default
 {% for post in site.posts %}
   
     <li>
-    	<a href="{{ post.url }}">{{ post.title }}</a>
+    	<h4><a href="{{ post.url }}">{{ post.title }}</a>  &nbsp; <small>{{ post.date | date_to_long_string }}</small></h4>
     	<p>
     		{{ post.description }}
     	</p>
     	<p>
-    		{{ post.date | date_to_long_string }}
+
     	</p>
     </li>
   

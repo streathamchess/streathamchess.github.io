@@ -1,5 +1,5 @@
 ---
-title: Recent Blitz Games at White Lion
+title: Recent Blitz Games at the White Lion
 description: Recent blitz games played in White Lion between Angus French and Pavel Hladik
 layout: default
 ---

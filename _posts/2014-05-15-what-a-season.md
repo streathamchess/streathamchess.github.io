@@ -1,5 +1,6 @@
 ---
 title: 2013/14 Season Highlights 
+description: What a season! Our club’s highly successful 2013/14 campaign is drawing to a close – these are the highlights...
 layout: default
 ---
 
