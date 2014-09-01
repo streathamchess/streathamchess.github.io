@@ -1,4 +1,5 @@
 name: "Streatham & Brixton Chess Club"
+shortname: "S&BCC"
 
 exclude: ["Gemfile"]
 
