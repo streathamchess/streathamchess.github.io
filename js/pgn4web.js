@@ -3487,8 +3487,8 @@ function PrintHTML() {
         text = '<FORM NAME="GameSel" STYLE="display:inline;"> ' +
           '<SELECT ID="GameSelSelect" NAME="GameSelSelect" STYLE="';
         if (tableSize > 0) { text += 'width: ' + tableSize + 'px; '; }
-        text += 'font-family: monospace;" CLASS="selectControl" TITLE="select a game" ' +
-          'ONCHANGE="this.blur(); if (this.value >= 0) { Init(this.value); this.value = -1; }" ' +
+        text += '" CLASS="selectControl" TITLE="select a game" ' +
+          'ONCHANGE="this.blur(); if (this.value >= 0) { Init(this.value);  }" ' +
           'ONFOCUS="disableShortcutKeysAndStoreStatus();" ONBLUR="restoreShortcutKeysStatus();" ' +
           '> ' +
           '<OPTION CLASS="optionSelectControl" value=-1>';
@@ -3498,7 +3498,9 @@ function PrintHTML() {
         text += headDisplay.replace(/ /g, '&nbsp;');
 
         for (ii=0; ii<numberOfGames; ii++) {
-          textSelectOptions += '<OPTION CLASS="optionSelectControl" value=' + ii + '>';
+          textSelectOptions += '<OPTION CLASS="optionSelectControl" value=' + ii;
+          if (ii < 1) { textSelectOptions += ' selected="selected";'; }
+          textSelectOptions +=  '>';
           textSO = '';
           if (gameSelectorNum) {
             numText = ' ' + (ii+1);
