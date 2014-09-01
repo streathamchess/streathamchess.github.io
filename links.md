@@ -7,6 +7,11 @@ layout: default
 
 [Streatham & Brixton Chess Blog](http://streathambrixtonchess.blogspot.com/)
 
+[Laws of chess](http://www.zen116966.zen.co.uk/Chess/Laws%20and%20Comments%202009.pdf) <br/>
+Useful account of the FIDE laws of chess, with comments by the Chess Arbiters' Association.
+
+[Club calendar for 2013/14](https://dl.dropboxusercontent.com/u/16119737/Calendar1314.pdf)
+
 [English Chess Federation](http://www.englishchess.org.uk/)
 
 [Southern Counties Chess Union](http://www.sccu.ndo.co.uk/)
