@@ -16,7 +16,7 @@ Streatham Chess Club was founded in 1918 and met at the White Lion Restaurant on
 the merger, Streatham & Brixton Chess Club continued to meet there until the mid 1950s when it moved to Streatham Baths. Later venues included the 
 Bedford Park and Sultan pubs in Streatham and, more recently, the Priory Arms in Stockwell.
 
-{% include image.html url="/assets/chessart/Leeming-Hereford-Chess-Club.jpg" %}
+{% include image.html url="/assets/chessart/Leeming-Hereford-Chess-Club.jpg" description="Portraits of the gentlemen of the Hereford Chess Society by Thomas Leeming, exhibited at the Royal Academy in 1818 and the subject of a [research project](http://streathambrixtonchess.blogspot.com/2006/10/every-picture-tells-story-index.html) by S&B club members." %}
 
 Both clubs had their ups and downs. Brixton Chess Club was notably successful in the 1920s and early 1930s when it won the Surrey Trophy in five 
 consecutive seasons and the Eastman Cup in its first three seasons. In 1930/31 it was the second largest club in the country. Around this time Harry 
