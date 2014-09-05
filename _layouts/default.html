@@ -30,12 +30,14 @@
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
 				</button>
-				<span class="hidden-xs">
-					<a class="navbar-brand" href="/">{{ site.name }}</a>
-				</span>
-				<span class="visible-xs" title="{{ site.name }}">
-					<a class="navbar-brand" href="/">{{ site.shortname }}</a>
-				</span>
+				<div style="padding-left: 4px;">
+					<span class="hidden-xs">
+						<a class="navbar-brand" href="/">{{ site.name }}</a>
+					</span>
+					<span class="visible-xs" title="{{ site.name }}">
+						<a class="navbar-brand" href="/">{{ site.shortname }}</a>
+					</span>
+				</div>
 			</div>
 			<div class="navbar-collapse collapse">{% include navigation-top.html %}</div>
 		</div>
