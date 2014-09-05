@@ -12,7 +12,7 @@ To play league chess you will also need to be a member of the English Chess Fede
 Bronze membership costs £12 for a year if you sign up online - see 
 [here](http://www.englishchess.org.uk/?page_id=20558) for further information.
 
-{% include image.html url="/assets/chessart/boileauchess.jpg" width="280" description="[Two men playing chess](http://streathambrixtonchess.blogspot.com/2008/08/chess-in-art-xi.html) – <br/> wood sculpture by the Canadian artist Alain Boileau. " %}
+{% include image.html url="/assets/chessart/boileauchess.jpg" description="[Two men playing chess](http://streathambrixtonchess.blogspot.com/2008/08/chess-in-art-xi.html) – wood sculpture by the Canadian artist Alain Boileau. " %}
 
 Subscription rates for the 2014-2015 season are:
 

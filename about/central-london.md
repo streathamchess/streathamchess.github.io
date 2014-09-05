@@ -3,6 +3,8 @@ title: Chess in Central London
 layout: default
 ---
 
+{% include image.html url="/assets/photos/central-london.jpg" %}
+
 You don’t have to live in the Streatham area to play for us – many of our members live north of the river or outside 
 London. They prefer to play their team chess in Central London because of the convenient location and the high quality 
 that the [London Chess League](http://www.londonchess.org.uk/main.php) offers. In fact we play more league chess at 
@@ -13,5 +15,3 @@ an 10-board team in Division 3, and a 4-board team in the Minor division. Most m
 Lane Community Centre, which is located here on the Barbican estate.
 
 If you think you might like to play for us in the London Chess League, please contact one of our club officers.
-
-{% include image.html url="/assets/photos/central-london.jpg" width="352" description="One of the rapidplay tournaments we hold for members of our White Lion chess group." %}

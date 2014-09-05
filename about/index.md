@@ -2,7 +2,7 @@
 title: About us
 layout: default
 ---
-{% include image.html url="/assets/chessart/graffiti-chess-one.jpg" width="300" %}
+{% include image.html url="/assets/chessart/graffiti-chess-one.jpg" %}
 
 Streatham & Brixton Chess Club goes back a long way. Our club was founded around 125 years ago and we are still flourishing today with more than 60 active members.
 

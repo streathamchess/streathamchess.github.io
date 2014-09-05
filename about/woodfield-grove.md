@@ -3,7 +3,7 @@ title: Chess at Woodfield Grove
 layout: default
 ---
 
-{% include image.html url="/assets/photos/woodfield.jpg" width="352" align="left" %}
+{% include image.html url="/assets/photos/woodfield.jpg" align="left" %}
 
 We get together at Woodfield Grove Tennis Club in Streatham on most Tuesday evenings during the chess season 
 (which runs from September through to May). 

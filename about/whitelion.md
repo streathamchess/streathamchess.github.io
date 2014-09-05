@@ -2,6 +2,7 @@
 title: Chess at the White Lion
 layout: default
 ---
+{% include image.html url="/assets/photos/wl-group-rapidplay.jpg" description="One of the rapidplay tournaments we hold for members of our White Lion chess group." %}
 
 You can play chess at the White Lion bar on Wednesday evenings throughout the year from 5.00 to 8.00 pm. 
 The White Lion is located [here](https://goo.gl/maps/rlRcp) at 232/234 Streatham High Road, SW16 1BB. We play in the main bar and also in 
@@ -14,5 +15,3 @@ Wednesday regulars also play for our league teams. There are rapidplay competiti
 take part in.
 
 Why not come along to one of our sessions – we’ll be delighted to see you. 
-
-{% include image.html url="/assets/photos/wl-group-rapidplay.jpg" width="352" description="One of the rapidplay tournaments we hold for members of our White Lion chess group." %}

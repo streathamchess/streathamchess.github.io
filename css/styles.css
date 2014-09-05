@@ -85,3 +85,23 @@ footer {
 .main .page-header {
   margin-top: 0;
 } 
+
+/*
+  Image sizing
+*/
+
+.img-auto-sized {
+	max-width: 300px;
+}
+
+@media (min-width: 768px) {
+	.img-auto-sized {
+		max-width: 420px;
+	}
+}
+
+@media (min-width: 1200px) {
+	.img-auto-sized {
+		max-width: 640px;
+	}
+}

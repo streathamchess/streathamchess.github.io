@@ -3,7 +3,7 @@ title: Links
 layout: default
 ---
 
-{% include image.html url="/assets/chessart/lavery.jpg" width="420" description="[The Chess Players](http://streathambrixtonchess.blogspot.com/2008/10/chess-in-art-xx.html), painted by John Lavery in 1929." %}
+{% include image.html url="/assets/chessart/lavery.jpg" description="[The Chess Players](http://streathambrixtonchess.blogspot.com/2008/10/chess-in-art-xx.html), painted by John Lavery in 1929." %}
 
 [Streatham & Brixton Chess Blog](http://streathambrixtonchess.blogspot.com/)
 

@@ -3,6 +3,8 @@ title: Welcome
 layout: default
 ---
 
+{% include image.html url="/assets/chessart/NorahBorges.jpg" description="Ajedrez, painted in 1922 by Norah Borges (1901-1998), sister of the writer Jorge Luis Borges" %}
+
 Welcome – you’ve arrived at Streatham & Brixton Chess Club’s website. 
 We hope you’ll take a few moments to find out more about us – we’re a lively chess club 
 with a fast-growing membership and we provide opportunities for chess players of all 
@@ -18,4 +20,4 @@ chess, you won't have to pay anything at all.
 
 <br/>
 
-{% include image.html url="/assets/chessart/NorahBorges.jpg" width="222" description="Ajedrez, painted in 1922 by Norah Borges (1901-1998), sister of the writer Jorge Luis Borges" %}
+
