@@ -3,6 +3,8 @@ title: Team captains
 layout: default
 ---
 
+{% include image.html url="/assets/chessart/ernst.jpg" description="Max Ernst's sculpture [The King Playing with his Queen](http://streathambrixtonchess.blogspot.com/2006/03/chess-in-art-postscript-significance-of.html)." %}
+
 * London League 1: Martin Smith, tel 020 8767 2355.
 
 * London League 2: Antony Hall, tel 07980 550219.
