@@ -1,7 +1,7 @@
 ---
 title: Recent Blitz Games at the White Lion
 description: Recent blitz games played in White Lion between Angus French and Pavel Hladik
-layout: default
+layout: post
 ---
 
 Many games are played at White Lion every Wednesday and very few are ever recorded. Following two games between club members Angus French and 
