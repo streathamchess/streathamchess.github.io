@@ -6,9 +6,9 @@ layout: default
 
 Streatham & Brixton Chess Club goes back a long way. Our club was founded around 125 years ago and we are still flourishing today with more than 60 active members.
 
-We have several teams in the London Chess League which play their matches at venues in [Central London](/about/central-london.html). 
+We have several teams in the London Chess League which play their matches at venues in [Central London](/about/venues.html). 
 In addition, we have teams in the Surrey Chess League and the Croydon & District Chess League, which play their home matches at 
-Woodfield Grove in Streatham. Our venue for social chess is the [White Lion](/about/whitelion.html) bar on Streatham High Road. 
+[Woodfield Grove](/about/venues.html#woodfield-grove) in Streatham. Our venue for social chess is the [White Lion](/about/venues.html#whitelion) bar on Streatham High Road. 
 Club competitions are held at our Woodfield Grove venue.
 
 Although we don’t have a junior section, keen youngsters are welcome to join us at our White Lion Wednesday evening sessions. There are opportunities for strong juniors to play in our league teams.

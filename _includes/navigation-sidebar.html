@@ -4,13 +4,16 @@
   <li {% if current[1] == 'index.html' %} class="active" {% endif %}> 
     <a href="/index.html">Welcome</a>
   </li>  
-</ul>
-
-<ul class="nav nav-sidebar">
+  <li {% if current[1] == 'join.html' %} class="active" {% endif %}>
+    <a href="/join.html">How to join</a>
+  </li>
+  <li {% if current[1] == 'noticeboard' %} class="active" {% endif %}>
+    <a href="/noticeboard">Noticeboard</a>
+  </li>
   <li {% if current[1] == 'about' and current[2] == 'index.html' %} class="active" {% endif %}>
     <a href="/about">About us</a>
   </li>
-  <li {% if current[2] == 'central-london.html' %} class="active" {% endif %}>
+<!--   <li {% if current[2] == 'central-london.html' %} class="active" {% endif %}>
     <a href="/about/central-london.html">Chess in Central London</a>
   </li>
   <li {% if current[2] == 'woodfield-grove.html' %} class="active" {% endif %}>
@@ -18,27 +21,13 @@
   </li>
    <li {% if current[2] == 'whitelion.html' %} class="active" {% endif %}>
     <a href="/about/whitelion.html">Chess at the White Lion</a>
+  </li> -->
+  <li {% if current[2] == 'venues.html' %} class="active" {% endif %}>
+    <a href="/about/venues.html">Play venues</a>
   </li>
-</ul>
-
-<ul class="nav nav-sidebar">
-  <li {% if current[1] == 'join.html' %} class="active" {% endif %}>
-    <a href="/join.html">How to join</a>
-  </li>
-  <li {% if current[1] == 'contact.html' %} class="active" {% endif %}>
-    <a href="/contact.html">Contact us</a>
-  </li>
-  <li {% if current[1] == 'clubhistory' %} class="active" {% endif %}>
-    <a href="/clubhistory">Club history</a>
-  </li>
+  
   <li {% if current[1] == 'links.html' %} class="active" {% endif %}>
     <a href="/links.html">Links</a>
-  </li>
-</ul>	
-
-<ul class="nav nav-sidebar">
-  <li {% if current[1] == 'noticeboard' %} class="active" {% endif %}>
-    <a href="/noticeboard">Noticeboard</a>
   </li>
    <li {% if current[1] == 'members.html' %} class="active" {% endif %}>
     <a href="/members.html">Members' grades</a>
@@ -49,5 +38,10 @@
   <li {% if current[1] == 'past-results.html' %} class="active" {% endif %}>
     <a href="/past-results.html">Past results</a>
   </li>
-  
+  <li {% if current[1] == 'clubhistory' %} class="active" {% endif %}>
+    <a href="/clubhistory">Club history</a>
+  </li>
+  <li {% if current[1] == 'contact.html' %} class="active" {% endif %}>
+    <a href="/contact.html">Contact us</a>
+  </li>  
 </ul>
