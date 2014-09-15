@@ -1,5 +1,5 @@
 ---
-title: Play venues
+title: Where we play
 layout: default
 ---
 
