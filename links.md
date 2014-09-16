@@ -5,12 +5,14 @@ layout: default
 
 {% include image.html url="/assets/chessart/lavery.jpg" description="[The Chess Players](http://streathambrixtonchess.blogspot.com/2008/10/chess-in-art-xx.html), painted by John Lavery in 1929." %}
 
+[Club calendar for 2014/15]( https://www.dropbox.com/s/rgs8phtxkx3gh66/Calendar1415.pdf?dl=0 )
+
+----
+
 [Streatham & Brixton Chess Blog](http://streathambrixtonchess.blogspot.com/)
 
-[Laws of chess](http://www.zen116966.zen.co.uk/Chess/Laws%20and%20Comments%202009.pdf) <br/>
+[Laws of chess](http://www.chessarbitersassociation.co.uk/FIDE_LAWS_OF_CHESS_2014_with_comments.pdf) <br/>
 Useful account of the FIDE laws of chess, with comments by the Chess Arbiters' Association.
-
-[Club calendar for 2013/14](https://dl.dropboxusercontent.com/u/16119737/Calendar1314.pdf)
 
 [English Chess Federation](http://www.englishchess.org.uk/)
 

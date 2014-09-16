@@ -53,7 +53,7 @@ Woodfield Grove itself is one-way and can only be approached by car from Woodfie
 
 {% include image.html url="/assets/photos/wl-group-rapidplay.jpg" description="One of the rapidplay tournaments we hold for members of our White Lion chess group." %}
 
-You can play chess at the White Lion bar on Wednesday evenings throughout the year from 5.00 to 8.00 pm. 
+You can play chess at the [White Lion bar](http://whitelion.org.uk/) on Wednesday evenings throughout the year from 5.00 to 8.00 pm. 
 The White Lion is located [here](https://goo.gl/maps/rlRcp) at 232/234 Streatham High Road, SW16 1BB. We play in the main bar and also in 
 the Stables area at the rear of the premises.
 
