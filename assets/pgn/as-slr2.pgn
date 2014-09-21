@@ -1,0 +1,66 @@
+[Event "Streatham Rapidplay Rd5"]
+[Date "2014.09.20"]
+[White "AMS"]
+[Black "Hayward, A."]
+[Result "1-0"]
+[ECO "A10"]
+[PlyCount "65"]
+[TimeControl "25min+5sec"]
+
+1. c4 b6 2. e4 c5 {unusual but black can try many things against the English
+and often get away with it} 3. g3 Bb7 4. Bg2 Nc6 5. Ne2 Nd4 6. O-O g6 7.
+Nbc3
+Bg7 8. d3 h5 {aggressive and an increasingly common move in the English.
+However the aggression ended here as the pawn never moved again} 9. Nxd4
+Bxd4
+10. Ne2 Bg7 11. d4 {in some senses I had lost a tempo by playing d2-d3-d4.
+However things are not normally that clear- things have changed in the
+meantime and the game may have taken a different course, preventing d2-d4.
+Here for instance h7-h5 has been played since I played d2-d3} cxd4 12.
+Nxd4 Rc8
+13. b3 {the diagonal looks strong for black, but he hasn't got the firepower
+to exploit it, so in the meantime I will remove the rook away to create an
+empty diagonal} Nf6 {for several moves I had been hopeful of spring a common
+trap in the Hedgehog e4-e5, Bxg2, exf6 with both the g2 and g7 bishops still
+being attacked. Here the f6 knight blocks the trap with e4-e5, Ne4. It may
+still be a good continuation however for white} (13... h4 {this may have
+been more promising, certainly in a rapidplay game. I was planning on not
+getting too concerned however, trusting in my development lead}) 14. Re1
+(14. e5
+Ne4
+15. Re1 Nc5 {material loss has been averted but white has a pleasant
+position})
+14... Qc7 {defending the bishop on b7 is a way of preventing the trap after
+e4-e5 as the knight can just move away} (14... Ng4 {stopping the e4-e5
+tricks by moving the knight may have been best. White still looks better
+however and
+h7-h5 is starting to look weakening}) 15. Bf4 {however the queen is now in
+trouble} Qc5 (15... d6 16. e5 dxe5 17. Bxe5 Qd7 {I hadn't worked out what to
+do here but figured black's position is very shaky- as the computer
+confirms} 18. Nb5 Qxd1 19. Raxd1 Bxg2 20. Bxf6 Bxf6 21. Nd6+) 16. e5 {looks
+like the trap will now work} Bxg2 17. b4 {this zwischenzug is important as
+it diverts the queen away from attacking the d4 knight} (17. exf6 {the trap
+does not deliver the promised material gains- black has the last laugh as
+the d4 knight will be undefended} Bxf6 18. Kxg2 Bxd4 {black restores piece
+equality with an extra pawn to boot}) 17... Qxb4 (17... Qxc4 {staying on the
+knight but running into a bigger problem} 18. Rc1) 18. exf6 Bxf6 19. Kxg2
+Rxc4 {so I have won my piece but black has picked up three pawns and I have
+a problem with the d4 knight now} 20. Rc1 {there are other options like Nf3
+and Rb1, but this is the most flashy- the knight is defended without it
+being moved by making use of a potential back rank mate} Rxc1 (20... Bxd4
+21. Qxd4 Rxd4 22. Rc8#) (20... Rxd4 21. Rc8#) 21. Qxc1 O-O 22. Nf3 {will not
+be easy with a piece for three pawns but I have stopped the black rook
+becoming active and there are possible mating ideas involving Qh6} Qa5 23.
+Be5 Qxa2 (23... Bxe5 24. Rxe5 Qxa2 25. Qh6 {with Ng5 and mate or large
+material gain}) 24. Bxf6 exf6 25. Qc3 {the mate threats are gone but black
+is now passive and his pawns are quite weak now} Kg7 26. Ra1 Qd5 27. Rxa7
+Re8 (27... Ra8 {would have been more tenancious as black gets to develop his
+rook. Black was down to under a minute (plus 5 sec increments now however).
+White had maybe 5 minutes left}) 28. Qd4 Qxd4 { otherwise more material loss
+would occur and f7 would get attacked} 29.
+Nxd4 d5
+30. Rd7 Re5 31. f4 Re8 32. Rxd5 f5 33. Rd6 {Black lost on time here despite
+5 second increments (I had about 5 mins left). The final position would
+still require some work, but black's kingside pawns are pretty static and it
+should be just a matter of time. Indeed black with good grace here said he
+felt the position was resignable anyway} 1-0

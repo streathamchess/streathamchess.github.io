@@ -6404,3 +6404,7 @@ footer {
 		max-width: 640px;
 	}
 }
+
+.credits {
+	color: #999;
+}

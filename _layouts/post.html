@@ -4,3 +4,9 @@ layout: default
 
 {{content}}
 
+
+{% if page.author %}
+<div class="col-md-12">
+	<p class="credits">Written by {{page.author}}</p>
+</div>
+{% endif %}
