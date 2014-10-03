@@ -3,7 +3,7 @@ title: How to join
 layout: default
 ---
 
-Anyone can join our Wednesday afternoon [White Lion chess group](/about/venues.html#whitelion) and there’s nothing 
+Anyone can join our Tuesday afternoon [White Lion chess group](/about/venues.html#whitelion) and there’s nothing 
 to pay. If it’s full-on, league chess that you want, you can choose one of two membership 
 options to suit you – annual subscription or game fee. 
 As an annual subscription member you pay just half of the full subscription in your first season. 
