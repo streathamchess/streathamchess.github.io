@@ -60,7 +60,7 @@ the Stables area at the rear of the premises.
 It’s not necessary to be a paid-up member of Streatham & Brixton Chess Club to participate – everyone is welcome 
 and you won’t have to pay any subscriptions or fees. Beginners can join in, and juniors too if they are 
 accompanied by an adult. Strong players often drop by for a few games of blitz chess and several of our 
-Wednesday regulars also play for our league teams. There are rapidplay competitions and other opportunities to 
+Tuesday regulars also play for our league teams. There are rapidplay competitions and other opportunities to 
 take part in.
 
 Why not come along to one of our sessions – we’ll be delighted to see you. 
