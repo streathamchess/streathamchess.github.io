@@ -5,16 +5,12 @@ layout: default
  
 ###A tale of two clubs
 
-Streatham & Brixton Chess Club can claim to be one of London’s oldest chess clubs with a history that goes back to Victorian times.
+Streatham & Brixton Chess Club can claim to be one of London’s oldest chess clubs with a history that goes back to Victorian times - although it started out as two clubs.
 
-The club as we know it today was formed in 1946 when Streatham Chess Club merged with Brixton Chess Club. We don’t know exactly when Brixton Chess Club 
-was founded - if anyone thinks they know, we’d be very interested to hear from them! But we do know that it was in existence in 1884/85 because it won 
-the Surrey Trophy that year. The club seems to have been well established by then because it won the trophy again in each of the next two seasons. 
-In 1887 it was one of the founder members of the London Chess League.
+Brixton CC (originally called “Endeavour”) was formed in 1870 or 71. It met initially in north Brixton, and was praised in one chess magazine for its “militant activity”, playing 33 matches in one season. It won the Surrey Trophy in 1884/5, and the London League (of which it was a founder member) in 1897-8. It used various venues including Mr Muggeridge’s residence at 138, Brixton Road; Brixton Liberal Association at 322, Brixton Road; Bon Marché, the Brixton Conservatoire of Music, and Raleigh Hall, all in central Brixton. From 1908/9, and then between the wars, it met at the Prince Regent Hotel, Dulwich Road, Herne Hill. Streatham CC started a bit later in about 1890, meeting in premises Queen’s Parade, opposite Morrisons on the High Road. There is a record in the London Standard of 5 November 1894 of the two clubs playing each other (Brixton 2nd team won 5 v 3). The two clubs ran in parallel between the wars, with Streatham meeting in the White Lion, where we play friendly chess again nowadays.    
+              
 
-Streatham Chess Club was founded in 1918 and met at the White Lion Restaurant on Streatham High Road, which remained its venue for several decades. After 
-the merger, Streatham & Brixton Chess Club continued to meet there until the mid 1950s when it moved to Streatham Baths. Later venues included the 
-Bedford Park and Sultan pubs in Streatham and, more recently, the Priory Arms in Stockwell.
+The two clubs merged in 1946, and Streatham & Brixton Chess Club continued to meet at the White Lion until the mid 1950s when it moved to Streatham Baths. Later venues included the Bedford Park and Sultan pubs in Streatham and, more recently, the Priory Arms in Stockwell.
 
 {% include image.html url="/assets/chessart/Leeming-Hereford-Chess-Club.jpg" description="Portraits of the gentlemen of the Hereford Chess Society by Thomas Leeming, exhibited at the Royal Academy in 1818 and the subject of a [research project](http://streathambrixtonchess.blogspot.com/2006/10/every-picture-tells-story-index.html) by S&B club members." %}
 
