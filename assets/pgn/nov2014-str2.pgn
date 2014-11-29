@@ -1,0 +1,40 @@
+[Date "2014.11.27"]
+[White "Hladik, Pavel"]
+[Black "Staples, Daniel"]
+[Result "1-0"]
+[ECO "C00"]
+[PlyCount "89"]
+
+1. e4 e6 2. Nf3 d5 3. e5 c5 4. b4 {Wing gambit, good surprise weapon} cxb4 5.
+a3 Nc6 6. d4 Bd7 7. Bd3 f6 8. exf6 Nxf6 9. O-O Bd6 10. Re1 O-O 11. Nbd2 Qc7 12.
+Bb2 bxa3 (12... Ng4 13. h3 Bh2+ 14. Kf1 Nxf2 15. Kxf2 e5 16. dxe5 Qb6+ 17. Kf1
+(17. Re3) 17... Qg1+) 13. Bxa3 Bxa3 14. Rxa3 Nb4 15. Ne5 Nxd3 16. Rxd3 Ba4 17.
+Qa1 $1 Be8 18. c3 Bh5 19. h3 Nd7 20. Nxd7 (20. g4 Nxe5 21. Rxe5 Bg6 22. Rde3)
+20... Qxd7 21. Rde3 Rf6 22. g4 Be8 23. Nf3 a5 24. Ne5 Qd8 25. Nd3 Bd7 26. Nc5
+Qc8 27. Qb2 b5 28. g5 Rf5 29. h4 Rf4 30. h5 Rh4 31. Qe2 b4 32. Rg3 bxc3 (32...
+a4 33. h6 $14) 33. h6 Qc7 (33... g6 34. Qe5 $16) 34. hxg7 Re8 (34... e5 35.
+Nxd7 Qxd7 36. Qxe5 c2 37. g6 hxg6 38. Rc1 (38. Qg5 $15)) 35. g6 hxg6 36. Qd3
+Rh6 37. Re5 Re7 38. Qxc3 Rxg7 39. Qe3 Rgh7 40. Qd3 Rg7 41. Qa6 Qb8 42. Rb3 Qc8
+{This move was made with fallen flag, but Pavel did not spot it for few moves}
+43. Qd6 Kh7 44. Rb8 Qc6 45. Qf8 {Here white claimed flag} 1-0
+
+
+
+[Date "2014.11.21"]
+[White "Titorenko, Kostya"]
+[Black "Wood, Mike"]
+[Result "1-0"]
+[ECO "C96"]
+[PlyCount "65"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Be7 5. O-O b5 6. Bb3 d6 7. c3 Nf6 8. Re1
+O-O 9. h3 Na5 10. Bc2 c5 11. d4 cxd4 12. cxd4 Qc7 13. Nc3 Bb7 14. Bg5 Rac8 (
+14... Nc4 {Nc4 is required for black to equalize here} 15. Rc1 Nxb2 16. Qe2
+Qxc3 17. Bb3) 15. Rc1 Ne8 $4 {This is second time in the last 4 games I am
+getting very strong attack after knight move to the back rank} (15... Nc4 {is
+much better than game move}) 16. Nd5 {From now on black shows very little
+resistance} Bxd5 17. exd5 {Up to this move black used around 15 minutes for
+all the moves, but starts to use more time now} Qd7 18. Bxe7 Rxc2 19. Rxc2 Qxe7
+20. dxe5 dxe5 21. Nxe5 Qd6 22. Nc6 Nc4 23. b3 Nb6 24. Ne7+ Kh8 25. Rc6 Qd8 26.
+Qd4 Nd7 27. Rc8 Qa5 28. Ng6+ hxg6 29. Rexe8 Kg8 30. Rxf8+ Nxf8 31. d6 Qe1+ 32.
+Kh2 Qe6 33. d7 1-0
