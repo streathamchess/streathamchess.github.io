@@ -6405,6 +6405,12 @@ footer {
 	}
 }
 
+@media (min-width: 1600px) {
+	.img-auto-sized {
+		max-width: 1240px;
+	}
+}
+
 .credits {
 	color: #999;
 }
