@@ -3,7 +3,7 @@ title: Alexander Cup&#58; Massacre at Redhill Methodist Church
 layout: post
 ---
 
-Streatham managed just one point out of ten in this Monday's [Alexander Cup](http://www.scca.co.uk/comps/AL_tab.html) semifinal match against strong Redhill team, in what was even worse performance than Nigel Short's in [recent match](https://chess24.com/en/read/news/kasparov-short-the-st-louis-massacre) against Garry Kasparov.
+Streatham managed just one point out of ten in this Monday's [Alexander Cup](http://www.scca.co.uk/comps/AL_tab.html) semifinal match against strong Redhill team, in what was an even worse performance than Nigel Short's in [recent match](https://chess24.com/en/read/news/kasparov-short-the-st-louis-massacre) against Garry Kasparov.
 
 
 |Board	|Colour	|Home Player	   |Grade|	Score |Away Player	    |Grade	|Score|
@@ -25,7 +25,7 @@ Well done Robin and David for getting two positive results for Streatham.
 
 Robin managed to draw in what looked like very complicated game, despite arriving late and having to play with 33 minutes vs. 60 minutes time handicap. 
 
-Another half point was due to David's play in strange French Winawer which went 1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 dxe4 6. Qd2 ?! 
+Another half point was due to David's play in a strange French Winawer which went 1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 dxe4 6. Qd2 ?! 
 
 <br/>
 
