@@ -19,6 +19,7 @@ Streatham managed just one point out of ten in this Monday's [Alexander Cup](htt
 |9	    |B	    |Howell, Chris I   |193	 |1	(def) |		            |       |0    |
 |10	    |W	    |Dani, Tamas D     |163m |1	(def) |			        |       |0    |
 
+<br/>
 
 Well done Robin and David for getting two positive results for Streatham.
 
