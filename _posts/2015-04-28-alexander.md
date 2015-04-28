@@ -1,9 +1,9 @@
 ---
-title: Alexander Cup: Massacre at Redhill Methodist Church
+title: Alexander Cup&#58; Massacre at Redhill Methodist Church
 layout: post
 ---
 
-Streatham managed just one point out of ten in Monday's Alexander Cup semifinal match against strong Redhill team, in what was even worse performance than Nigel Short's [recent match](https://chess24.com/en/read/news/kasparov-short-the-st-louis-massacre) against Garry Kasparov.
+Streatham managed just one point out of ten in this Monday's [Alexander Cup](http://www.scca.co.uk/comps/AL_tab.html) semifinal match against strong Redhill team, in what was even worse performance than Nigel Short's in [recent match](https://chess24.com/en/read/news/kasparov-short-the-st-louis-massacre) against Garry Kasparov.
 
 
 |Board	|Colour	|Home Player	   |Grade|	Score |Away Player	    |Grade	|Score|
@@ -20,7 +20,7 @@ Streatham managed just one point out of ten in Monday's Alexander Cup semifinal 
 |10	    |W	    |Dani, Tamas D     |163m |1	(def) |			        |       |0    |
 
 
-Two positive results came from Robin and David.
+Well done Robin and David for getting two positive results for Streatham.
 
 Robin managed to draw in what looked like very complicated game, despite arriving late and having to play with 33 minutes vs. 60 minutes time handicap. 
 
@@ -33,6 +33,6 @@ Another half point was due to David's play in strange French Winawer which went 
   <p align="left" style="text-align: left;"><i>David playing drawn opposite color bishop endgame, with Taiwo and Martin in the back</i></p>
   
   <img src="/assets/alexandercup2015/alexander-ra.jpg" class="img-responsive"/>
-  <p align="left" style="text-align: left;"><i>Robin writing down strong move and Angus in deep thought</i></p>
+  <p align="left" style="text-align: left;"><i>Robin writing down his opponents move and Angus in deep thought</i></p>
 
 </div>
