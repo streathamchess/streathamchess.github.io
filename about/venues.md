@@ -15,8 +15,8 @@ that the [London Chess League](http://www.londonchess.org.uk/main.php) offers. I
 Golden Lane than we do at Woodfield Grove.
 
 We have four teams in the London Chess League – a 12-board team in Division 1, a 10-board team in Division 2, 
-a 10-board team in Division 3, and a 4-board team in the Minor division. Most matches are played at the Golden 
-Lane Community Centre, which is located here on the Barbican estate.
+an 8-board team in Division 4, and a 4-board team in the Major division. Most matches are played at the Golden 
+Lane Community Centre, which is located [here](https://www.google.co.uk/maps/place/Golden+Lane+Community+Association/@51.5225151,-0.0952356,17z/data=!3m1!4b1!4m2!3m1!1s0x48761b563a41dfa5:0xe51de4f4735ca703) on the Barbican estate.
 
 If you think you might like to play for us in the London Chess League, please contact one of our club officers.
 
