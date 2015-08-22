@@ -31,12 +31,8 @@ We get together at Woodfield Grove Tennis Club in Streatham on most Tuesday even
 
 Here we play home matches in the [Surrey League](http://www.scca.co.uk/) and the 
 [Croydon & District League](http://www.croydonchessleague.org.uk/). We have an 8-board team in 
-the top division of the Surrey League, four 4-board teams in the Croydon & District League, and we also play in 
-Surrey League's knockout competitions. Our away matches are held at various venues in South London and Surrey.
-
-We play internal club competitions at Woodfield Grove, and during the season we have occasional open evenings 
-when chess players who are thinking of joining can meet us and play some informal games. If you are interested 
-in coming along to our next open evening, please contact one of our club officers.
+the top division of the Surrey League, two 4-board teams in the Croydon & District League, and we play in 
+one of the Surrey League knockout competitions. Our away matches are held at various venues in South London and Surrey. We also play internal club competitions at Woodfield Grove.
 
 Woodfield Grove Tennis Club is located at 9 Woodfield Grove, London SW16 1LR. There's a map 
 [here](https://goo.gl/maps/IH4ra), please note the club is on the south side of the road. 
