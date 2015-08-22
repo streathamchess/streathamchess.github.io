@@ -51,9 +51,9 @@ Woodfield Grove itself is one-way and can only be approached by car from Woodfie
 
 ### Chess at Streatham Library and the White Lion
 
-{% include image.html url="/assets/photos/wl-group-rapidplay.jpg" description="One of the rapidplay tournaments we hold for members of our White Lion chess group." %}
+{% include image.html url="/assets/photos/wl-group-rapidplay.jpg" description="One of the rapidplay tournaments we hold for members of our Streatham Library and White Lion chess groups." %}
 
-You can play chess at Streatham Library every Tuesday throughout the year. We meet in the Mark Bennett Community Centre from 4.30 to 7.30 pm and players of all ages and abilities are welcome, including beginners. Children under 10 can join us between 5.00 and 6.00 but they must be accompanied by an adult. There is nothing to pay and you don't have to be a member of Streatham & Brixton Chess Club to participate.
+You can play chess at [Streatham Library](http://www.lambeth.gov.uk/places/streatham-library) every Tuesday throughout the year. Streatham Library is at 63 Streatham High Road, SW16 1PN. We meet in the Mark Bennett Community Centre from 4.30 to 7.30 pm and players of all ages and abilities are welcome, including beginners. Children under 10 can join us between 5.00 and 6.00 pm but they must be accompanied by an adult. There is nothing to pay and you don't have to be a member of Streatham & Brixton Chess Club to participate. 
 
 Strong players often drop by for a few games of blitz chess and several of our Tuesday regulars also play for our league teams. There are rapidplay competitions and other opportunities to take part in.
 
