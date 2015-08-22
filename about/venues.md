@@ -49,18 +49,16 @@ Woodfield Grove itself is one-way and can only be approached by car from Woodfie
 
 <a name="whitelion"></a>
 
-### Chess at the White Lion
+### Chess at Streatham Library and the White Lion
 
 {% include image.html url="/assets/photos/wl-group-rapidplay.jpg" description="One of the rapidplay tournaments we hold for members of our White Lion chess group." %}
 
-You can play chess at the [White Lion bar](http://whitelion.org.uk/) on Tuesday evenings throughout the year from 5.00 pm till late. 
-The White Lion is located [here](https://goo.gl/maps/rlRcp) at 232/234 Streatham High Road, SW16 1BB. We play in the main bar and also in 
-the Stables area at the rear of the premises.
+You can play chess at Streatham Library every Tuesday throughout the year. We meet in the Mark Bennett Community Centre from 4.30 to 7.30 pm and players of all ages and abilities are welcome, including beginners. Children under 10 can join us between 5.00 and 6.00 but they must be accompanied by an adult. There is nothing to pay and you don't have to be a member of Streatham & Brixton Chess Club to participate.
 
-It’s not necessary to be a paid-up member of Streatham & Brixton Chess Club to participate – everyone is welcome 
-and you won’t have to pay any subscriptions or fees. Beginners can join in, and juniors too if they are 
-accompanied by an adult. Strong players often drop by for a few games of blitz chess and several of our 
-Tuesday regulars also play for our league teams. There are rapidplay competitions and other opportunities to 
-take part in.
+Strong players often drop by for a few games of blitz chess and several of our Tuesday regulars also play for our league teams. There are rapidplay competitions and other opportunities to take part in.
 
-Why not come along to one of our sessions – we’ll be delighted to see you. 
+After 7.30 you will usually find us at the [White Lion bar](http://whitelion.org.uk/) where we often carry on playing till late. The White Lion is located [here](https://goo.gl/maps/rlRcp) at 232/234 Streatham High Road, SW16 1BB. 
+
+
+
+ 
