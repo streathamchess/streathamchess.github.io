@@ -1,0 +1,21 @@
+[Event "GM Peter Wells Simul"]
+[Site "DHSS, Caxton House, London"]
+[Date "2015.09.09"]
+[Round "?"]
+[White "GM Peter Wells"]
+[Black "Jose Dimiti"]
+[Result "1-0"]
+[TimeControl "?"]
+
+{Twenty-three boards with one win and two draws against the GM. Board 10: Engine-assisted post-game analysis. -- Jose Dimiti (Black).} 
+1. d4 d5 2. c4 Nc6 3. Nc3 dxc4 4. d5 Ne5 {I decided to take my chances with the Chigorin, and it seemed to pay off given that Black got 
+the upper-hand in the Opening.} 5. Bf4 Qd6 6. Qd4 f6 7. Nf3 Nxf3+ 8. exf3 e5 9. Qe3 Ne7 10. Bg3 Nxd5 11. Qd2 Nxc3 12. Qxc3 b5 13. Rd1 Qb4 
+14. f4 Qxc3+ 15. bxc3 e4 16. Be2 h5 ({[19] 3.27:} 16... c6 17. a4 a6 18. Ra1 Bc5 19. O-O Ke7 20. Ra2 h5 21. Bh4 Kf7 22. axb5 cxb5 23. Rfa1 Kg6 
+24. Rd2 Bg4 25. Rd5 Bb6 26. Bxg4 hxg4 27. f5+ Kf7 28. Rd6) 17. h4 f5 $2 {Clearly unnecessary since White's f-pawn was going nowhere and I needed the diagonal open for my queen-bishop.} ({[20] >=3.49:} 17... c6 18. a4 a6 19. Ra1 Bc5 20. axb5 cxb5 21. Rd1 Bb7 22. f5 Ke7 23. Bf4 Rad8 24. Rxd8 Rxd8 25. Bxh5 Rd3 26. Ke2 Rxc3 27. Bd2 Rc2) 18. Rd5 c6 {Should have really played this earlier as in the analysis.} 19. Re5+ Kf7 20. f3 Bd6 {A sense of uncertainty now gripped me as the GM offered the Exchange! Surely he must have spotted a win with his B pair?} 21. fxe4 Bxe5 22. fxe5 fxe4 23. O-O+ Ke6 $2 {Now Kg6 or Ke6, I wondered, as the GM approached my board, and then hemmed in my B. At
+this point Bg4 could've forced an exchange.} ({[17] >=4.78:} 23... Kg6 24. Bf4 Rf8 25. g3 Bg4 26. Bxg4 hxg4 27. Kf2 Kf5 28. Ke3 Rad8 
+29. Bh6+ Ke6 30. Rxf8 Rxf8 31. Bxg7 Rf3+ 32. Kxe4 Rxc3) 24. Rd1 Bd7 $2 ({[17] 3.95:} 24... Kf5 25. Kf2 Be6 26. Ke3 a5 27. Rf1+ Kg6 
+28. Kxe4 Rad8 29. Bf4 Bd5+ 30. Ke3 b4 31. g3 c5 32. Rg1 Rhe8 33. g4 b3 34. axb3 cxb3 35. gxh5+ Kf7) 25. Rd6+ Ke7 
+26. Bf4 Be8 $2 {The penultimate blunder. Bg4 was still possible, but I worried unnecessarily for the c6-pawn. This move came as I offered draw, 
+but Peter rightly declined after seeing it! Bg4 might have been something else ...} ({[16] >=2.64:} 26... Bg4 27. Bxg4 hxg4 28. Bg5+ Kf7 29. e6+ Kg6 
+30. e7+ Kf7 31. Kf2 c5 32. Rd8 Re8 33. Ke3 b4 34. Kxe4 Raxd8) 27. Bg5+ Kf8 28. e6 a5 29. Rd8 Rxd8 $4 {Sealing one's own fate!} ({[16] 1.69:} 
+29... Ra7 30. Rd4 Rh6 31. Rxe4 Rf6 32. Bxf6 gxf6 33. Kf2 Rg7 34. Bf3 Ke7 35. g3 Rg8 36. Rf4 Kxe6 37. Re4+ Kd6 38. Re1) 30. e7+ {[%playeraction resign]} 1-0

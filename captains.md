@@ -9,7 +9,7 @@ layout: default
 
 * London League 2: Antony Hall, tel 07980 550219.
 
-* London League 3: Shez Hirjee, tel 07782 346578.
+* London League 3: Kostya Titorenko, tel 07584 469584
 
 * London League 4: Jose Dimiti, tel 07706 881807
 
