@@ -3,6 +3,32 @@ title: Past results
 layout: default
 ---
 
+### 2014/15 team results
+
+
+**London Chess League Division 1:** Our first team back in Div 1 and we avoided relegation by finishing 8/12 with 4.5 match points.
+
+**London Chess League Division 2:** Second team finished 9/13, impressive result in the circumstances.
+
+**London Chess League Division 3:** Our third team struggled for players and was relegated to division 4, finished 13/13.
+
+**London Chess Minor B: ** Our forth team struggled for players and finished 6/11. 
+
+**Surrey League Division 2:** Our Surrey Beaumont Cup team had finished 2/9 and secured promotion to Division 1!
+
+**Surrey League Alexander Cup:** Lost to Redhill in semi-finals.
+
+**Surrey League Lauder Trophy:** Went out meekly in round 2.
+
+**Croydon League Division 1:** Just missed 1st place on game points, finished 2/4.
+
+**Croydon League Division 2:** In contention to the end, finished 5/8.
+
+**Bielski Cup:** Two Streatham teams took first and second place out of 10. Great result! 
+
+**... and congratulations to Richard Tillet who was our 2014/15 Player of the Year.**
+
+
 ### 2013/14 team results
 
 ### 2011/12 team results
