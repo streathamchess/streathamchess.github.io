@@ -34,13 +34,13 @@ $(document).ready(function() {
       window.open(calEvent.url, '_blank');
     },
     eventRender: function(calEvent, $event) {
-      if (calEvent.title.contains("division 4")) {
+      if (calEvent.title.indexOf("division 4") > -1) {
         $event.css('backgroundColor', '#66804C');
       }
-      if (calEvent.title.contains("division 2")) {
+      if (calEvent.title.indexOf("division 2") > -1) {
         $event.css('backgroundColor', '#660033');
       }
-      if (calEvent.title.contains("division 5")) {
+      if (calEvent.title.indexOf("division 5") > -1) {
         $event.css('backgroundColor', '#402B00');
       }
 
