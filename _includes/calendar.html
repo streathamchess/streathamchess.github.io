@@ -1,0 +1,59 @@
+<script type='text/javascript' src='/calendar_libs/jquery-1.4.4.min.js'></script>
+<script type='text/javascript' src='/calendar_libs/jquery-ui-1.8.11.custom.min.js'></script>
+
+<script type='text/javascript' src='/calendar_libs/date.js'></script>
+<script type='text/javascript' src='/calendar_libs/jquery.weekcalendar.js'></script>
+<script type='text/javascript'>
+
+$('head').append('<link rel="stylesheet" type="text/css" href="/calendar_libs/css/smoothness/jquery-ui-1.8.11.custom.css">');
+$('head').append('<link rel="stylesheet" type="text/css" href="/calendar_libs/jquery.weekcalendar.css">');
+
+var year = new Date().getFullYear();
+var month = new Date().getMonth();
+var day = new Date().getDate();
+
+
+$(document).ready(function() {
+  $('#calendar').weekCalendar({
+    data: {{ include.json }},
+    date: new Date(),
+    minDate: new Date('2015-09-01T00:00:00.000+00:00'),
+    maxDate: new Date('2016-07-01T00:00:00.000+00:00'),
+    timeslotsPerHour: 2,
+    firstDayOfWeek : 1,
+    daysToShow : 5,
+    businessHours :{start: 17, end: 24, limitDisplay: true },
+    readonly: true,
+    allowEventCreation: false,
+    allowCalEventOverlap: true,
+    overlapEventsSeparate: true,
+    height: function($calendar) {
+      return 500;
+    },
+    eventClick: function(calEvent, $event) {
+      window.open(calEvent.url, '_blank');
+    },
+    eventRender: function(calEvent, $event) {
+      if (calEvent.title.contains("division 4")) {
+        $event.css('backgroundColor', '#66804C');
+      }
+      if (calEvent.title.contains("division 2")) {
+        $event.css('backgroundColor', '#660033');
+      }
+      if (calEvent.title.contains("division 5")) {
+        $event.css('backgroundColor', '#402B00');
+      }
+
+
+      if (calEvent.end.getTime() < new Date().getTime()) {
+        $event.css('backgroundColor', '#aaa');
+        $event.find('.time').css({
+          backgroundColor: '#999',
+          border:'1px solid #888'
+        });
+      }
+    }
+  });
+});
+</script>
+<div id="calendar"></div>
