@@ -16,7 +16,7 @@ var day = new Date().getDate();
 $(document).ready(function() {
   $('#calendar').weekCalendar({
     data: {{ include.json }},
-    date: new Date(),
+    date: startDate(),
     minDate: new Date('2015-09-01T00:00:00.000+00:00'),
     maxDate: new Date('2016-07-01T00:00:00.000+00:00'),
     timeslotsPerHour: 2,
@@ -57,6 +57,16 @@ $(document).ready(function() {
   });
 });
 
+function startDate() {
+    var date = new Date();
+    if(date.getDay() === 6){
+        date.setDate(date.getDate() + 2);
+    } else if (date.getDay() === 0) {
+        date.setDate(date.getDate() + 1);
+    }
+    return date;
+}
+
 //------------- Swipe ---------------
 
 window.addEventListener('load', function(){
@@ -88,8 +98,12 @@ window.addEventListener('load', function(){
         startTime = new Date().getTime() // record time when finger first makes contact with surface
     }, false)
 
-    touchsurface.addEventListener('touchmove', function(e){
-        e.preventDefault() // prevent scrolling when inside DIV
+    touchsurface.addEventListener('touchmove', function(e) {
+        var touchobj = e.changedTouches[0]
+        dist = touchobj.pageX - startX
+        if (Math.abs(dist) > 10) {
+          e.preventDefault() // prevent scrolling when inside DIV
+        }
     }, false)
 
     touchsurface.addEventListener('touchend', function(e){
@@ -100,7 +114,7 @@ window.addEventListener('load', function(){
         var isSwipe = (elapsedTime <= allowedTime && Math.abs(dist) >= threshold && Math.abs(touchobj.pageY - startY) <= 100)
         if (isSwipe) {
           handleswipe(dist > 0)
-        }        
+        }
     }, false)
 }, false) // end window.onload
 
