@@ -838,7 +838,7 @@
             showAsSeparatedUser = options.showAsSeparateUsers && options.users && options.users.length,
             $calendarBody, $calendarTableTbody;
         // create the structure
-        $calendarBody = '<div class=\"wc-scrollable-grid\">';
+        $calendarBody = '<div class=\"wc-scrollable-grid\" id=\"calendarBody\">';
         $calendarBody += '<table class=\"wc-time-slots\">';
         $calendarBody += '<tbody>';
         $calendarBody += '</tbody>';
