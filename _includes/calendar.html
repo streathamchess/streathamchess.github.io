@@ -22,6 +22,7 @@ $(document).ready(function() {
     timeslotsPerHour: 2,
     firstDayOfWeek : 1,
     daysToShow : 5,
+    timeslotHeight: 26,
     businessHours :{start: 17, end: 24, limitDisplay: true },
     readonly: true,
     allowEventCreation: false,
@@ -55,5 +56,10 @@ $(document).ready(function() {
     }
   });
 });
+
+/*$("calendar").on("swipeleft",function(){
+  $(this).hide();
+});*/
 </script>
+
 <div id="calendar"></div>

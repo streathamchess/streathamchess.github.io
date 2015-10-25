@@ -857,14 +857,14 @@
         //set the column height
         $calendarContainer.find('.wc-full-height-column').height(options.timeslotHeight * options.timeslotsPerDay);
         //set the timeslot height
-        $calendarContainer.find('.wc-time-slot').height(options.timeslotHeight - 1); //account for border
+        $calendarContainer.find('.wc-time-slot').height(options.timeslotHeight+0.3); //account for border
         //init the time row header height
         /**
   TODO    if total height for an hour is less than 11px, there is a display problem.
           Find a way to handle it
         */
         $calendarContainer.find('.wc-time-header-cell').css({
-          height: (options.timeslotHeight * options.timeslotsPerHour) - 11,
+          height: (options.timeslotHeight * options.timeslotsPerHour),
           padding: 5
         });
         //add the user data to every impacted column
