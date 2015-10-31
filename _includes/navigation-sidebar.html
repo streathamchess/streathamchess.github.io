@@ -10,6 +10,9 @@
   <li {% if current[1] == 'noticeboard' %} class="active" {% endif %}>
     <a href="/noticeboard">Noticeboard</a>
   </li>
+  <li {% if current[1] == 'calendar' %} class="active" {% endif %}>
+    <a href="/calendar">Club calendar</a>
+  </li>
   <li {% if current[1] == 'about' and current[2] == 'index.html' %} class="active" {% endif %}>
     <a href="/about">About us</a>
   </li>
@@ -28,6 +31,9 @@
   </li>
   <li {% if current[1] == 'past-results.html' %} class="active" {% endif %}>
     <a href="/past-results.html">Past results</a>
+  </li>
+  <li {% if current[1] == 'converter.html' %} class="active" {% endif %}>
+    <a href="/converter.html">ECF/FIDE Converter</a>
   </li>
   <li {% if current[1] == 'clubhistory' %} class="active" {% endif %}>
     <a href="/clubhistory">Club history</a>

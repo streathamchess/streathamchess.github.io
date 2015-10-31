@@ -5,9 +5,6 @@ layout: default
 
 {% include image.html url="/assets/chessart/lavery.jpg" description="[The Chess Players](http://streathambrixtonchess.blogspot.com/2008/10/chess-in-art-xx.html), painted by John Lavery in 1929." %}
 
-[Club calendar for 2014/15]( https://www.dropbox.com/s/rgs8phtxkx3gh66/Calendar1415.pdf?dl=0 )
-
-----
 
 [Streatham & Brixton Chess Blog](http://streathambrixtonchess.blogspot.com/)
 

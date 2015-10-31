@@ -37,13 +37,20 @@ $(document).ready(function() {
     eventRender: function(calEvent, $event) {
       if (calEvent.title.indexOf("division 4") > -1) {
         $event.css('backgroundColor', '#66804C');
-      }
-      if (calEvent.title.indexOf("division 2") > -1) {
+      } else  if (calEvent.title.indexOf("division 2") > -1) {
         $event.css('backgroundColor', '#660033');
-      }
-      if (calEvent.title.indexOf("division 5") > -1) {
+      } else if (calEvent.title.indexOf("division 5") > -1) {
         $event.css('backgroundColor', '#402B00');
+      } else if (calEvent.title.indexOf("Croydon Chess League B") > -1) {
+        $event.css('backgroundColor', '#D1D100');
+      } else if (calEvent.title.indexOf("Croydon Rapid") > -1) {
+        $event.css('backgroundColor', '#CC7A00');
+      } else if (calEvent.title.indexOf("Croydon Chess League A") > -1) {
+        $event.css('backgroundColor', '#8D8D00');
+      } else if (calEvent.title.indexOf("Surrey") > -1) {
+        $event.css('backgroundColor', '#003399');
       }
+
 
 
       if (calEvent.end.getTime() < new Date().getTime()) {

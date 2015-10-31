@@ -1,0 +1,16 @@
+<script language="JavaScript">
+function calculateEcf(fide) {
+ecfText = document.getElementById("ecf");
+ecfText.value = Math.round((fide.value - 700) / 7.5);
+    }
+
+function calculateFide(ecf) {
+fideText = document.getElementById("fide");
+fideText.value = Math.round(ecf.value*7.5 + 700);
+    }
+</script>
+ECF Grade:
+<input type="text" id="ecf" value="" onChange="calculateFide(this)" onkeyup="calculateFide(this)">
+&nbsp;<-->&nbsp;
+FIDE Rating:
+<input type="text" id="fide" value="" onChange="calculateEcf(this)" onkeyup="calculateEcf(this)">
