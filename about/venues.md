@@ -31,7 +31,7 @@ We get together at Woodfield Grove Tennis Club in Streatham on most Tuesday even
 
 Here we play home matches in the [Surrey League](http://www.scca.co.uk/) and the 
 [Croydon & District League](http://www.croydonchessleague.org.uk/). We have an 8-board team in 
-the top division of the Surrey League, two 4-board teams in the Croydon & District League, and we play in 
+the top division of the Surrey League, three 4-board teams in the Croydon & District League, and we play in 
 one of the Surrey League knockout competitions. Our away matches are held at various venues in South London and Surrey. We also play internal club competitions at Woodfield Grove.
 
 Woodfield Grove Tennis Club is located at 9 Woodfield Grove, London SW16 1LR. There's a map 
@@ -49,11 +49,13 @@ Woodfield Grove itself is one-way and can only be approached by car from Woodfie
 
 {% include image.html url="/assets/photos/wl-group-rapidplay.jpg" description="One of the rapidplay tournaments we hold for members of our Streatham Library and White Lion chess groups." %}
 
-You can play chess at [Streatham Library](http://www.lambeth.gov.uk/places/streatham-library) every Tuesday throughout the year. Streatham Library is [here](https://www.google.co.uk/maps/place/London+SW16+1PN/@51.4317243,-0.1291294,17z/data=!3m1!4b1!4m2!3m1!1s0x487604280906fd47:0xa10f28b2b86f41a0) at 63 Streatham High Road, SW16 1PN. We meet in the Mark Bennett Community Centre from 4.30 to 7.30 pm and players of all ages and abilities are welcome, including beginners. Children under 10 can join us between 5.00 and 6.00 pm but they must be accompanied by an adult. There is nothing to pay and you don't have to be a member of Streatham & Brixton Chess Club to participate. 
+You can play chess at [Streatham Library](http://www.lambeth.gov.uk/places/streatham-library) every Tuesday throughout the year. Streatham Library is [here](https://www.google.co.uk/maps/place/London+SW16+1PN/@51.4317243,-0.1291294,17z/data=!3m1!4b1!4m2!3m1!1s0x487604280906fd47:0xa10f28b2b86f41a0) at 63 Streatham High Road, SW16 1PN. We meet in the Mark Bennett Community Centre from 4.30 to 7.30 pm and players of all ages and abilities are welcome, including beginners. We ask that children under 10 are accompanied by an adult. There is nothing to pay and you don't have to be a member of Streatham & Brixton Chess Club to participate. 
 
 Strong players often drop by for a few games of blitz chess and several of our Tuesday regulars also play for our league teams. There are rapidplay competitions and other opportunities to take part in.
 
-After 7.30 pm on a Tuesday you will usually find us at the [White Lion bar](http://whitelion.org.uk/) where we often carry on playing till late. The White Lion is located [here](https://goo.gl/maps/rlRcp) at 232/234 Streatham High Road, SW16 1BB. 
+After 7.30 pm on a Tuesday you will usually find us at the [White Lion bar](http://whitelion.org.uk/) where we often carry on playing till late. The White Lion is located [here](https://goo.gl/maps/rlRcp) at 232/234 Streatham High Road, SW16 1BB.
+
+For more information about Chess at Streatham Library visit our [website](https://sites.google.com/site/chessatstreathamlibrary/).
 
 
 
