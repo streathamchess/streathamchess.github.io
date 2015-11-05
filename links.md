@@ -8,6 +8,8 @@ layout: default
 
 [Streatham & Brixton Chess Blog](http://streathambrixtonchess.blogspot.com/)
 
+[Chess at Streatham Library](https://sites.google.com/site/chessatstreathamlibrary/)
+
 [Laws of chess](http://www.chessarbitersassociation.co.uk/FIDE_LAWS_OF_CHESS_2014_with_comments.pdf) <br/>
 Useful account of the FIDE laws of chess, with comments by the Chess Arbiters' Association.
 
