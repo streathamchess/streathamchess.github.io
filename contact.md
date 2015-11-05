@@ -8,4 +8,4 @@ layout: default
 For general enquiries about membership, please contact Angus French by [email](mailto:angus@angusf.myzen.co.uk) or telephone (020 8677 2063), 
 or Richard Tillett by [email](mailto:tillett.richard@googlemail.com) or telephone (020 7228 1526).
 
-For enquiries about the White Lion Tuesday group please contact Richard Tillett.
+For enquiries about Chess at Streatham Library please contact Richard Tillett.
