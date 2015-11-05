@@ -3,18 +3,18 @@ title: How to join
 layout: default
 ---
 
-Anyone can join our Tuesday afternoon [White Lion chess group](/about/venues.html#whitelion) and there’s nothing 
+Anyone can join our Tuesday afternoon [Streatham Library chess group](/about/venues.html#whitelion) and there’s nothing 
 to pay. If it’s full-on, league chess that you want, you can choose one of two membership 
 options to suit you – annual subscription or game fee. 
 As an annual subscription member you pay just half of the full subscription in your first season. 
 If you only want to play a few games for us the best option for you may be to pay on a game-by-game basis. 
 To play league chess you will also need to be a member of the English Chess Federation (ECF): 
-Bronze membership costs £12 for a year if you sign up online - see 
+Bronze membership costs £14 for a year if you sign up online - see 
 [here](http://www.englishchess.org.uk/?page_id=20558) for further information.
 
 {% include image.html url="/assets/chessart/boileauchess.jpg" description="[Two men playing chess](http://streathambrixtonchess.blogspot.com/2008/08/chess-in-art-xi.html) – wood sculpture by the Canadian artist Alain Boileau. " %}
 
-Subscription rates for the 2014-2015 season are:
+Subscription rates for the 2015-2016 season are:
 
 * £30 full membership.
 * £15 first year of membership.
