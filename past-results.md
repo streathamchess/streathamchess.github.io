@@ -12,7 +12,7 @@ layout: default
 
 **London Chess League Division 3:** Our third team struggled for players and was relegated to division 4, finished 13/13.
 
-**London Chess Minor B: ** Our forth team struggled for players and finished 6/11. 
+**London Chess Minor B: ** Our fourth team struggled for players and finished 6/11.
 
 **Surrey League Division 2:** Our Surrey Beaumont Cup team had finished 2/9 and secured promotion to Division 1!
 
@@ -24,12 +24,40 @@ layout: default
 
 **Croydon League Division 2:** In contention to the end, finished 5/8.
 
-**Bielski Cup:** Two Streatham teams took first and second place out of 10. Great result! 
+**Bielski Cup:** Two Streatham teams took first and second place out of 10. Great result!
 
-**... and congratulations to Richard Tillet who was our 2014/15 Player of the Year.**
+**... and congratulations to Richard Tillett who was our 2014/15 Player of the Year.**
 
 
 ### 2013/14 team results
+
+**London Chess League Division 1:** The team scored 11/12 and were clear winners of the second division. Next year we’ll be back in division 1.
+
+**London Chess League Division 2:** Our second team – also in the 2nd division – scored 7.5 and came a very creditable fourth.
+
+**London Chess League Division 3:** Our third team won the 4th division and were promoted.
+
+**London Chess Minor B:** Our fourth team, aimed at giving weaker players and newbies a chance to play competitive chess, came second of ten.
+
+**Surrey League Division 1:** A tough season. We scored 2.5/8, finishing 8/9, and were relegated.
+
+**Surrey League Alexander Cup:** After a win against Battersea we lost narrowly to the eventual winners, Redhill.
+
+**Surrey League Lauder Trophy:** We won!  After overcoming Wallington and then Guildford, we beat Crystal Palace in the final.
+
+**Croydon League Division 1:** We scored 3.5/6 and came 2/4.
+
+**Croydon League Division 2:** After winning the division the previous season, this year we came last with 0/5. Ugh!
+
+**Croydon League Division 3:** We won the division 3 title, the Dave Luckin Trophy, with 7 points from 8.
+
+**Croydon League Rapidplay Division:** in the inaugural year of the competition we won with 3 points from 4 matches.
+
+**Bielski Cup:** We didn’t enter due to a fixture clash :(.
+
+**Trost Trophy:** A good compliment of S&BCC players participated. And Martin Smith won!
+
+**... and congratulations to Paul Ritchie who was our 2013/14 Player of the Year.**
 
 ### 2011/12 team results
 
@@ -109,4 +137,3 @@ layout: default
 **Croydon League Division 3:** Well done Mel Rabain and his team, who won the David Luckin Cup with a 5.5 points from 7, edging out West Wickham's A team on game points.
 
 **... and congratulations to Adam Fysh-Foskett who was our 2008/09 Player of the Year.**
-
