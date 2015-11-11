@@ -1,0 +1,28 @@
+
+<span style="min-width: 60px; display:inline-block;">Blacks:</span>
+<input type="number" id="blacks" value="25" onchange="calculate()" onkeyup="calculate()">
+<br/>
+<span style="min-width: 60px; display:inline-block;">Total:</span>
+<input type="number" id="total" value="50" onchange="calculate()" onkeyup="calculate()">
+<br/>
+______
+
+
+Probability of having <span id="r_blacks">25</span> or more black games out of
+<span id="r_total">25</span> games is&nbsp;<span id="result">0</span>%
+
+
+
+<script src="/js/calc.js"></script>
+
+<script language="JavaScript">
+  function calculate() {
+    blacks = document.getElementById("blacks").value;
+    total = document.getElementById("total").value;
+    p = probSum(parseInt(total), parseInt(blacks)) * 100.0;
+    document.getElementById("r_blacks").innerHTML = blacks;
+    document.getElementById("r_total").innerHTML = total;
+    document.getElementById("result").innerHTML = p.toFixed(6);
+  }
+  calculate();
+</script>
