@@ -7,5 +7,3 @@ jq_disable: true
 {% include calendar.html json="'/assets/calendar2015.json'" %}
 
 [Master calendar (PDF)](/assets/calendar2015.pdf)
-
-[Import calendar (ICS)](/assets/calendar2015.ics)
