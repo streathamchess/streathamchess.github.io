@@ -1,10 +1,10 @@
 ---
-title: Noticeboard
+title: News and games
 layout: default
 ---
 <ul>
 {% for post in site.posts %}
-  
+
     <li>
     	<h4><a href="{{ post.url }}">{{ post.title }}</a>  &nbsp; <small>{{ post.date | date_to_long_string }}</small></h4>
     	<p>
@@ -14,6 +14,6 @@ layout: default
 
     	</p>
     </li>
-  
+
 {% endfor %}
 </ul>
