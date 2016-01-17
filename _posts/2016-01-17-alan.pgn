@@ -1,0 +1,14 @@
+---
+title: Alan Romeril wins vs. DHSS player
+author: Alan Romeril
+layout: post
+---
+My opponent resigned before his 33rd move with about 3 minutes left before time control
+in a position that would have been tricky to do anything with.  He had weakened his
+king with f6, g6 and f5 whereas my king was quite a lot safer so I exchanged most
+pieces and kept the queens on and planned to harass his king and mop some pawns
+up whilst my king was tucked away from checks.
+
+<br/>
+
+{% include pgn.html url="/assets/pgn/alan-jan-2016.pgn" %}
