@@ -1168,7 +1168,7 @@ function CheckLegalityPawn(thisPawn) {
 
 function RookForOOCastling(color) {
   if (CastlingShort[color] < 0) { return null; }
-  if (PieceMoveCounter[color][0] > 0) { return null; }
+  //if (PieceMoveCounter[color][0] > 0) { return null; }
 
   var legal = false;
   for (var thisRook = 0; thisRook < 16; thisRook++) {
@@ -1181,7 +1181,7 @@ function RookForOOCastling(color) {
     }
   }
   if (!legal) { return null; }
-  if (PieceMoveCounter[color][thisRook] > 0) { return null; }
+  //if (PieceMoveCounter[color][thisRook] > 0) { return null; }
 
   return thisRook;
 }
@@ -4131,4 +4131,3 @@ function simpleHtmlentities(text) {
 function simpleHtmlentitiesDecode(text) {
   return text.replace(/&gt;/g, ">").replace(/&lt;/g, "<").replace(/&amp;/g, "&");
 }
-
