@@ -41,7 +41,7 @@ jq_disable: true
   var commentPrompt = "Your comment..."
 
   var myDataRef = new Firebase(firebaseUrl+"/"+escapeUrlSuffix("{{page.url}}"));
-
+	
   myDataRef.on('child_added', function(snapshot) {
     var message = snapshot.val();
     if (message.name) {
@@ -109,7 +109,7 @@ jq_disable: true
   };
 
   function escapeUrlSuffix(suffix) {
-    return suffix.replace(/./g, "");
+    return suffix.replace(/\./g, "");
   };
 
 </script>
