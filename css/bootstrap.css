@@ -6321,7 +6321,7 @@ footer {
  */
 @media screen and (max-width: 768px) {
 
-  
+
   .row-offcanvas {
     position: relative;
     -webkit-transition: all 0.25s ease-out;
@@ -6383,7 +6383,7 @@ footer {
 }
 .main .page-header {
   margin-top: 0;
-} 
+}
 
 /*
   Image sizing
@@ -6413,4 +6413,43 @@ footer {
 
 .credits {
 	color: #999;
+}
+
+.commentText {
+  font-size: 12px;
+}
+
+.commentHeader {
+  font-weight: 600;
+}
+
+.inputbox_noauth {
+    background: #eee none repeat scroll 0 0;
+    box-shadow: 0 1px 4px 1px #d8d8d8 inset;
+    box-sizing: border-box;
+    color: #666;
+    display: none;
+    font-size: 12px;
+    height: 80px;
+    line-height: 16px;
+    margin: 0;
+    outline: medium none;
+    padding: 10px 10px 5px 8px;
+    width: 100%;
+}
+
+.inputbox_input {
+    background: #eee none repeat scroll 0 0;
+    border: medium none;
+    box-shadow: 0 1px 4px 1px #d8d8d8 inset;
+    box-sizing: border-box;    
+    font-size: 12px;
+    height: 80px;
+    line-height: 16px;
+    margin: 0;
+    outline: medium none;
+    padding: 5px 10px 5px 8px;
+    position: relative;
+    width: 100%;
+    z-index: 2;
 }

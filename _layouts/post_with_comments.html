@@ -1,0 +1,115 @@
+---
+layout: default
+jq_disable: true
+---
+{{content}}
+
+{% if page.author %}
+<div class="col-md-12" style="margin-top:12px;">
+	<p class="credits">Written by {{page.author}}</p>
+</div>
+{% endif %}
+
+
+<div class="col-md-12" style="margin-top:12px;">
+
+  <div id="loginToLeaveComments">
+    <a id="loginRef" href="">Login with Google</a> to leave a comment
+    <textarea disabled="true" style="display: block;" class="inputbox_noauth"></textarea>
+  </div>
+  <div id="loggedInForComments" hidden="true">
+    <p>You are logged in as <span id="loginName" style="font-weight: bold;"></span></p>
+    <textarea id="commentArea" style="display: block;" class="inputbox_input"></textarea>
+    <div id="commentButtons">
+      <input id="submitComment" type="submit" value="Add comment" style="margin-top: 5px;">
+      <input id="cancelComment" type="submit" value="Cancel" style="margin-left: 15px;">
+    </div>
+  </div>
+
+ <br/>
+
+  <span id="comments-caption">Comments - </span><span id="commentsCount">0</span>
+  <div id='messagesContainer'> </div>
+</div>
+
+
+<script src="/js/jquery.min.js"></script>
+<script src='https://cdn.firebase.com/js/client/2.2.1/firebase.js'></script>
+
+<script>
+  var firebaseUrl='https://luminous-heat-1891.firebaseio.com';
+  var commentPrompt = "Your comment..."
+
+  var myDataRef = new Firebase(firebaseUrl+"/"+escapeUrlSuffix("{{page.url}}"));
+
+  myDataRef.on('child_added', function(snapshot) {
+    var message = snapshot.val();
+    if (message.name) {
+      displayChatMessage(message.name, message.text);
+      var count = $('#commentsCount').text();
+      $('#commentsCount').text(+count+1);
+    }
+  });
+
+
+  var rootRef = new Firebase(firebaseUrl);
+  var auth = rootRef.getAuth()
+
+  if (auth != null) {
+    $('#loggedInForComments').show();
+    $('#loginToLeaveComments').hide();
+    $('#loginName').text(auth.google.displayName)
+  } else {
+    $('#loggedInForComments').hide();
+    $('#loginToLeaveComments').show();
+  }
+
+  $('#submitComment').click(function (e) {
+    var name = auth.google.displayName;
+    var text = $('#commentArea').val();
+    if (text.length > 1) {
+      myDataRef.push({name: name, text: text});
+    }
+    initComments(false);
+  });
+
+  $('#cancelComment').click(function (e) {
+    initComments(false);
+  });
+
+  initComments(false);
+
+  $('#commentArea').click(function (e) {
+    var txt = $('#commentArea').val();
+    if (txt == commentPrompt) {
+      initComments(true);
+    };
+  });
+
+  $('#loginRef').click(function() {
+    rootRef.authWithOAuthPopup("google", function(error, authData) {
+
+    });
+    return false;
+  });
+
+  function initComments(show) {
+    if (show) {
+      $('#commentArea').val('');
+      $('#commentButtons').show();
+    } else {
+      $('#commentArea').val(commentPrompt);
+      $('#commentButtons').hide();
+    }
+  }
+
+  function displayChatMessage(name, text) {
+    $('<div class="commentText"/>').text(text).prepend($('<div class="commentHeader"/>').text(name)).prepend($('<hr/>')).appendTo($('#messagesContainer'));
+    $('#messagesContainer')[0].scrollTop = $('#messagesContainer')[0].scrollHeight;
+  };
+
+  function escapeUrlSuffix(suffix) {
+    return suffix.replace(/./g, "");
+  };
+
+</script>

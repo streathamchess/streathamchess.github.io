@@ -6,22 +6,20 @@
 	SetPgnUrl("{{ include.url }}");
 	SetImagePath("/assets/pgn4web-images/alpha/48");
     SetImageType("png");
-    SetShortcutKeysEnabled(true);
+    SetShortcutKeysEnabled(false);
     SetHighlightOption(false);
     SetCommentsIntoMoveText(true);
-    SetGameSelectorOptions("Select game...", false, 0, 0, 0, 15, 15, 0, 0); 
+    SetGameSelectorOptions("Select game...", false, 0, 0, 0, 15, 15, 0, 0);
 </script>
 
 <div class="col-sm-4 col-md-4" style="width: 260px;">
 	<div id="GameSelector"></div>
 	<p></p>
-	<div id="GameBoard"></div>	
+	<div id="GameBoard"></div>
 	<p></p>
 	<div id="GameButtons"></div>
 </div>
 <div class="col-sm-7 col-md-8">
 	<b><span id="GameWhite"></span>&nbsp;-&nbsp;<span id="GameBlack"></span>&nbsp;&nbsp;<span id="GameResult"></span></b>
-	<div id="GameText"></div> 
+	<div id="GameText"></div>
 </div>
-
-
