@@ -1,7 +1,7 @@
  {% assign current = page.url | downcase | split: '/' %}
 
  <ul class="nav nav-sidebar">
-  <li {% if current[1] == 'index.html' %} class="active" {% endif %}>
+  <li {% if current[1] == null %} class="active" {% endif %}>
     <a href="/index.html">Welcome</a>
   </li>
   <li {% if current[1] == 'join.html' %} class="active" {% endif %}>
@@ -13,7 +13,7 @@
   <li {% if current[1] == 'calendar' %} class="active" {% endif %}>
     <a href="/calendar">Club calendar</a>
   </li>
-  <li {% if current[1] == 'about' and current[2] == 'index.html' %} class="active" {% endif %}>
+  <li {% if current[1] == 'about' and current[2] == null %} class="active" {% endif %}>
     <a href="/about">About us</a>
   </li>
   <li {% if current[2] == 'venues.html' %} class="active" {% endif %}>

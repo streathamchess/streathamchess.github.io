@@ -3,3 +3,5 @@ shortname: "S&BCC"
 url: "http://streathamchess.github.io"
 exclude: ["Gemfile"]
 markdown: rdiscount
+gems:
+  - jekyll-sitemap
