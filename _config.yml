@@ -1,7 +1,10 @@
 name: "Streatham & Brixton Chess Club"
 shortname: "S&BCC"
 url: "http://streathamchess.github.io"
-exclude: ["Gemfile"]
+exclude:
+  - Gemfile
+  - README.md
+  - .scripts
 markdown: kramdown
 gems:
   - jekyll-sitemap
