@@ -1,3 +1,3 @@
 Streatham & Brixton Chess Club Website
 
-Generated with Jekyll
+[Live Website](http://streathamchess.org.uk)
