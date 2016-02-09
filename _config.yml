@@ -5,3 +5,6 @@ exclude:
   - Gemfile
   - README.md
   - .scripts
+markdown: kramdown
+gems:
+  - jekyll-sitemap
