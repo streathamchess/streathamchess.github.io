@@ -6442,7 +6442,7 @@ footer {
     background: #eee none repeat scroll 0 0;
     border: medium none;
     box-shadow: 0 1px 4px 1px #d8d8d8 inset;
-    box-sizing: border-box;    
+    box-sizing: border-box;
     font-size: 12px;
     height: 80px;
     line-height: 16px;
@@ -6452,4 +6452,19 @@ footer {
     position: relative;
     width: 100%;
     z-index: 2;
+}
+
+.tablesorter {
+  width: 100%;
+}
+
+/*.tablesorter > tbody > tr:nth-child(odd) > td,
+.tablesorter > tbody > tr:nth-child(odd) > th {
+  background-color: #f9f9f9;
+}*/
+
+
+.tablesorter > tbody > tr:hover > td,
+.tablesorter > tbody > tr:hover > th {
+  background-color: #f5f5f5;
 }
