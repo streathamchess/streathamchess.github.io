@@ -64,10 +64,12 @@
 
 	<footer> {% include footer.html %} </footer>
 
-	{% if page.jq_disable != true %}
-	<script src="/js/jquery.min.js"></script>
-	{% endif %}
+	{% if page.jq_disable == true %}
 	<script src="/js/bootstrap.min.js"></script>
+	{% else  %}
+	<script src="/js/combined.js"></script>
+	{% endif %}
+
 	<script type="text/javascript">
 		$(document).ready(function() {
 			$('[data-toggle=offcanvas]').click(function() {
