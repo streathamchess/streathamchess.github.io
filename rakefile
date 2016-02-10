@@ -1,0 +1,44 @@
+require 'net/http'
+require 'uri'
+
+directory "_includes/build"
+directory "build/js"
+directory "build/css"
+
+task :createDirs => ["_includes/build", "build/js", "build/css"]
+
+task :clean => :createDirs do
+  FileUtils.rm_rf(Dir.glob('_includes/build/*'))
+  FileUtils.rm_rf(Dir.glob('build/js/*'))
+  FileUtils.rm_rf(Dir.glob('build/css/*'))
+end
+
+task :generateResources => :clean do
+  save("_includes/build/currentlistversion.html", getCurrentGradingListName)
+  save("_includes/build/currentlist.html", getMemberListTable)
+end
+
+task :watch => :generateResources do
+  sh 'jekyll serve --watch'
+end
+
+task :default => :generateResources
+
+### Helper functions #####
+
+def getCurrentGradingListName
+  content = Net::HTTP.get(URI.parse('http://ecfgrading.org.uk/new/menu.php'))
+  content[/>.* 20\d\d List</][1..-2]
+end
+
+def getMemberListTable
+  content = Net::HTTP.get(URI.parse('http://www.ecfgrading.org.uk/new/glist.php?Code=7152'))
+  table = content[/<table.{500,}<\/table>/m]
+  table.gsub 'colspan=2', 'colspan="2"'
+end
+
+def save(fileName, text)
+  File.open(fileName, 'w') { |file| file.write(text) }
+end
+
+##git add --all _includes/generated
