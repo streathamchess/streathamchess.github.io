@@ -3,9 +3,18 @@ shortname: "S&BCC"
 url: "http://streathamchess.github.io"
 exclude:
   - Gemfile
-  - README.md  
+  - README.md
   - .notes
   - rakefile
 markdown: kramdown
 gems:
   - jekyll-sitemap
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post_with_comments"
+      jq_disable: true
+      firebase: true

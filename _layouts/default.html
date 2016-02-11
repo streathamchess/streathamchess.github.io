@@ -12,6 +12,11 @@
 <meta name="keywords" content="chess, chess club, club, streatham, brixton, tooting, london, south london">
 
 <link href="/css/bootstrap.css" rel="stylesheet">
+{% if page.firebase == true %}
+<script src='https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js'></script>
+<script src="https://cdn.firebase.com/js/client/2.4.0/firebase.js"></script>
+{% endif %}
+
 <!--[if lt IE 9]>
     <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]-->
@@ -60,7 +65,6 @@
 
 		</div>
 	</div>
-
 
 	<footer> {% include footer.html %} </footer>
 

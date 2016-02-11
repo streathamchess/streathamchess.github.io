@@ -1,8 +1,7 @@
 ---
-title: Streatham Library Rapidplay game 
+title: Streatham Library Rapidplay game
 description: SLR2 game by Andrew Stone, tournament winner
 author: Andrew Stone
-layout: post
 ---
 Here is my Round 5 win against Alan. I was pleased with this effort for a
 rapidplay game, especially my moves 17 and 20. 17 b4 was necessary to make

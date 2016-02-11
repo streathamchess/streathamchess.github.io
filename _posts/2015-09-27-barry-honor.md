@@ -1,6 +1,5 @@
 ---
 title: Barry Blackburn awarded with Honorary Life Membership
-layout: post
 ---
 
 Streatham and Brixton Chess Club awarded Barry Blackburn with Honorary Life Membership for services to the club over 40 years
@@ -12,4 +11,3 @@ Streatham and Brixton Chess Club awarded Barry Blackburn with Honorary Life Memb
 <div class="img-auto-sized" style="float: left; padding-right: 10px; margin-top: -20px;" align="left">  
   <img src="/assets/photos/barry-honor.jpg" class="img-responsive"/>
 </div>
-

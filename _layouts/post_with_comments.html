@@ -1,7 +1,7 @@
 ---
 layout: default
-jq_disable: true
 ---
+
 {{content}}
 
 {% if page.author %}
@@ -18,7 +18,10 @@ jq_disable: true
     <textarea disabled="true" style="display: block;" class="inputbox_noauth"></textarea>
   </div>
   <div id="loggedInForComments" hidden="true">
-    <p>You are logged in as <span id="loginName" style="font-weight: bold;"></span></p>
+    <p>
+			You are logged in as <span id="loginName" style="font-weight: bold;"></span>.
+			Click <a id="logout" href="">here</a> to logout.
+		</p>
     <textarea id="commentArea" style="display: block;" class="inputbox_input"></textarea>
     <div id="commentButtons">
       <input id="submitComment" type="submit" value="Add comment" style="margin-top: 5px;">
@@ -32,9 +35,6 @@ jq_disable: true
   <div id='messagesContainer'> </div>
 </div>
 
-
-<script src="/js/jquery.min.js"></script>
-<script src='https://cdn.firebase.com/js/client/2.2.1/firebase.js'></script>
 
 <script>
   var firebaseUrl='https://luminous-heat-1891.firebaseio.com';
@@ -68,7 +68,7 @@ jq_disable: true
     var name = getName(auth);
     var text = $('#commentArea').val();
     if (text.length > 1) {
-      myDataRef.push({userid: auth.uid, name: name, text: text});
+      myDataRef.push({userid: auth.uid, name: name, text: text, ts: Firebase.ServerValue.TIMESTAMP});
     }
     initComments(false);
   });
@@ -99,6 +99,11 @@ jq_disable: true
     });
     return false;
   });
+
+  $('#logout').click(function() {
+		rootRef.unauth();
+	});
+
 
 	function getName(authData) {
   	switch(authData.provider) {
