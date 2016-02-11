@@ -14,7 +14,7 @@ jq_disable: true
 <div class="col-md-12" style="margin-top:12px;">
 
   <div id="loginToLeaveComments">
-    <a id="loginRef" href="">Login with Google</a> to leave a comment
+    Login with <a id="loginRefGoogle" href="">Google</a> or <a id="loginRefFacebook" href="">Facebook</a> to leave a comment
     <textarea disabled="true" style="display: block;" class="inputbox_noauth"></textarea>
   </div>
   <div id="loggedInForComments" hidden="true">
@@ -41,7 +41,7 @@ jq_disable: true
   var commentPrompt = "Your comment..."
 
   var myDataRef = new Firebase(firebaseUrl+"/"+escapeUrlSuffix("{{page.url}}"));
-	
+
   myDataRef.on('child_added', function(snapshot) {
     var message = snapshot.val();
     if (message.name) {
@@ -58,17 +58,17 @@ jq_disable: true
   if (auth != null) {
     $('#loggedInForComments').show();
     $('#loginToLeaveComments').hide();
-    $('#loginName').text(auth.google.displayName)
+    $('#loginName').text(getName(auth))
   } else {
     $('#loggedInForComments').hide();
     $('#loginToLeaveComments').show();
   }
 
   $('#submitComment').click(function (e) {
-    var name = auth.google.displayName;
+    var name = getName(auth);
     var text = $('#commentArea').val();
     if (text.length > 1) {
-      myDataRef.push({name: name, text: text});
+      myDataRef.push({userid: auth.uid, name: name, text: text});
     }
     initComments(false);
   });
@@ -86,12 +86,28 @@ jq_disable: true
     };
   });
 
-  $('#loginRef').click(function() {
+  $('#loginRefGoogle').click(function() {
     rootRef.authWithOAuthPopup("google", function(error, authData) {
 			location.reload();
     });
     return false;
   });
+
+	$('#loginRefFacebook').click(function() {
+    rootRef.authWithOAuthPopup("facebook", function(error, authData) {
+			location.reload();
+    });
+    return false;
+  });
+
+	function getName(authData) {
+  	switch(authData.provider) {
+      case 'google':
+        return auth.google.displayName;
+      case 'facebook':
+        return authData.facebook.displayName;
+    }
+  }
 
   function initComments(show) {
     if (show) {
