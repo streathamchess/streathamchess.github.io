@@ -1,5 +1,5 @@
 ---
-title:  Computers – dont you love them&#58; adjournment introspections.
+title:  Computers – don't you love them&#58; adjournment introspections
 author: Martin Smith
 ---
 This is the story of my adjournment versus the very pleasant and correct Chris Baker of Richmond
