@@ -6417,6 +6417,7 @@ footer {
 
 .commentHeader {
   font-weight: 600;
+  margin-bottom: 8px;
 }
 
 .inputbox_noauth {
