@@ -1,0 +1,17 @@
+[Event "Surrey league: South Norwood vs. Streatham"]
+[Site "South Norwood"]
+[Date "2016.03.17"]
+[Round ""]
+[White "Spearman, David"]
+[Black "Bennett, John"]
+[Result "0-1"]
+[EventDate "2016.03.17"]
+
+1.d4 {The Leningrad Dutch is a hybrid opening - a cross between the Kings Indian Defence and the Dutch. Although it has been played regularly by Nakamura and Mikael Gurevich, its main exponent is Malaniuk - a 2600-Grandmaster from the Ukraine. Carlsen has tried it too - even against such a strong oponent as the Armenian grandmaster Aronian. Nevetheless its reputation is somewhat dubious and it's attracted comments such as "if Black can survive the first ten or so moves then he may have decent chances" or "to play such an opening, Black must get used to playing bad positions". To a large extent it is an opening played by feel; it doesn't usually require a good memory of theory. In Streatham's encounter with South Norwood in the Surrey Trophy league this year, I employed it as Black against David Spearman (grade 188) and this is the game.
+} 1...f5 {Provocative. Black's move is tantamount to rejecting any draw offer. He is inviting White to try to smash him off the board by such means as 2) Bg5 or 2) e4 or even 2) g4.} 2.c4 Nf6 3.Nc3 d6 {By playing d6 before g6, Black reserves the option of transposing back into the Classical Dutch via e6 and then Be7. Also White cannot realistically play an early h4.} 4.Bg5 Nbd7 5.Qc2 g6 {We are now headed for a Leningrad Dutch. The variation White plays is certainly no worse for him than the more popular lines in which he finachettos his white-squared bishop.} 6.e4 {This has been played before - in Mamedyarov vs Bacrot, Geneva 2013 (see http://www.chessib.com/mamedyarov-bacrot-gm-2013.html). }
+    ( 6.O-O-O {is probably best.} )
+6...fxe4 7.Nxe4 Bg7 8.Nf3 O-O 9.Be2 Nxe4 10.Qxe4 Nf6 11.Qh4 c5 12.dxc5 Qa5+ 13.Bd2 Qxc5 14.O-O {Diagram 1} 14...e5! {The reason this is good is because it gives Black control of the key central square d4, denying White the opportunity of placing a piece there. Black's aim is to control squares, he is not interested in having a mobile centre.} 15.a3 Bf5 16.Bb4 Qc7 17.Rad1 Rad8 18.Qg5 {White admits his Kingside excursion was a waste of time.} 18...a5 {Sadly this is necessary to prevent White from building pressure against d6 with Qd2.} 19.Be1 {Diagram 2} 19...Nh5! {The knight heads for f4.} 20.Qd2 {If instead} 
+    ( 20.g4 Nf4 {threatening to win White's queen.} )
+20...Nf4 21.Nh4 Be6 {In many positions in the Leningrad, e6 is the best square for bishop but often Black plays Bf5 to tempt White into chasing the bishop back to its best square.} 22.Rc1? Qe7 23.g3 Bh6 {Ouch!} 24.Kh1 Nxe2 {The easiest way to win but there are others} 25.Qxh6 Nxc1 26.Qxc1
+    ( 26.Nxg6 {is met by} 26...Qf6 )
+26...Qf7 27.Bxa5 Rc8 28.b3 b5 29.Qd2 bxc4 30.bxc4 Bxc4 31.Re1 Qd5+ {It was agreed at the outset that the game would be decided on adjudication so this move is the most efficent and gives White no hope of cheap tricks.} 32.Qxd5+ Bxd5+ 33.Kg1 g5 34.Ng2 Bxg2! {Same theme - simplify.} 35.Kxg2 Rc2 36.Bb6 Kf7 37.a4 Ke6 38.a5 Ra2 {White has no counterplay.} 39.Rc1 Rf7! {The idea for Black here is to play Rd7, h6 and then march the d6 pawn. White resigned.} 0-1
