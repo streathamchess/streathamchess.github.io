@@ -38,7 +38,7 @@ Drake J.H.E, & Elwell R.G.W, Le-Surf D.A, Lester M.J, McMinn A.J - all appear on
 Johannes R.L. - “congratulations on winning the Under 16 Title” in the London Junior Championships (No 1 Jan 66).  
 Keene RD - well known GM, chess author and entrepreneur. “Congratulations… for his fine performance in winning the [Hastings Congress Christmas 1965/66] Challengers Trophy” (No 1 Jan 1966).  
 Manning F.C. - for many years active in Surrey chess, sadly died a few years back.  
-Morriss P.R. - had an essay in “Philosophy and Chess” discussed on the Streatham and Brixton Chess Blog here.  
+Morriss P.R. - had an essay in “Philosophy and Chess” discussed on the Streatham and Brixton Chess Blog [here](http://www.streathambrixtonchess.blogspot.co.uk/2014/01/lots-to-do-with-chess-after-all.html#more).  
 Williams C.E. – reported No 12 August 67 as the new President of the Surrey CCA.  
 
 In addition the following also appear in the Newsletter:
