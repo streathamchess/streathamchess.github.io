@@ -1,0 +1,19 @@
+[Event "LCL Div1 Streatham vs. Hackney"]
+[Date "2016.04.18"]
+[White "Jeremy Leake"]
+[Black "Richard Bates"]
+[Result "1-0"]
+
+1. Nf3 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. d4 d6 6. Nc3 Nbd7 7. O-O e5 8. e4 ed4
+9. Nd4 a6 {The Gallagher variation, though I wasn't aware at the time!  A more accurate move order for Black is} (9...Re8 10. h3 a6) {because in the game White can get by without h3 in some lines}
+10. h3 Re8 11. Rb1 {unnecessary - should play} (11. b3) {or} (11. Be3){, though Black has counterplay in both lines} 11...Rb8 12.b3 c5 13. Nde2 ({better is} 13. Nc2) b5!
+14. cb5 ab5 15. Bf4 (15. b4 {is playable too, but my move creates an imbalanced position which is what I was aiming for}) 15...b4 16. Bd6 bc3
+17. Bb8 c2 {avoids exchange of queens} 18. Qc2 Nb8 {Stockfish gives this position as equal} 19. Nf4 ({better is} 19. Rbd1 Qb6 20 f4! {which looks weakening but it restricts Black, frees the bishop on g2 with a later
+e5 and White can put the king on h2}) 19...Qe7 20. Rfe1 Nbd7 (20.....Nc6 {and Black is slightly better after} 21. Rbc1 Nfd7 22. Nd5 Qd8) 21. Rbc1 Ba6
+22. e5?! ({a bit rash}  22. Qd2 {and White is more than fine}) 22...Ne5 23. Kh1? ({White should play} 23. Re3 {with counterplay}) 23...g5! 24. Nd5 Nd5 25. Bd5 Qd7
+26. Bg2 Nd3? ({tempting but wrong,} 26...Bb7 {and White is in a difficult position}) 27. Re8 Qe8 28. Rd1 Qd7 ?! ({Black is in time trouble and should play} 28....Bd4! {with approx equality according to Stockfish after}
+29. Rd3 Qe1+ 30. Kh2 Bd3 31. Qd3 Qf2 32. Qd1 Qa2 33. h4 {though it's a bit grovelling})
+29. Kh2 {White is now better} Nb4? {time trouble error, there has been a turn of events and Black now needs to head for opposite colour bishops to seek a draw with} (29...Bd4) {according to Stockfish}
+30. Rd7 Nc2 31. Bd5 {White now much better and maybe a forced win according to Stockfish} Bd4 32. Bf7+ ({more accurate is} 32. a4 {first}) 32....Kh8 (Kf8 {is better but still probably lost according to Stockfish})
+33. a4! Bc3 {the rest is not quite accurate play by White as Black could have made things slightly more difficult than he did, but good enough according to Stockfish}
+34. Ra7 Bd3 35. a5 Be4 36. Re7 Bd3 37. Rd7 Bb5 38. Rc7 Bd3 39. Rc5 Nd4 40. Bc4 Bc4 41. bc4 Bb4 42. Rd5 Bc3 43. c5 Kg7 44. c6 Nc6 45. Rg5+ Kf7 46. Rc5 Bd4 47. Rc6 {1-0}
