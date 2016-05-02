@@ -16,4 +16,6 @@ e5 and White can put the king on h2}) 19...Qe7 20. Rfe1 Nbd7 (20.....Nc6 {and Bl
 29. Kh2 {White is now better} Nb4? {time trouble error, there has been a turn of events and Black now needs to head for opposite colour bishops to seek a draw with} (29...Bd4) {according to Stockfish}
 30. Rd7 Nc2 31. Bd5 {White now much better and maybe a forced win according to Stockfish} Bd4 32. Bf7+ ({more accurate is} 32. a4 {first}) 32....Kh8 (Kf8 {is better but still probably lost according to Stockfish})
 33. a4! Bc3 {the rest is not quite accurate play by White as Black could have made things slightly more difficult than he did, but good enough according to Stockfish}
-34. Ra7 Bd3 35. a5 Be4 36. Re7 Bd3 37. Rd7 Bb5 38. Rc7 Bd3 39. Rc5 Nd4 40. Bc4 Bc4 41. bc4 Bb4 42. Rd5 Bc3 43. c5 Kg7 44. c6 Nc6 45. Rg5+ Kf7 46. Rc5 Bd4 47. Rc6 {1-0}
+34. Ra7 Bd3 35. a5 Be4 36. Re7 Bd3 37. Rd7 Bb5
+38. Rc7 Ba5 39 Rc5 Nd4 40. Bc4 Bc4 41. bc4 Bb4 42. Rd5 Bc3 43. c5 Kg7 44. c6 Nc6 45. Rg5+ Kf7 46. Rc5 Bd4
+47. Rc6 {1-0}
