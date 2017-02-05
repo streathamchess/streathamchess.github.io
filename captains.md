@@ -9,7 +9,7 @@ layout: default
 
 * London League 2: Antony Hall, tel 07980 550219.
 
-* London League 3: Kostya Titorenko, tel 07584 469584
+* London League 3: Nello Attianese, tel 07763 267753
 
 * London League 4: Jose Dimiti, tel 07706 881807
 
@@ -21,4 +21,6 @@ layout: default
 
 * Croydon League B: David Varley, tel 07519 928852.
 
-* Croydon League Rapidplay: Paul Ritchie, tel 07906 914526
+* Croydon League C: Alan Romeril, tel 07984 089903.
+
+* Croydon League Rapidplay: David Varley, tel 07519 928852.
