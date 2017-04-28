@@ -1,0 +1,111 @@
+[Event "Streatham 1 v Wood Green (bd 2)"]
+[Site "London League Div 1"]
+[Date "2017.04.25"]
+[White "Stone, A."]
+[Black "Fodor, T."]
+[Result "1/2-1/2"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. e3 Be7 5. d4 exd4 6. Nxd4 d6 7. Nxc6
+bxc6 8.Be2 O-O 9. O-O d5 10. b3 Be6 11. Qc2 Qb8 12. cxd5 cxd5 13. Bf3 c5 14. 
+Rd1 Rd8 15. Bb2 Qb4 16. Ne2 Rac8 17. Nf4 d4 18. Nxe6 fxe6 19. exd4 cxd4 20. Qe2
+Kf7 21. Rd3 Qc5 {he said he miscalculated the following sequence, but I was better anyway} 22. Re1 e5 23. Qxe5 Qxe5 24. Rxe5 Rc2 25. Re2 Rdc8 26. Rxc2 Rxc2 27.
+Bxd4 {perhaps he missed that Rd1 was now possible as the e2 rook has been exchanged off} Rxa2 28. g3 a5 29. Bc6 h6 30. Kg2 {a cowardly draw offer a pawn up. Still, despite the high evaluation winning this is not straight forward. Bb5-c4 could run into Rc2 a5-a4. I didn't manage to beat Stockfish in a casual game taking a few moves back albeit granted it is stronger than even my GM opponent. Although hardly classed as time trouble, 10 mins for 6 moves does not give time for great accuracy} 1/2-1/2
+
+
+[Event "Streatham 1 v Wood Green (bd 7) "]
+[Site "London League Div 1"]
+[Date "2017.4.25"]
+[White "Milliet, S."]
+[Black "Barr, G."]
+[Result "0-1"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. c4 e5 6. d3 Nc6 7. Nc3 h6 8.
+Nd5 Be7 9. O-O Nf6 10. a3 Nxd5 11. cxd5 Nd4 12. Nxd4 cxd4 13. f4 Bf6 14. Qf3
+Rc8 15. fxe5 Bxe5 16. Bf4 O-O 17. Rf2 Qa4 18. Raf1 Qb3 19. Qg4 Bxf4 20. Rxf4
+Qxd3 21. R4f3 Qe2 22. Qf4 Qxb2 23. Rg3 Rc3 24. Rg4 Qe2 25. Kh1 Re3 26. h3
+Rxe4 27. Qxe4 Qxf1+ 28. Kh2 Qf6 29. h4 Qe5+ 30. g3 f5 31. Qxe5 dxe5 32. Rg6
+Rd8 33. Re6 Rxd5 34. Re7 d3 0-1
+
+[Event "Streatham 1 v Wood Green (bd 3)"]
+[Site "London League Div 1"]
+[Date "2017.4.26"]
+[White "Rowson, J."]
+[Black "Leake, J."]
+[Result "0-1"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Nge2 c5 7. d5 e6 8. Ng3
+exd5 9. cxd5 b6 10. a4 Na6 11. Be2 Nb4 12. O-O a6 13. Bg5 h6 14. Be3 h5 15.
+Qd2 Bd7 16. Rac1 Nh7 { } 17. f4 {Tempting but a mistake.} 17... h4 18. Nh1 f5
+19. Nf2 Rc8 20. b3 Re8 21. Bf3 Nf6 22. Rfe1 Ng4 {At the time I thought this
+was risky - though it secures the bishop pair - and it certainly looks
+anti-positional pawn-wise; but it looks OK on further analysis. Stockfish
+thinks Black can play 22...fxe4 too, as the activity of Black's white squared
+bishop makes up for the activity of White's knights. However, it would have
+made White's position easier to play from a practical perspective. } 23. Bxg4
+fxg4 24. g3 Qe7 25. Nfd1 b5 26. Bf2 h3 27. Nb2 Rb8 28. Re2 Rec8 29. Rce1
+{White is in a lot of trouble after this, but the knight manoeuvre to b2 in
+moves 25 to 27 must contribute to his difficulties.} 29... c4 30. bxc4 bxc4
+31. e5 Bf5 32. Bd4 Nc2 33. Nbd1 Bd3 34. Re4 Nxd4 35. Rxd4 Qa7 36. Qe3 Rb7 37.
+Nf2 dxe5 38. fxe5 Bh6 39. Rf4 Qxe3 40. Rxe3 Rb3 41. Nfd1 Bxf4 42. gxf4 Rf8
+43. Kf2 Rxf4+ 44. Kg3 Rd4 45. d6 Kf8 46. Kh4 Bf5 47. Nf2 Kf7 48. Kg5 Rd2 49.
+Nxg4 Rg2 {Well played Jeremy! Refusing to take the exchange several times in
+order to maintain the pressure, and keeping control at the end (MS)} 0-1
+
+
+[Event "Streatham 1 v Wood Green (bd 1)"]
+[Site "London League Div 1"]
+[Date "2017.04.25"]
+[White "McShane, Luke"]
+[Black "du Maire, Jérôme"]
+[Result "1/2-1/2"]
+
+{C05: Französische Verteidigung (Tarrasch-Variante)} 1. e4 e6 2. d4 d5 3. Nc3
+Nf6 4. e5 Nfd7 5. f4 c5 6. Nce2 Nc6 7. Nf3 b5 8. Be3 b4 9. Qd2 $146 (9. dxc5
+Bxc5 (9... Ba6 10. a3 Qc7 11. axb4 Nxb4 12. Ned4 Bxf1 13. Kxf1 Bxc5 14. g3 Bxd4
+15. Nxd4 O-O 16. Kg2 Nc6 17. Nxc6 Qxc6 18. Bd4 Rfc8 19. c3 Qb5 20. Qc2 Nc5 21.
+Bxc5 Rxc5 22. Rhd1 Rb8 23. Rd2 a5 24. Qa4 {Armbrust,F (2325)-Schmidt,G (2390)
+Germany 2009 0-1 (38)}) 10. Bxc5 Nxc5 11. Ned4 Nxd4 12. Qxd4 Qb6 13. Bd3 (13.
+a3 bxa3 14. b4 Na4 15. Rxa3 Bd7 16. Kd2 Ke7 17. Qxb6 axb6 18. Bd3 Nb2 19. Rha1
+Rxa3 20. Rxa3 Rc8 21. Nd4 Rc4 22. c3 Rc7 23. Ra8 f6 24. h4 h5 25. g3 Na4 26.
+Ne2 Nb2 27. Ba6 fxe5 {Filippov,A (2630)-Firat,B (2416) Barcelona 2013 1/2-1/2 
+(62)}) 13... a5 14. O-O Ba6 15. Kh1 Na4 16. Qxb6 Nxb6 17. Nd4 Ke7 18. Kg1 Rhc8
+19. a3 Bxd3 20. cxd3 Na4 21. b3 Nb2 22. axb4 axb4 23. Nc6+ Ke8 {Parligras,C 
+(2273)-Manole,V (2337) Baile Tusnad 2000 1/2-1/2}) (9. g4 Ba6 10. Ng3 Bxf1 11.
+Rxf1 Qb6 12. Qd2 cxd4 13. Nxd4 Bc5 14. O-O-O a5 15. Rf3 Nxd4 16. Bxd4 Bxd4 17.
+Qxd4 Qxd4 18. Rxd4 Ke7 19. h4 Rhc8 20. a3 Nb8 21. Nh5 Nc6 22. Rd2 g6 23. Nf6 a4
+{Short,N (2683)-Navara,D (2656) Prague 2007 0-1 (53)}) 9... Ba6 10. Ng3 Bxf1
+11. Rxf1 g6 {Deckt f5+h5} 12. Ne2 h5 13. Kf2 {Weiß verliert das Rochaderecht}
+Be7 14. Kg1 {Die weiße Königssicherheit hat sich verbessert} Rc8 15. Kh1 O-O
+16. c3 bxc3 17. bxc3 Qa5 18. Rg1 cxd4 19. Nfxd4 (19. Nexd4 Nb6 $11) 19... Nxd4
+20. Bxd4 Nc5 21. Bxc5 Bxc5 22. Rgd1 Rfd8 23. Rab1 Bb6 24. h3 Qc5 25. Kh2 Rd7 (
+25... Kg7 26. Rf1 $15) 26. Qc2 (26. Nd4 Qa5 $15) 26... Qe3 27. Rd3 {Weiß droht
+Materialgewinn: Td3xe3} Qe4 28. Qd2 Rc4 {Ein schönes Feld für den Turm} 29. Re1
+(29. a3 Rdc7 $15) 29... Qf5 (29... Ra4 30. Ra1 $17) 30. Rf3 h4 31. Qd1 Qh5 32.
+Qd3 Rdc7 33. Qd2 Ba5 (33... Kg7 34. Rd1 $17) 34. Rb1 $15 Bb6 35. Rbf1 (35. Re1
+Kg7 $17) 35... Kh7 36. Rb1 Qf5 {Schwarz droht Materialgewinn: Df5xb1} 37. Rb2
+Qh5 38. Qe1 (38. Rb1 $5 $11 {ist vielleicht stärker}) 38... Ra4 39. Qb1 Rcc4
+40. Rc2 Ra3 41. Qb2 (41. Rb2 Rca4 $17) 41... Rca4 42. Rf1 (42. Qc1 Rxa2 43. Qd2
+Rxc2 44. Qxc2 Re4 $19) 42... Qf5 $19 43. Rf3 (43. Nd4 Qe4 $19) 43... Kg8 44.
+Rf1 Qe4 45. Rf3 Kg7 46. Rf1 {[%tqu ]} g5 $1 {Ablenkung: e5} 47. Nd4 (47. fxg5
+Qe3 {Hinlenkung Doppelangriff} (47... Qxe5+ {Ablenkung})) 47... Bxd4 48. cxd4
+Qxd4 $4 {gibt den Vorteil aus der Hand.} (48... gxf4 49. Rd1 $19) 49. Qb7 $4 {
+danach wendet sich das Blatt} (49. fxg5 Qxb2 50. Rxb2 Re3 $11) 49... Rxa2 $4 {
+danach kann Schwarz alle Träume begraben} (49... gxf4 $142 {und aller Vorteil
+läge nun bei Schwarz} 50. Rc7 Qxe5 51. Rxf7+ Kg6 $19) 50. Rxa2 (50. Qe7 Rxc2
+51. Qxg5+ Kf8 52. Qd8+ Kg7 53. Qf6+ Kg8 54. Qg5+ Kf8 55. Qd8+ Kg7 56. Qf6+ Kg8
+57. Qg5+ Kf8 $11) 50... Rxa2 $15 51. fxg5 $4 (51. Qe7 $142 {war die einzige
+Möglichkeit, noch zu kämpfen} Qd3 52. Qf6+ Kg8 53. Qd8+ Kh7 54. Qxg5 $15) 51...
+Rf2 $19 52. Rxf2 Qxf2 53. Qe7 (53. Qb8 {ändert nichts mehr} Qf4+ 54. Kg1 Qc1+
+55. Kf2 Qxg5 56. Qxa7 Qxe5 $19) 53... Qg3+ 54. Kg1 Qe1+ 55. Kh2 Qxe5+ 56. Kg1
+Qf4 (56... a5 57. Qd8 a4 58. g6 Qd4+ 59. Kh2 Kxg6 60. Qg8+ Qg7 61. Qe8 Qe5+ 62.
+Kh1 $19) 57. Qd7 (57. Qxa7 {würde die Partie unwesentlich verlängern} d4 58.
+Qc5 $19) 57... d4 58. Kh1 (58. g6 Kxg6 59. Qa4 Qe3+ 60. Kh2 e5 61. Qa6+ Kg7 $19
+) 58... e5 59. Qxa7 (59. g6 Kxg6 60. Qc6+ Kg7 61. Qd7 $19) 59... d3 60. Qd7 (
+60. g6 {hilft allerdings auch nicht} d2 61. Qg1 Qa4 62. g4 d1=Q 63. Qxd1 Qxd1+
+64. Kg2 Qe2+ 65. Kg1 Kxg6 66. g5 Kxg5 67. Kh1 Kf4 68. Kg1 Kg3 69. Kh1 Qe1#)
+60... d2 61. g6 (61. Kg1 {hilft auch nicht mehr} Qd4+ 62. Qxd4 exd4 63. Kf2
+d1=Q 64. g6 f5 65. g4 f4 66. g5 d3 67. Kg2 f3+ 68. Kf2 Qe2+ 69. Kg1 Qg2#) 61...
+d1=Q+ (61... Qf1+ 62. Kh2 d1=Q 63. Qxd1 Qxd1 64. g4 Kxg6 65. Kg2 Qe2+ 66. Kh1
+Kg5 67. Kg1 Kf4 68. Kh1 Kg3 69. g5 Qe1#) 62. Qxd1 $17 fxg6 (62... Kxg6 63. Qd8
+$17) 63. Qd7+ Kf6 64. Qd8+ Kf5 65. Qd7+ (65. Qe7 g5 $15) 65... Kg5 $17 66. Qe7+
+(66. Qe7+ Kh6 67. Qc5 $17) 1/2-1/2
