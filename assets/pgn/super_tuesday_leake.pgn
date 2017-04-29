@@ -1,0 +1,8 @@
+[Event "Streatham 1 v Wood Green (bd 3)"]
+[Site "London League Div 1"]
+[Date "2017.4.26"]
+[White "Rowson, J."]
+[Black "Leake, J."]
+[Result "0-1"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Nge2 c5 7. d5 e6 8. Ng3 exd5 9. cxd5 b6 10. a4 Na6 11. Be2 Nb4 12. O-O a6 13. Bg5 h6 14. Be3 h5 15. Qd2 Bd7 16. Rac1 Nh7 { } 17. f4 {Tempting but a mistake.} 17... h4 18. Nh1 f5 19. Nf2 Rc8 20. b3 Re8 21. Bf3 Nf6 22. Rfe1 Ng4 {At the time I thought this was risky - though it secures the bishop pair - and it certainly looks anti-positional pawn-wise; but it looks OK on further analysis. Stockfish thinks Black can play 22...fxe4 too, as the activity of Black's white squared bishop makes up for the activity of White's knights. However, it would have made White's position easier to play from a practical perspective. } 23. Bxg4 fxg4 24. g3 Qe7 25. Nfd1 b5 26. Bf2 h3 27. Nb2 Rb8 28. Re2 Rec8 29. Rce1 {White is in a lot of trouble after this, but the knight manoeuvre to b2 in moves 25 to 27 must contribute to his difficulties.} 29... c4 30. bxc4 bxc4 31. e5 Bf5 32. Bd4 Nc2 33. Nbd1 Bd3 34. Re4 Nxd4 35. Rxd4 Qa7 36. Qe3 Rb7 37. Nf2 dxe5 38. fxe5 Bh6 39. Rf4 Qxe3 40. Rxe3 Rb3 41. Nfd1 Bxf4 42. gxf4 Rf8 43. Kf2 Rxf4+ 44. Kg3 Rd4 45. d6 Kf8 46. Kh4 Bf5 47. Nf2 Kf7 48. Kg5 Rd2 49. Nxg4 Rg2 {Well played Jeremy! Refusing to take the exchange several times in order to maintain the pressure, and keeping control at the end (MS)} 0-1

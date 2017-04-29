@@ -1,0 +1,8 @@
+[Event "Streatham 1 v Wood Green (bd 2)"]
+[Site "London League Div 1"]
+[Date "2017.04.25"]
+[White "Stone, A."]
+[Black "Fodor, T."]
+[Result "1/2-1/2"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. e3 Be7 5. d4 exd4 6. Nxd4 d6 7. Nxc6 bxc6 8.Be2 O-O 9. O-O d5 10. b3 Be6 11. Qc2 Qb8 12. cxd5 cxd5 13. Bf3 c5 14. Rd1 Rd8 15. Bb2 Qb4 16. Ne2 Rac8 17. Nf4 d4 18. Nxe6 fxe6 19. exd4 cxd4 20. Qe2 Kf7 21. Rd3 Qc5 {he said he miscalculated the following sequence, but I was better anyway} 22. Re1 e5 23. Qxe5 Qxe5 24. Rxe5 Rc2 25. Re2 Rdc8 26. Rxc2 Rxc2 27. Bxd4 {perhaps he missed that Rd1 was now possible as the e2 rook has been exchanged off} Rxa2 28. g3 a5 29. Bc6 h6 30. Kg2 {a cowardly draw offer a pawn up. Still, despite the high evaluation winning this is not straight forward. Bb5-c4 could run into Rc2 a5-a4. I didn't manage to beat Stockfish in a casual game taking a few moves back albeit granted it is stronger than even my GM opponent. Although hardly classed as time trouble, 10 mins for 6 moves does not give time for great accuracy} 1/2-1/2
