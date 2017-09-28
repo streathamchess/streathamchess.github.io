@@ -14,12 +14,12 @@ Bronze membership costs £14 for a year if you sign up online - see
 
 {% include image.html url="/assets/chessart/boileauchess.jpg" description="[Two men playing chess](http://streathambrixtonchess.blogspot.com/2008/08/chess-in-art-xi.html) – wood sculpture by the Canadian artist Alain Boileau. " %}
 
-Subscription rates for the 2016-2017 season are:
+Subscription rates for the 2017-2018 season are:
 
-* £35 full membership.
-* £17.50 first year of membership.
-* £17.50 concessionary rate (available on a discretionary basis to student, unwaged and retired members).
-* If you prefer to pay on a game-by-game basis, the cost is £3.50 per game for ECF members.
+* £45 full membership.
+* £22.50 first year of membership.
+* £22.50 concessionary rate (available on a discretionary basis to student, unwaged and retired members).
+* If you prefer to pay on a game-by-game basis, the cost is £4.50 per game for ECF members.
 
 As a member you will be qualified to play for our league teams, subject to selection, and you will be able to participate in club competitions and other members-only events.
 
