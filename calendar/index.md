@@ -25,7 +25,7 @@ jq_disable: true
 
 	function loadEwaOnPageLoad() {
 		var props = {
-			item: "'Sheet1'!A1:N83",
+			item: "'Sheet1'!A1:O87",
 			uiOptions: {
 				showGridlines: false,
 				showParametersTaskPane: false
