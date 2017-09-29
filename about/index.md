@@ -8,8 +8,7 @@ Streatham & Brixton Chess Club goes back a long way. Our club was founded around
 
 We have several teams in the London Chess League which play their matches at venues in [Central London](/about/venues.html). 
 In addition, we have teams in the Surrey Chess League and the Croydon & District Chess League, which play their home matches at 
-[Woodfield Grove Tennis Club](/about/venues.html#woodfield-grove) in Streatham. Our main venue for social chess is [Streatham Library](/about/venues.html#whitelion) on Streatham High Road. 
-Club competitions are held at our Woodfield Grove venue.
+[Streatham Library](/about/venues.html#woodfield-grove), located on Streatham High Road. The library is also our main venue for [social chess](/about/venues.html#whitelion) and various club competitions.
 
 Although we don’t have a junior section, youngsters are welcome to join us at our Streatham Library Tuesday sessions. There are opportunities for strong juniors to play in our league teams.
 
