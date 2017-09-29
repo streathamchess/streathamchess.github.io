@@ -50,6 +50,9 @@ jq_disable: true
 	}
 </script>
 
+<!-- Comment out old calendar code for now
 {% include calendar.html json="'/assets/calendar2015.json'" %}
 
 [Master calendar (PDF)](/assets/calendar2016.pdf)
+//-->
+
