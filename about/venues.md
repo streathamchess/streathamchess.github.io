@@ -24,11 +24,13 @@ If you think you might like to play for us in the London Chess League, please co
 
 {% include image.html url="/assets/photos/woodfield.jpg" align="left" description="A local chess match" %}
 
+If you do live in or around Streatham, there are also various opportunities to play competitive chess more locally.
+
 From September 2017, we will be playing our home matches in the [Surrey League](http://www.scca.co.uk/) and the
 [Croydon & District League](http://www.croydonchessleague.org.uk/) at Streatham Library. We have a 7-board team in
-the second division of the Surrey League, three 4-board teams in the Croydon & District League. Our away matches are held at various venues in South London and Surrey.
+the second division of the Surrey League, and three 4-board teams in the Croydon & District League. Our away matches are held at various venues around South London and Surrey. Several regulars drive to away matches, so lifts are usually available to those that want them.
 
-We will also play several internal club competitions at Streatham Library.
+We will also hold  several internal club competitions at Streatham Library. Currently two rapidplay events and a blitz tournament are expected to take place, taking advantage quiet periods in the league schedule.
 
 
 <a name="whitelion"></a>
