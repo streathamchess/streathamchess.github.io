@@ -1,6 +1,7 @@
 name: "Streatham & Brixton Chess Club"
 shortname: "S&BCC"
-url: "http://streathamchess.github.io"
+url: "http://streathamchess.org.uk"
+author: "Streatham Chess Club"
 exclude:
   - Gemfile
   - README.md
