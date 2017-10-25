@@ -9,6 +9,8 @@ exclude:
 markdown: kramdown
 gems:
   - jekyll-sitemap
+plugins:
+  - jekyll-seo-tag
 defaults:
   -
     scope:
