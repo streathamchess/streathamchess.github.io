@@ -1,6 +1,7 @@
 ---
 title: Where we play
 layout: default
+description: Streatham Chess Club's activities in Central London, South London and Surrey
 ---
 
 <a name="central-london"></a>
@@ -20,7 +21,7 @@ If you think you might like to play for us in the London Chess League, please co
 
 <a name="woodfield-grove"></a>
 
-### Competitive Chess at Streatham Library
+### Competitive Chess in South London
 
 {% include image.html url="/assets/photos/woodfield.jpg" align="left" description="A local chess match" %}
 
@@ -30,7 +31,7 @@ From September 2017, we will be playing our home matches in the [Surrey League](
 [Croydon & District League](http://www.croydonchessleague.org.uk/) at Streatham Library. We have a 7-board team in
 the second division of the Surrey League, and three 4-board teams in the Croydon & District League. Our away matches are held at various venues around South London and Surrey. Several regulars drive to away matches, so lifts are usually available to those that want them.
 
-We will also hold  several internal club competitions at Streatham Library. Currently two rapidplay events and a blitz tournament are expected to take place, taking advantage quiet periods in the league schedule.
+We will also hold  several internal club competitions at Streatham Library. Currently two rapidplay events and a blitz tournament are expected to take place, taking advantage of quiet periods in the league schedule.
 
 
 <a name="whitelion"></a>
