@@ -1,7 +1,7 @@
 [Event "DK1 v Streatham"]
 [Date "2017.10.10"]
-[White "Richard , Black"]
-[Black "John, Carlin"]
+[White "Richard Black"]
+[Black "John Carlin"]
 [Result "0-1"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2 Qxb2 9. Rb1 Qa3 10. e5 h6 11. Bh4 g5 $146 (11... dxe5 12. fxe5 Nfd7 13. Be2 Be7 14. Bg3 Bg5 15. Qd3 Nc5 16. Qf3 O-O 17. O-O Nbd7 18. Kh1 Rb8 19. h4 Bd8 20. Bf4 Bc7 21. Qg3 Kh8 22. Rf3 Qa5 23. Re3 Kh7 24. Rf1 Qb4 25. Rd1 Nb6 26. a3 {Pichler,J-Yuferov,S/Moscow 1990/EXT 2000/1/2-1/2 (74)}) 12. exf6 gxh4 13. Be2 (13. f5 $142 $5 $11 {should be investigated more closely}) 13... Nc6 14. Nxc6 bxc6 15. O-O Qa5 16. Kh1 h3 17. g3 h5 18. Bf3 d5 19. f5 Bd6 20. fxe6 Bxe6 (20... fxe6 $2 21. Qg5 Qc7 22. Bxh5+ Rxh5 23. Qxh5+ Qf7 24. Qh8+ Bf8 25. Na4 $18) 21. Rfe1 Rb8 22. Rxb8+ Bxb8 23. Qd3 Kd7 24. Rb1 Be5 25. Ne4 Rb8 26. Rd1 h4 27. gxh4 Qxa2 28. Nc5+ Kd6 29. Nxe6 fxe6 30. f7 Rf8 31. Qg6 (31. Bh5 $142 $5 $17) 31... Qc4 32. Bg4 Rxf7 $4 {not a good decision, because now the opponent is right back in the game} (32...Kc7 $142 {a shame that Black overlooked this excellent chance} 33. Bxh3 Qf4 $19 ) 33. Qxe6+ Kc5 34. Qxf7 Qxg4 35. Qa7+ $4 (35. Qf2+ $142 {the rescuing straw} d4 36. Re1 $15) 35... Kd6 $19 36. Qb8+ Kd7 37. Qb7+ Bc7 38. Rxd5+ cxd5 39. Qxd5+ Bd6 40. Qb7+ (40. c3 {there is nothing better in the position} Qf4 41. Kg1 Qxh2+ 42. Kf1 Qf4+ 43. Ke2 Qg4+ 44. Ke3 $19) 40... Ke8 41. Qc6+ Ke7 42. Qb7+ Kf6 43. Qd5 Qe6 44. Qg5+ Kf7 45. Qh5+ (45. Qd2 {does not solve anything} Qe4+ 46. Kg1 Qf3 47. Qd5+ Qxd5 48. Kf2 Bc5+ 49. Ke2 Qe4+ 50. Kd2 Qe3+ 51. Kd1 Bb4 52. c3 Qd3+ 53. Ke1 Be7 54. Kf2 Bxh4+ 55. Kg1 Qb1#) 45... Kg7 (45... Ke7 46. Qh7+ Kd8 47. Qh8+ Kd7 48. Qg7+ Kc6 49. Qc3+ Bc5 50. Qf3+ Kc7 51. Qf4+ Kc8 52. Qb8+ Kxb8 53. h5 Qc6#) 46. Qg5+ Qg6 (46... Kf8 47. Qd2 Qf6 48. Qg2 Bc5 49. Qxh3 Ke7 50. h5 Qg5 51. Qh4 Qxh4 52. Kg2 Qg4+ 53. Kf1 Qf3+ 54. Ke1 Bb4+ 55. c3 Bxc3#) 47. Qd5 Qg2+ (47... Qg2+ 48. Qxg2+ hxg2+ 49. Kxg2 a5 $19) 0-1
