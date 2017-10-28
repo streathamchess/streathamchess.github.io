@@ -12,6 +12,6 @@ I was most impressed by John Carlin’s win against Richard Black which is shown
 
 <div id="board1" style="width: 800px; margin-top: 20px; margin-bottom: 20px;"></div>
 <script>
-  var cfg = { position: 'start', pgnFile: '/assets/pgn/Black- Carlin-Oct-2017.pgn', locale: 'en', pieceStyle: 'merida', orientation: 'white', theme: 'chesscom'};
+  var cfg = { position: 'start', pgnFile: '/assets/pgn/Black- Carlin-Oct-2017-v1.pgn', locale: 'en', pieceStyle: 'merida', orientation: 'white', theme: 'chesscom'};
   var board = pgnView('board1', cfg);
 </script>
