@@ -38,7 +38,7 @@ We had to wait till closing time for the icing on the cake, and many of us had a
 
 <div id="board4" style="width: 800px; margin-top: 20px; margin-bottom: 20px;"></div>
 <script>
-  var cfg = { position: 'start', pgnFile: '/assets/pgn/super_tuesday_jerome.pgn', locale: 'en', pieceStyle: 'merida', orientation: 'black', theme: 'chesscom'};
+  var cfg = { position: 'start', pgnFile: '/assets/pgn/super_tuesday_jerome.pgn', locale: 'en', pieceStyle: 'merida', orientation: 'black', theme: 'chesscom', scrollable: true, movesHeight: '600px'};
   var board = pgnView('board4', cfg);
 </script>
 
