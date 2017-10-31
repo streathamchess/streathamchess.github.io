@@ -1,7 +1,7 @@
 ---
 title: Club calendar
 layout: default
-jq_disable: true
+jq_disable: false
 ---
 <div id="myExcelDiv" style="width: 640px; height: 750px"></div>
 <script type="text/javascript" src="https://r.office.microsoft.com/r/rlidExcelWLJS?v=1&kip=1"></script>
