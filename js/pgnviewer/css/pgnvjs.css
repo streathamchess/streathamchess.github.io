@@ -3711,7 +3711,7 @@ div.comment > textarea.comment {
 .movesOuterScroller {
     position: relative;
     float: right;
-    width: 368px;
+    width: 372px;
 }
 
 .chesscom .movesScroller {
@@ -3732,6 +3732,7 @@ div.comment > textarea.comment {
 .movesScroller .moves {
     position: relative;
     overflow: auto;
+    margin: 20px 7px 20px 0px;
 }
 
 .chesscom .endBoard {
