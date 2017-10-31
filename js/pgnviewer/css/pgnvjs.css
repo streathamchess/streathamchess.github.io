@@ -3549,6 +3549,10 @@ div.comment > textarea.comment {
     padding: 2px;
 }
 
+.moves {
+    margin: 20px;
+}
+
 .moves a {
     text-decoration: underline;
 }
