@@ -3701,6 +3701,7 @@ div.comment > textarea.comment {
 .chesscom .outerBoard {
     float: left;
     width: 388px;
+    margin: 20px;
 }
 
 .movesOuterScroller {
