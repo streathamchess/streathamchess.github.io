@@ -18,5 +18,5 @@ We offer one of the best-value membership packages in London with a special redu
 for the first year of membership. If all you want is to play ungraded games of friendly
 chess, you won't have to pay anything at all.
 
-So read on to learn a little [about us](/about/index.html), [where we play](/about/venues.html) and [how to join](/join.html). When you're ready feel free to drop by at one our Tuesday sessions at the Library, or [get in touch](contact.html) to learn more.
+So read on to learn a little more [about us](/about/index.html), [where we play](/about/venues.html) and [how to join](/join.html). Feel free to simply drop by at one our Tuesday sessions at Streatham Library, or [get in touch](contact.html) for more information on the club.
 <br/>
