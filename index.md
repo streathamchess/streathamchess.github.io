@@ -10,7 +10,7 @@ We hope you’ll take a few moments to find out more about us – we’re a live
 with a fast-growing membership and we provide opportunities for chess players of all
 abilities.
 
-We’re keen to attract new players off all kinds: experienced players who are looking for serious competitive chess,
+We’re keen to attract new players of all kinds: experienced players who are looking for serious competitive chess,
 casual players who want to play friendly social chess, and newcomers to the game who want
 to develop their chess skills.
 
