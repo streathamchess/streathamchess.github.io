@@ -3,6 +3,7 @@ title: Club calendar
 layout: default
 jq_disable: false
 ---
+{% include fewseconds.html %}
 <div id="myExcelDiv" style="width: 640px; height: 750px"></div>
 <script type="text/javascript" src="https://r.office.microsoft.com/r/rlidExcelWLJS?v=1&kip=1"></script>
 <script type="text/javascript">
