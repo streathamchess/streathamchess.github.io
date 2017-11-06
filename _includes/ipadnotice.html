@@ -1,7 +1,7 @@
 <div id='ipadnotice'></div>
 <script>
-	if (navigator.userAgent.match(/iPad/i) != null) {
+	if (window.innerWidth == 768) {
 		// put up iPad notice
-		document.getElementById("ipadnotice").innerHTML = "<br><br><p><small><em>iPad users please note - some features of this site only appear in landscape mode. Try flipping your iPad back and forth to see the difference.</small></em></p><br><br>";
+		document.getElementById("ipadnotice").innerHTML = "<br><br><p><small><em>Tablet users please note - some features of this site only appear in landscape mode. Try flipping your device back and forth to see the difference.</small></em></p><br><br>";
 	}
 </script>
