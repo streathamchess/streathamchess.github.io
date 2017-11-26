@@ -2,14 +2,13 @@
 layout: default
 ---
 
-{{content}}
-
 {% if page.author %}
 <div class="col-md-12" style="margin-top:12px;">
-	<p class="credits">Written by {{page.author}}</p>
+	<p class="credits">Written by {{page.author}}, {{ post.date | date_to_long_string }}</p>
 </div>
 {% endif %}
 
+{{content}}
 
 <div class="col-md-12" style="margin-top:12px;">
 
