@@ -6,6 +6,8 @@ layout: default
 <span style="margin:4px 10px 5px 0px;">
 	<p class="credits">By {{page.author}} --  <small>{{ page.date | date_to_long_string }}</small></p>
 </span>
+{% else %}
+	<p class="credits"><small>{{ page.date | date_to_long_string }}</small></p>
 {% endif %}
 
 {{content}}
