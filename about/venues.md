@@ -38,7 +38,7 @@ We will also hold  several internal club competitions at Streatham Library. Curr
 
 ### Social Chess at Streatham Library
 
-{% include image.html url="/assets/photos/Improvers1.jpg" description="Members of the Library Improvers Group, getting some practice for match play." %}
+{% include image.html url="/assets/photos/Improvers1.jpg" description="Members of our Library Improvers Group, getting some practice in preparation for match play." %}
 
 You can play casual chess at [Streatham Library](http://www.lambeth.gov.uk/places/streatham-library) every Tuesday throughout the year. Streatham Library is [here](https://www.google.co.uk/maps/place/London+SW16+1PN/@51.4317243,-0.1291294,17z/data=!3m1!4b1!4m2!3m1!1s0x487604280906fd47:0xa10f28b2b86f41a0) at 63 Streatham High Road, SW16 1PN. We meet in the Mark Bennett Community Centre from 4.30 to 7.30 pm and players of all ages and abilities are welcome, including beginners. We ask that children under 10 are accompanied by an adult. There is nothing to pay and you don't have to be a member of Streatham & Brixton Chess Club to participate.
 
