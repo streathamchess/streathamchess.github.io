@@ -6,7 +6,7 @@ description: Streatham Chess Club's activities in Central London, South London a
 
 <a name="central-london"></a>
 
-<div class="clearfix">
+
 ### Chess in Central London
 
 {% include image.html url="/assets/photos/central-london.jpg" description="A London League match" %}
@@ -19,9 +19,10 @@ We have four teams in the London Chess League – a 10-board team in Division 1,
 an 8-board team in Division 4, and a 4-board team in the Major division. The majority of our London League matches in 2017-18 will be played at the Citadines Hotel, Holborn, which is located [here](https://www.google.co.uk/maps/place/Citadines+Holborn-Covent+Garden+London/@51.5182942,-0.1206973,17z/data=!4m13!1m7!3m6!1s0x48761b3597627687:0x97304b6330a0a89d!2sHigh+Holborn,+London+WC1V+6LF!3b1!8m2!3d51.5182874!4d-0.1187017!3m4!1s0x0:0xd4a983d961c3e6e5!8m2!3d51.5178531!4d-0.1185583?hl=en), although several other Zone 1 venues will also be used.
 
 If you think you might like to play for us in the London Chess League, please contact one of our [club officers](/contact.html).
-</div>
 
-<div class="clearfix">
+<div class="clearfix"></div>
+
+
 <a name="woodfield-grove"></a>
 
 ### Competitive Chess in South London
@@ -35,9 +36,10 @@ From September 2017, we will be playing our home matches in the [Surrey League](
 the second division of the Surrey League, and three 4-board teams in the Croydon & District League. Our away matches are held at various venues around South London and Surrey. Several regulars drive to away matches, so lifts are usually available to those that want them.
 
 We will also hold  several internal club competitions at Streatham Library. Currently two rapidplay events and a blitz tournament are expected to take place, taking advantage of quiet periods in the league schedule.
-</div>
 
-<div class="clearfix">
+<div class="clearfix"></div>
+
+
 <a name="whitelion"></a>
 
 ### Social Chess at Streatham Library
@@ -50,4 +52,4 @@ Strong players often drop by for a few games of blitz chess and several of our T
 
 For more information about Chess at Streatham Library visit the library group's [website](https://sites.google.com/site/chessatstreathamlibrary/).
  
-</div>
+<div class="clearfix"></div>
