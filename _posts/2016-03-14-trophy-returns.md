@@ -17,7 +17,7 @@ Sadly it is not exactly an unusual museum piece, and is rather worn by over-zeal
 
 
 <br/>
-{% include image.html align="none" url="/assets/photos/trophy2.jpg" %}
+{% include bigimage.html align="none" url="/assets/photos/trophy2.jpg" %}
 <br/>
 
 
