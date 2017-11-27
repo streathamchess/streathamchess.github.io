@@ -6,7 +6,7 @@ author: Martin Smith, with thanks to everyone who contributed their reminisences
 We had either forgotten about it, or never knew it existed! In January 2016 the Povah-Best Trophy was returned to the Club after perhaps 40 years in Roger Emerson’s attic. In the dim and distant past it was likely awarded to the winner of the Club Championship – though we aren’t really sure on this point.   
 
 <br/>
-{% include image.html align="none" url="/assets/photos/trophy1.jpg" %}
+{% include bigimage.html align="none" url="/assets/photos/trophy1.jpg" %}
 <br/>
 
 Roger (here on the right; your grateful correspondent is on the left) was a stalwart in the Club’s glory days in the late 1970s (see *Knightmare!* [issues](http://streathamchess.org.uk/clubhistory/) and [digest](http://streathambrixtonchess.blogspot.co.uk/2013/06/knightmare-scenarios-1-chess-in-time-of.html) ). Roger now plays for Guildford and runs their highly successful 4NCL team.  He re-discovered the Trophy, along with some other booty, when doing a spot of decluttering.
