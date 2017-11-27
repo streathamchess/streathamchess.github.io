@@ -28,14 +28,5 @@ Another half point was due to David's play in a strange French Winawer which wen
 
 {% include bigimage.html align="none" url="/assets/alexandercup2015/alexander-dtm.jpg" description="David playing drawn opposite color bishop endgame, with Taiwo and Martin in the back" %} 
 
-{% include bigimage.html align="none" url="/assets/alexandercup2015/alexander-ra.jpg.jpg" description="Robin writing down his opponents move and Angus in deep thought" %}
+{% include bigimage.html align="none" url="/assets/alexandercup2015/alexander-ra.jpg" description="Robin writing down his opponents move and Angus in deep thought" %}
 
-
-<div class="img-auto-sized" style="float: left; padding-right: 10px; margin-top: -20px;" align="left">  
-  <img src="/assets/alexandercup2015/alexander-dtm.jpg" class="img-responsive"/>
-  <p align="left" style="text-align: left;"><i>David playing drawn opposite color bishop endgame, with Taiwo and Martin in the back</i></p>
-
-  <img src="/assets/alexandercup2015/alexander-ra.jpg" class="img-responsive"/>
-  <p align="left" style="text-align: left;"><i>Robin writing down his opponents move and Angus in deep thought</i></p>
-
-</div>
