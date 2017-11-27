@@ -1,0 +1,18 @@
+{# Use for large images that should stand by themselves, not have text wrapping around them #}
+
+<div class="clearfix"></div>
+
+{% if include.align  %}
+ <div class="img-auto-sized" style="max-width: 85%; padding: 5px 25px 5px 25px;" align="{{include.align}}">
+{% else %}
+ <div class="img-auto-sized" style="max-width: 85%; padding: 5px 25px 5px 25px;">
+{% endif %}
+  <p></p>
+  <p>
+   <img src="{{ include.url }}" class="img-responsive"/>
+ </p>
+  {% capture my-include %}{{ include.description }}{% endcapture %}
+  <p align="left" style="text-align: left;"><i>{{ my-include | markdownify }}</i></p>
+ </div>
+ 
+<div class="clearfix"></div>
