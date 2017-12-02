@@ -3,6 +3,11 @@ title: Latest Members Grades
 layout: default
 ---
 {% include fewseconds.html %}
+
+<iframe width="452" height="750" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8EB2B688CF6DF930%21138&authkey=%21AOEz_cQEXwsF1L4&em=2&wdAllowInteractivity=False&Item='Sheet1'!A1%3AE70&wdHideGridlines=True&wdDownloadButton=True&wdInConfigurator=True"></iframe>
+
+<!-- Comment out previous embed code which does not seem to be supported any more
+
 <div id="myExcelDiv" style="width: 452px; height: 750px"></div>
 <script type="text/javascript" src="https://r.office.microsoft.com/r/rlidExcelWLJS?v=1&kip=1"></script>
 <script type="text/javascript">
@@ -44,6 +49,7 @@ layout: default
 		 */
 	}
 </script>
+//-->
 
 <!-- Comment out previous grades code
 ### {% include build/currentlistversion.html %}
