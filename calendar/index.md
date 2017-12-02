@@ -7,6 +7,8 @@ jq_disable: false
 
 <iframe width="640" height="750" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8EB2B688CF6DF930%21136&authkey=%21ACv-r5NcGUiUnHI&em=2&wdAllowInteractivity=False&Item='Sheet1'!A1%3AO117&wdHideGridlines=True&wdDownloadButton=True&wdInConfigurator=True"></iframe>
 
+<!-- comment out previous Excel embed which doesn't seem to work any more
+
 <div id="myExcelDiv" style="width: 640px; height: 750px"></div>
 <script type="text/javascript" src="https://r.office.microsoft.com/r/rlidExcelWLJS?v=1&kip=1"></script>
 <script type="text/javascript">
@@ -54,6 +56,7 @@ jq_disable: false
 		 */
 	}
 </script>
+//-->
 
 <!-- Comment out old calendar code for now
 {% include calendar.html json="'/assets/calendar2015.json'" %}
