@@ -25,4 +25,4 @@ layout: default
 
 * Croydon League D: Richard Tillett, tel 020 7228 1526.
 
-* Croydon League Rapidplay: David Varley, tel 07519 928852.
+* Croydon League Rapidplay: Martin Smith, tel 020 8767 2355.
