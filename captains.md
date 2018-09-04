@@ -11,6 +11,8 @@ layout: default
 
 * London League 3: Alan Romeril, tel 07984 089903.
 
+* Surrey League 1: Martin Smith, tel 020 8767 2355.
+
 <!--* London League 4: Jose Dimiti, tel 07706 881807
 
 * Surrey League 1 and Alexander Cup: Martin Smith, tel 020 8767 2355.
