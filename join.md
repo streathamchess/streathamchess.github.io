@@ -14,7 +14,7 @@ Bronze membership costs £16 for a year if you sign up online - see
 
 {% include image.html url="/assets/chessart/boileauchess.jpg" description="[Two men playing chess](http://streathambrixtonchess.blogspot.com/2008/08/chess-in-art-xi.html) – wood sculpture by the Canadian artist Alain Boileau. " %}
 
-Subscription rates for the 2017-2018 season are:
+Subscription rates for the 2018-2019 season are:
 
 * £45 full membership.
 * £22.50 first year of membership.
