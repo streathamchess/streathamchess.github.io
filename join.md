@@ -9,8 +9,8 @@ options to suit you – annual subscription or game fee.
 As an annual subscription member you pay just half of the full subscription in your first season.
 If you only want to play a few games for us the best option for you may be to pay on a game-by-game basis.
 To play league chess you will also need to be a member of the English Chess Federation (ECF):
-Bronze membership costs £15 for a year if you sign up online - see
-[here](http://www.englishchess.org.uk/membership/joining/guide-to-joining-the-ecf/) for further information.
+Bronze membership costs £16 for a year if you sign up online - see
+[here](https://www.englishchess.org.uk/guide-to-joining-the-ecf/) for further information.
 
 {% include image.html url="/assets/chessart/boileauchess.jpg" description="[Two men playing chess](http://streathambrixtonchess.blogspot.com/2008/08/chess-in-art-xi.html) – wood sculpture by the Canadian artist Alain Boileau. " %}
 
