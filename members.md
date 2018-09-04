@@ -30,7 +30,7 @@ layout: default
 
 	function loadEwaOnPageLoad() {
 		var props = {
-			item: "'Sheet1'!A1:E70",
+			item: "'Sheet1'!A1:E85",
 			uiOptions: {
 				showGridlines: false
 			},
