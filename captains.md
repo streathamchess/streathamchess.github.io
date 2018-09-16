@@ -22,9 +22,9 @@ layout: default
 
 * Croydon League A: Martin Smith, tel 020 8767 2355.
 
-* Croydon League B: No team this year.
+* Croydon League B:To be confirmed.
 
-* Croydon League C: No team this year.
+* Croydon League C: To be confirmed.
 
 * Croydon League D: Richard Tillett, tel 020 7228 1526.
 
