@@ -33,7 +33,7 @@ If you do live in or around Streatham, there are also various opportunities to p
 
 We play our home matches in the [Surrey League](http://www.scca.co.uk/) and the
 [Croydon & District League](http://www.croydonchessleague.org.uk/) at [Streatham Library](https://www.google.co.uk/maps/place/London+SW16+1PN/@51.4317243,-0.1291294,17z/data=!3m1!4b1!4m2!3m1!1s0x487604280906fd47:0xa10f28b2b86f41a0). We have a 7-board team in
-the second division of the Surrey League, and several 4-board teams in the Croydon & District League. Our away matches are held at various venues around South London and Surrey. Several regulars drive to away matches, so lifts are usually available to those that want them.
+the second division of the Surrey League, and five 4-board teams in the Croydon & District League. Our away matches are held at various venues around South London and Surrey. Several regulars drive to away matches, so lifts are usually available to those that want them.
 
 We will also hold  several internal club competitions at Streatham Library. Currently two rapidplay events and a blitz tournament are expected to take place, taking advantage of quiet periods in the league schedule.
 
