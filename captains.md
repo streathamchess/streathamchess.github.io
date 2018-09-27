@@ -20,11 +20,11 @@ layout: default
 * Surrey League Lauder Trophy: No team this year.
 //-->
 
-* Croydon League A: Martin Smith, tel 020 8767 2355.
+* Croydon League A: Liam Hylands, tel 07375 050352.
 
-* Croydon League B:To be confirmed.
+* Croydon League B: Martin Smith, tel 020 8767 2355.
 
-* Croydon League C: To be confirmed.
+* Croydon League C: Harry Morgan, tel 07867 416958.
 
 * Croydon League D: Richard Tillett, tel 020 7228 1526.
 
