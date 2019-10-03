@@ -18,7 +18,7 @@ that the [London Chess League](http://www.londonchess.org.uk/main.php) offers. I
 We have three teams in the London Chess League – a 10-board team in Division 1, a 10-board team in Division 2,
 and an 8-board team in Division 4. The majority of our London League matches in 2019-20 will be played at the Citadines Hotel, Holborn, which is located [here](https://www.google.co.uk/maps/place/Citadines+Holborn-Covent+Garden+London/@51.5182942,-0.1206973,17z/data=!4m13!1m7!3m6!1s0x48761b3597627687:0x97304b6330a0a89d!2sHigh+Holborn,+London+WC1V+6LF!3b1!8m2!3d51.5182874!4d-0.1187017!3m4!1s0x0:0xd4a983d961c3e6e5!8m2!3d51.5178531!4d-0.1185583?hl=en), although several other Zone 1 venues will also be used.
 
-Staring in the 2019-20 season we are also fielding a 4-board team in the Central London League. Most matches in this league will be played in the [Lillington Gardens Community Centre](https://www.westminster.gov.uk/yourhousing/your-community/hall-hire/lillington-and-longmoore-community-hall) very close to Pimlico tube station.
+Staring in the 2019-20 season we are also fielding a 4-board team in the [Central London Chess League](http://www.oxfordfusion.com/oca/index.cfm?Org=7). Most matches in this league will be played in the [Lillington Gardens Community Centre](https://www.westminster.gov.uk/yourhousing/your-community/hall-hire/lillington-and-longmoore-community-hall) very close to Pimlico tube station.
 
 If you think you might like to play in any of our teams, please contact one of our [club officers](/contact.html).
 
