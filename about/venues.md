@@ -16,9 +16,11 @@ London. They prefer to play their team chess in Central London because of the co
 that the [London Chess League](http://www.londonchess.org.uk/main.php) offers. In fact we play more league chess in central London than we do at local venues.
 
 We have three teams in the London Chess League – a 10-board team in Division 1, a 10-board team in Division 2,
-and an 8-board team in Division 4. The majority of our London League matches in 2018-19 will be played at the Citadines Hotel, Holborn, which is located [here](https://www.google.co.uk/maps/place/Citadines+Holborn-Covent+Garden+London/@51.5182942,-0.1206973,17z/data=!4m13!1m7!3m6!1s0x48761b3597627687:0x97304b6330a0a89d!2sHigh+Holborn,+London+WC1V+6LF!3b1!8m2!3d51.5182874!4d-0.1187017!3m4!1s0x0:0xd4a983d961c3e6e5!8m2!3d51.5178531!4d-0.1185583?hl=en), although several other Zone 1 venues will also be used.
+and an 8-board team in Division 4. The majority of our London League matches in 2019-20 will be played at the Citadines Hotel, Holborn, which is located [here](https://www.google.co.uk/maps/place/Citadines+Holborn-Covent+Garden+London/@51.5182942,-0.1206973,17z/data=!4m13!1m7!3m6!1s0x48761b3597627687:0x97304b6330a0a89d!2sHigh+Holborn,+London+WC1V+6LF!3b1!8m2!3d51.5182874!4d-0.1187017!3m4!1s0x0:0xd4a983d961c3e6e5!8m2!3d51.5178531!4d-0.1185583?hl=en), although several other Zone 1 venues will also be used.
 
-If you think you might like to play for us in the London Chess League, please contact one of our [club officers](/contact.html).
+Staring in the 2019-20 season we are also fielding a 4-board team in the Central London League. Most matches in this league will be played in the [Lillington Gardens Community Centre](https://www.westminster.gov.uk/yourhousing/your-community/hall-hire/lillington-and-longmoore-community-hall) very close to Pimlico tube station.
+
+If you think you might like to play in any of our teams, please contact one of our [club officers](/contact.html).
 
 <div class="clearfix"></div>
 
@@ -33,9 +35,9 @@ If you do live in or around Streatham, there are also various opportunities to p
 
 We play our home matches in the [Surrey League](http://www.scca.co.uk/) and the
 [Croydon & District League](http://www.croydonchessleague.org.uk/) at [Streatham Library](https://www.google.co.uk/maps/place/London+SW16+1PN/@51.4317243,-0.1291294,17z/data=!3m1!4b1!4m2!3m1!1s0x487604280906fd47:0xa10f28b2b86f41a0). We have a 7-board team in
-the second division of the Surrey League, and five 4-board teams in the Croydon & District League. Our away matches are held at various venues around South London and Surrey. Several regulars drive to away matches, so lifts are usually available to those that want them.
+the second division of the Surrey League, and five 4-board teams in the Croydon & District League. Our away matches are held at various venues around South London and Surrey. Several regulars drive to away matches, so lifts are usually available for those that want them.
 
-We will also hold  several internal club competitions at Streatham Library. Currently two rapidplay events and a blitz tournament are expected to take place, taking advantage of quiet periods in the league schedule.
+We typically also hold  several internal club competitions at Streatham Library over the course of the year. Currently two rapidplay events and a blitz tournament are expected to take place, taking advantage of quiet periods in the league schedule.
 
 <div class="clearfix"></div>
 
