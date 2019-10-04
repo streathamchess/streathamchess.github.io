@@ -4,7 +4,7 @@ layout: default
 jq_disable: false
 ---
 
-**The CLub Calendar for 2019-2020 is currently being finalized.**
+**The Club Calendar for 2019-2020 is currently being finalized.**
 
 In the meantime the calendar for the previous year is shown below to give you an idea of the club's activities.
 
