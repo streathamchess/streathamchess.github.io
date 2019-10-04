@@ -7,16 +7,16 @@ Anyone can join our Tuesday afternoon [Streatham Library chess group](/about/ven
 to pay. If it’s full-on, league chess that you want, you can choose one of two membership
 options to suit you – annual subscription or game fee.
 As an annual subscription member you pay just half of the full subscription in your first season.
-If you only want to play a few games for us the best option for you may be to pay on a game-by-game basis. If you are new to competitive chess, you can normally play up to three games for free try it out and make sure it suits you.
+If you only want to play a few games for us the best option for you may be to pay on a game-by-game basis. If you are new to competitive chess, you can normally play up to three games for free to try it out and make sure it suits you.
 
 {% include image.html url="/assets/chessart/boileauchess.jpg" description="[Two men playing chess](http://streathambrixtonchess.blogspot.com/2008/08/chess-in-art-xi.html) – wood sculpture by the Canadian artist Alain Boileau. " %}
 
-Subscription rates for the 2018-2019 season are:
+Subscription rates for the 2019-2020 season are:
 
 * £45 full membership.
 * £22.50 first year of membership.
 * £22.50 concessionary rate (available on a discretionary basis to student, unwaged and retired members).
-* If you prefer to pay on a game-by-game basis, the cost is £4.50 per game for ECF members.
+* If you prefer to pay on a game-by-game basis, the cost is £4.50 per game.
 
 As a club member you will be qualified to play for our league teams, subject to selection, and you will be able to participate in club competitions and other members-only events.
 
