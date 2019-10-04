@@ -3,6 +3,11 @@ title: Club calendar
 layout: default
 jq_disable: false
 ---
+
+**The CLub Calendar for 2019-2020 is currently being finalized.**
+
+In the meantime the calendar for the previous year is shown below to give you an idea of the club's activities.
+
 {% include fewseconds.html %}
 
 <iframe width="640" height="750" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8EB2B688CF6DF930%21155&authkey=%21AFPhZx80mx_SmrI&em=2&wdAllowInteractivity=False&Item='Sheet1'!A1%3AO117&wdHideGridlines=True&wdDownloadButton=True&wdInConfigurator=True"></iframe>
