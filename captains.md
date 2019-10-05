@@ -29,3 +29,5 @@ layout: default
 * Croydon League D: Richard Tillett, tel 020 7228 1526.
 
 * Croydon League Rapidplay: Martin Smith, tel 020 8767 2355.
+
+* Central London League: Paul Ritchie, tel 07906 914526
