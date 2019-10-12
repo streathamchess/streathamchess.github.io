@@ -4,9 +4,11 @@ layout: default
 jq_disable: false
 ---
 
-**The Club Calendar for 2019-2020 is currently being finalized.**
+**The Club Calendar for 2019-20 is currently being finalized.**
 
-The calendar below is mostly complete, but a couple of fixtures in 2020 are likely to be rearranged. See the notes at the end of the calendar for more details.
+The calendar below is mostly complete, but a couple of fixtures in 2020 are likely to be rearranged.
+
+See the notes section at the end of the calendar for more details.
 
 {% include fewseconds.html %}
 
