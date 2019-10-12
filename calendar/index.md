@@ -10,7 +10,7 @@ In the meantime the calendar for the previous year is shown below to give you an
 
 {% include fewseconds.html %}
 
-<iframe width="640" height="750" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8EB2B688CF6DF930%21155&authkey=%21AFPhZx80mx_SmrI&em=2&wdAllowInteractivity=False&Item='Sheet1'!A1%3AO117&wdHideGridlines=True&wdDownloadButton=True&wdInConfigurator=True"></iframe>
+<iframe width="640" height="750" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8EB2B688CF6DF930%21174&authkey=%21AD5i2m1vdM8zXnA&em=2&wdAllowInteractivity=False&Item='Sheet1'!A1%3AO117&wdDownloadButton=True&wdInConfigurator=True"></iframe>
 
 <!-- comment out previous Excel embed which doesn't seem to work any more
 
