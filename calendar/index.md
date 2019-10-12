@@ -6,7 +6,7 @@ jq_disable: false
 
 **The Club Calendar for 2019-2020 is currently being finalized.**
 
-In the meantime the calendar for the previous year is shown below to give you an idea of the club's activities.
+The calendar below is mostly complete, but a couple of fixtures in 2020 are likely to be rearranged. See the notes at the end of the calendar for more details.
 
 {% include fewseconds.html %}
 
