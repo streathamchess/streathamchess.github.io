@@ -7,23 +7,23 @@ layout: default
 
 ## Chess during coronavirus outbreak
 
-There is no face to face chess during the coronavirus outbreal. All leagues are suspended and our venue for social chess, Streatham Library, is closed.
+There is no face to face chess during the coronavirus outbreak. All leagues are suspended and our venue for social chess, Streatham Library, is closed.
 
 However Streatham Chess Club is working towards going online.
 
 To play with clubmates and in club-organised events, do the following:
 
-### 1) Create and account on lichess.org
+### 1) Create an account on lichess.org
 
-Register with lichess  [(https://lichess.org/)](https://lichess.org/), and create an online user name (if possible one that other memebers will be able to recognize). You can start playing causal games straightaway. 
+Register with lichess  [(https://lichess.org/)](https://lichess.org/), and create an online user name (if possible one that other members will be able to easily recognize). You can start playing causal games straightaway. 
 
 ### 2) Join our online club
 
-Join our lichess online club using  [https://lichess.org/team/streatham--brixton-chess-club](https://lichess.org/team/streatham--brixton-chess-club) and hit ‘Join’.
+Join our lichess online club by visiting [https://lichess.org/team/streatham--brixton-chess-club](https://lichess.org/team/streatham--brixton-chess-club) and hit ‘Join’.
 
 This will help you find fellow members and enable you to play in club-only events.
 
-Keep and eye on the club's lichess forum: [https://lichess.org/forum/team-streatham--brixton-chess-club](https://lichess.org/forum/team-streatham--brixton-chess-club)
+Keep an eye on the club's lichess forum: [https://lichess.org/forum/team-streatham--brixton-chess-club](https://lichess.org/forum/team-streatham--brixton-chess-club)
 
 Here we will post messages about what will be happening online for our members.
 
