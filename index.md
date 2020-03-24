@@ -7,9 +7,9 @@ layout: default
 
 ## Chess during coronavirus outbreak
 
-There is no face to face chess during the coronavirus crisis. All leagues are suspended, and our venue for social chess, Streatham Library, is closed.
+There is no face to face chess during the coronavirus outbreal. All leagues are suspended and our venue for social chess, Streatham Library, is closed.
 
-However Streatham Chess Club is working on going online.
+However Streatham Chess Club is working towards going online.
 
 To play with clubmates and in club-organised events, do the following:
 
@@ -29,7 +29,7 @@ Here we will post messages about what will be happening online for our members.
 
 ### 3) Mobile apps
 
-Once you are set up on lichess you might want to get a mobile app. These are available in the normal Apple and Google app stores. Some information about the mobile apps can be found here:  https://lichess.org/mobile
+Once you are set up on lichess you might want to get a mobile app. These are available in the normal Apple and Google app stores. Some information about the mobile apps can be found here:  [https://lichess.org/mobile](https://lichess.org/mobile)
 
 <hr>
 
