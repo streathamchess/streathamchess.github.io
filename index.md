@@ -19,9 +19,9 @@ Register with lichess  [(https://lichess.org/)](https://lichess.org/), and creat
 
 ### 2) Join our online club
 
-Join our lichess online club by visiting [https://lichess.org/team/streatham--brixton-chess-club](https://lichess.org/team/streatham--brixton-chess-club) and hit ‘Join’.
+Join our lichess online club by visiting [https://lichess.org/team/streatham--brixton-chess-club](https://lichess.org/team/streatham--brixton-chess-club) and hit ‘Join’. Note that it might take a day or so for your membership request to be processed by club officers.
 
-This will help you find fellow members and enable you to play in club-only events.
+Joining the online group will help you find fellow members and enable you to play in club-only events.
 
 Keep an eye on the club's lichess forum: [https://lichess.org/forum/team-streatham--brixton-chess-club](https://lichess.org/forum/team-streatham--brixton-chess-club)
 
@@ -29,7 +29,7 @@ Here we will post messages about what will be happening online for our members.
 
 ### 3) Mobile apps
 
-Once you are set up on lichess you might want to get a mobile app. These are available in the normal Apple and Google app stores. Some information about the mobile apps can be found here:  [https://lichess.org/mobile](https://lichess.org/mobile)
+Once you are all set up on lichess you might want to get a mobile app. These are available in the normal Apple and Google app stores. Some information about the mobile apps can be found here:  [https://lichess.org/mobile](https://lichess.org/mobile)
 
 <hr>
 
