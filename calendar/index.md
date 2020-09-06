@@ -14,7 +14,7 @@ See our [home page](http://streathamchess.org.uk/) for more details.
 
 <div class="clearfix"></div>
 
-**Original Calendar for 2019-20 Season.**
+**Calendar for 2019-20 Season**
 
 The calendar below reflects our activities in a normal pandemic-free year. All leagues were suspended in March 2020, but may resume when conditions allow.
 
