@@ -36,7 +36,7 @@ Keep an eye on the club's lichess forum: [https://lichess.org/forum/team-streath
 
 Here we will post messages about what will be happening online for our members.
 
-### 3) Mobile apps
+#### 3) Mobile apps
 
 Once you are all set up on lichess you might want to get a mobile app. These are available in the normal Apple and Google app stores. Some information about the mobile apps can be found here:  [https://lichess.org/mobile](https://lichess.org/mobile)
 
