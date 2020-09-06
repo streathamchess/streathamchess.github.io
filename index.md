@@ -12,19 +12,21 @@ At the moment there is no face to face chess because of the ongoing coronavirus 
 However Streatham Chess Club is extremely active online:
 
 - We field teams in national and local leagues
-- We hold internal tournaments, both informal fun ones and more serious ones
+- We hold regular internal tournaments, both informal fun ones and more serious competitions
 - Members run online simuls and other events
-- We also plan on having some more social events, such as quizzes and talks on Zoom
+- We also plan on having some social events, such as quizzes and talks on Zoom
 
 Because all events are online everyone is welcome to take part, and there are no club membership fees being charged.
 
+### Getting started with online chess
+
 To get started playing with clubmates and in club-organised events, do the following:
 
-### 1) Create an account on lichess.org
+#### 1) Create an account on lichess.org
 
 Register with lichess  [(https://lichess.org/)](https://lichess.org/), and create an online user name (if possible one that other members will be able to easily recognize). You can start playing casual games straightaway. 
 
-### 2) Join our online club
+#### 2) Join our online club
 
 Join our lichess online club by visiting [https://lichess.org/team/streatham--brixton-chess-club](https://lichess.org/team/streatham--brixton-chess-club) and hit ‘Join’. Note that it might take a day or so for your membership request to be processed by club officers.
 
