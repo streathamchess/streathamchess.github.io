@@ -3,6 +3,18 @@ title: How to join
 layout: default
 ---
 
+### Online chess during the pandemic
+
+Face to face chess is not currently possible but Streatham Chess Club is still going strong online!
+
+Everyone is welcome to join in our online activities, and they are all free with no club membership fees charged.
+
+See our [home page](http://streathamchess.org.uk/) for more details.
+
+<hr>
+
+<div class="clearfix"></div>
+
 Anyone can join our Tuesday afternoon [Streatham Library chess group](/about/venues.html#whitelion) and there’s nothing
 to pay. If it’s full-on, league chess that you want, you can choose one of two membership
 options to suit you – annual subscription or game fee.
