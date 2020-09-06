@@ -6,6 +6,15 @@ description: Streatham Chess Club's activities in Central London, South London a
 
 <a name="central-london"></a>
 
+### Online chess during the pandemic
+
+Face to face chess is not currently possible but Streatham Chess Club is still going strong online!
+
+See our [home page](http://streathamchess.org.uk/) for more details.
+
+<hr>
+
+<div class="clearfix"></div>
 
 ### Chess in Central London
 
