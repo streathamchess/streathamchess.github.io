@@ -4,11 +4,21 @@ layout: default
 jq_disable: false
 ---
 
-**The Club Calendar for 2019-20 is currently being finalized.**
+### Online chess during the pandemic
 
-The calendar below is mostly complete, but a couple of fixtures in 2020 are likely to be rearranged.
+Face to face chess is not currently possible but Streatham Chess Club is still going strong online!
 
-See the notes section at the end of the calendar for more details.
+See our [home page](http://streathamchess.org.uk/) for more details.
+
+<hr>
+
+<div class="clearfix"></div>
+
+**Original Calendar for 2019-20 Season.**
+
+The calendar below reflects our activities in a normal pandemic-free year. All leagues were suspended in March 2020, but may resume when conditions allow.
+
+In the meantime we have a programme of online activities which includes leagues such as [4NCL Online](http://www.4ncl.co.uk/data/pairings_online.htm#onlinedates) and we also hold [regular club events on lichess](https://lichess.org/team/streatham--brixton-chess-club)
 
 {% include fewseconds.html %}
 
