@@ -7,15 +7,22 @@ layout: default
 
 ## Chess during coronavirus outbreak
 
-There is no face to face chess during the coronavirus outbreak. All leagues are suspended and our venue for social chess, Streatham Library, is closed.
+At the moment there is no face to face chess because of the ongoing coronavirus outbreak. All leagues are still suspended and our venue for social chess, the community centre at Streatham Library, is not currently available.
 
-However Streatham Chess Club is working towards going online.
+However Streatham Chess Club is extremely active online:
 
-To play with clubmates and in club-organised events, do the following:
+- We field teams in national and local leagues
+- We hold internal tournaments, both informal fun ones and more serious ones
+- Members run online simuls and other events
+- We also plan on having some more social events, such as quizzes and talks on Zoom
+
+Because all events are online everyone is welcome to take part, and there are no club membership fees being charged.
+
+To get started playing with clubmates and in club-organised events, do the following:
 
 ### 1) Create an account on lichess.org
 
-Register with lichess  [(https://lichess.org/)](https://lichess.org/), and create an online user name (if possible one that other members will be able to easily recognize). You can start playing causal games straightaway. 
+Register with lichess  [(https://lichess.org/)](https://lichess.org/), and create an online user name (if possible one that other members will be able to easily recognize). You can start playing casual games straightaway. 
 
 ### 2) Join our online club
 
@@ -30,6 +37,8 @@ Here we will post messages about what will be happening online for our members.
 ### 3) Mobile apps
 
 Once you are all set up on lichess you might want to get a mobile app. These are available in the normal Apple and Google app stores. Some information about the mobile apps can be found here:  [https://lichess.org/mobile](https://lichess.org/mobile)
+
+Be aware that not all lichess features can be accessed via the apps, so you may prefer to play using the lichess website, even when using a phone or tablet.
 
 <hr>
 
