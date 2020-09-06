@@ -2,6 +2,17 @@
 title: About us
 layout: default
 ---
+
+### Online chess during the pandemic
+
+Face to face chess is not currently possible but Streatham Chess Club is still going strong online!
+
+See our [home page](http://streathamchess.org.uk/) for more details.
+
+<hr>
+
+<div class="clearfix"></div>
+
 {% include image.html url="/assets/chessart/graffiti-chess-one.jpg" %}
 
 Streatham & Brixton Chess Club goes back a long way. Our club was founded nearly [150 years ago](/clubhistory/index.html) and we are still flourishing today with over 60 active [members](/members.html).
