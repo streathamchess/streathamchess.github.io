@@ -19,7 +19,7 @@ To **watch** any of the action over the three rounds each Sunday (the invited ju
  
 If you would like to **play** in round 3 (on either of the two days – or even both!) you will need to contact us at [SFChess@btinternet.com](mailto:SFChess@btinternet.com) to tell us you are interested. Then register with Lichess – it’s free – and create your own Lichess user-name, which you should share with us in advance (Phil is DayvanCowboy). Then, to play on the day, go to our ‘simultaneous’ on Lichess just before 6.00pm (we will give you the exact address) and, once admitted, it’s your move! 
 
-**To watch** at 2.00pm, 4.00pm or 6.00pm on Sunday 11th go to https://tinyurl.com/StreathamChess1, and on Sunday 18th go to https://tinyurl.com/StreathamChess2.
+**To watch** at 2.00pm, 4.00pm or 6.00pm on Sunday 11th go to <https://tinyurl.com/StreathamChess1>, and on Sunday 18th go to <https://tinyurl.com/StreathamChess2>.
 
 **To play** at 6.00pm on either Sunday email us at [SFChess@btinternet.com](mailto:SFChess@btinternet.com), with Festival Simul in the subject line, and tell us which day you want to play. We’ll then get some more info from you, and send you more details of how to do it. Remember that you will have to register yourself with Lichess.org.
 
