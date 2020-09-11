@@ -10,7 +10,7 @@ No, not a variation of the 'Fried Liver Attack' but what was at steak
 (sorry: stake) in a game-by-text played by club stalwarts Alan Hayward
 and Robin Haldane to while away Lockdown. The rule was one move a day,
 and no computers. They played two games. One was drawn, but other was a
-dogfight (below, and attached in an active game-player) in which they
+dogfight in which they
 went at each other hammer and tongs. When the smoke had cleared Robin
 emerged the winner, and claimed his free lunch (if ever there was such a
 thing). Unusually, and most interestingly, the two players give their
