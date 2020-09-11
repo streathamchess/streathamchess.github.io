@@ -1,3 +1,9 @@
+---
+title:  Robin Haldane v Alan Hayward
+author: Martin Smith
+newpgn: true
+---
+
 **Ham, egg and chips.**
 
 No, not a variation of the 'Fried Liver Attack' but what was at steak
@@ -47,8 +53,8 @@ rxe8+ qxe8 31 qe2 - Robin*) 
 
 **29 Bxd4 Bxd4 30 fxe6+ Bf6 31 c3 d4 32 nf5**  
 
-![](media/image1.png){width="1.95in" height="1.9419094488188977in"}(the
-most complicated position of the game I thought and I looked at this
+{% include image.html url="/assets/photos/robin-fragment.png" align="left" %}
+(the most complicated position of the game I thought and I looked at this
 position for 2 hours 1am to 3am and rejected, after about four looks, 32
 \... d3, 32...dxc3 and 32...rxe6. I played \... rb6 and Robin said he
 was quite relieved that I played this, which is quite funny to come up
