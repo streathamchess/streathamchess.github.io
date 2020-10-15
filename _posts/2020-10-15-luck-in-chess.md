@@ -17,6 +17,8 @@ or thinking too much.
 
 {% include ahimage.html url="/assets/ahpics/ah1.png" align="right" %}
 
+## Round 1
+
 In R1, I was white against **Paul Ritchie**. I thought I was being
 clever in this position as early as move 5(!) with c3 because, if Paul
 took the pawn, I have Qe5 threatening mate, which can only be prevented
@@ -31,6 +33,8 @@ it back to shatter black's K-side with Bxg7.
 
 <div class="clearfix"></div>
 
+
+
 {% include ahimage.html url="/assets/ahpics/ah2.png" align="right" %}Then, a few moves later, I played 9.Qe5
 (see diagram right). I'm sure Paul smelt a rat as to why I hadn't
 dropped the queen back to d1. If Paul plays Nc2+ and takes my Rook, I
@@ -44,6 +48,8 @@ advantage.
 [[https://lichess.org/siqwRFLjtvJR]{.ul}](https://lichess.org/siqwRFLjtvJR)
 
 <div class="clearfix"></div>
+
+## Round 2
 
 !{% include ahimage.html url="/assets/ahpics/ah3.png" align="right" %}
 
@@ -67,6 +73,8 @@ hanging -- 29\...Nxe3. I was able to check mate him a few moves later.
 
 <div class="clearfix"></div>
 
+## Round 3
+
 I was white against **Alan Romeril** in R3. A Bb5 Sicilian was
 level-pegging. Alan refuted my less than subtle attempts to mate him on
 the kingside, and it looked like we might repeat moves. To avoid this, I
@@ -86,6 +94,8 @@ Alan agreed!
 2.5/3 -- not bad going at the halfway stage\...
 
 <div class="clearfix"></div>
+
+## Round 4
 
 I knew it would get tougher on the second Thursday. As I was one of four
 players on 2.5, I was paired with the black pieces against one of my
@@ -111,6 +121,8 @@ increments, so we repeated moves and split the point.
 
 <div class="clearfix"></div>
 
+## Round 5
+
 {% include ahimage.html url="/assets/ahpics/ah5.png" align="right" %}
 In R5, I knew I'd be facing **Martin
 Smith**, the tournament '2nd seed' (168 ECF). He had won in R4 by
@@ -132,6 +144,8 @@ think.
 
 <div class="clearfix"></div>
 
+## Round 6
+
 In the final round I was paired against **Lawrence Wakefield**, an
 unknown quantity for me. I was able to build up a big lead on the clock
 as his pieces got in each other's way and my moves largely played
@@ -145,6 +159,8 @@ felt like I was in control of events.
 [[https://lichess.org/7ccWSPcCOtrE]{.ul}](https://lichess.org/7ccWSPcCOtrE)
 
 <div class="clearfix"></div>
+
+## Tie-break
 
 Graham and I both finished on 5/6 and, as we'd drawn our individual
 game, we had to play an armageddon finish. As white, I had 6 mins to
