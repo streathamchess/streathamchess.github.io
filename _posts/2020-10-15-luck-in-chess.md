@@ -18,7 +18,7 @@ or thinking too much.
 <div class="clearfix"></div>
 
 
-## Round 1
+### Round 1
 
 <div class="clearfix"></div>
 
@@ -56,11 +56,11 @@ advantage.
 
 <div class="clearfix"></div>
 
-## Round 2
+### Round 2
 
 <div class="clearfix"></div>
 
-!{% include ahimage.html url="/assets/ahpics/ah3.png" %}
+{% include ahimage.html url="/assets/ahpics/ah3.png" %}
 
 R2 saw me paired against **Michael Chung**, who has always given me
 tough games online, despite his lower rating. On the black side of a
@@ -82,7 +82,7 @@ hanging -- 29\...Nxe3. I was able to check mate him a few moves later.
 
 <div class="clearfix"></div>
 
-## Round 3
+### Round 3
 
 <div class="clearfix"></div>
 
@@ -106,7 +106,7 @@ Alan agreed!
 
 <div class="clearfix"></div>
 
-## Round 4
+### Round 4
 
 <div class="clearfix"></div>
 
@@ -137,7 +137,7 @@ increments, so we repeated moves and split the point.
 
 <div class="clearfix"></div>
 
-## Round 5
+### Round 5
 
 <div class="clearfix"></div>
 
@@ -162,7 +162,7 @@ think.
 
 <div class="clearfix"></div>
 
-## Round 6
+### Round 6
 
 <div class="clearfix"></div>
 
@@ -180,7 +180,7 @@ felt like I was in control of events.
 
 <div class="clearfix"></div>
 
-## Tie-break
+### Tie-break
 
 Graham and I both finished on 5/6 and, as we'd drawn our individual
 game, we had to play an armageddon finish. As white, I had 6 mins to
