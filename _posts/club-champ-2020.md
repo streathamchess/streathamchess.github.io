@@ -1,5 +1,5 @@
 ---
-title:  S&BCC Club championship 2020
+title:  S&BCC Club Championship 2020
 author: Angus French
 ---
 
