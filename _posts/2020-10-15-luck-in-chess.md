@@ -1,3 +1,9 @@
+---
+title:  The Art of Luck in Chess
+author: Antony Hall
+description: The winner of this year's club championship reflects on the role of luck in his victories
+---
+
 Martin asked if I would consider writing a piece about my experiences in
 the recent S&BCC Club Championship, which I was fortunate enough to win.
 I realised I was quite lucky to win ~~some~~ most of my games, so I
