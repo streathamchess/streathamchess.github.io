@@ -45,11 +45,13 @@ Paul fought valiantly but in the end I was able to convert my material
 advantage.
 
 *Game link:*
-[[https://lichess.org/siqwRFLjtvJR]{.ul}](https://lichess.org/siqwRFLjtvJR)
+[https://lichess.org/siqwRFLjtvJR](https://lichess.org/siqwRFLjtvJR)
 
 <div class="clearfix"></div>
 
 ## Round 2
+
+<div class="clearfix"></div>
 
 !{% include ahimage.html url="/assets/ahpics/ah3.png" align="right" %}
 
@@ -69,11 +71,13 @@ crushing for Black)* 29.Nxh4 and Michael had forgotten his queen was
 hanging -- 29\...Nxe3. I was able to check mate him a few moves later.
 
 *Game link:*
-[[https://lichess.org/oKgV1SuwyQJo]{.ul}](https://lichess.org/oKgV1SuwyQJo)
+[https://lichess.org/oKgV1SuwyQJo](https://lichess.org/oKgV1SuwyQJo)
 
 <div class="clearfix"></div>
 
 ## Round 3
+
+<div class="clearfix"></div>
 
 I was white against **Alan Romeril** in R3. A Bb5 Sicilian was
 level-pegging. Alan refuted my less than subtle attempts to mate him on
@@ -89,13 +93,15 @@ colour as my bishop and I thought I'd be able to hold the draw. Luckily,
 Alan agreed!
 
 *Game link:*
-[[https://lichess.org/gbOOKRZ7LaM0]{.ul}](https://lichess.org/gbOOKRZ7LaM0)
+[https://lichess.org/gbOOKRZ7LaM0](https://lichess.org/gbOOKRZ7LaM0)
 
 2.5/3 -- not bad going at the halfway stage\...
 
 <div class="clearfix"></div>
 
 ## Round 4
+
+<div class="clearfix"></div>
 
 I knew it would get tougher on the second Thursday. As I was one of four
 players on 2.5, I was paired with the black pieces against one of my
@@ -117,11 +123,13 @@ we were down to about 10 seconds each and surviving on 5-second
 increments, so we repeated moves and split the point.
 
 *Game link:*
-[[https://lichess.org/H7rW7TZ7KIAd]{.ul}](https://lichess.org/H7rW7TZ7KIAd)
+[https://lichess.org/H7rW7TZ7KIAd](https://lichess.org/H7rW7TZ7KIAd)
 
 <div class="clearfix"></div>
 
 ## Round 5
+
+<div class="clearfix"></div>
 
 {% include ahimage.html url="/assets/ahpics/ah5.png" align="right" %}
 In R5, I knew I'd be facing **Martin
@@ -140,11 +148,13 @@ here, but is lost after my reply 46\...Qb4 and he resigned after a long
 think.
 
 *Game link:*
-[[https://lichess.org/VV3pL48mMc6f]{.ul}](https://lichess.org/VV3pL48mMc6f)
+[https://lichess.org/VV3pL48mMc6f](https://lichess.org/VV3pL48mMc6f)
 
 <div class="clearfix"></div>
 
 ## Round 6
+
+<div class="clearfix"></div>
 
 In the final round I was paired against **Lawrence Wakefield**, an
 unknown quantity for me. I was able to build up a big lead on the clock
@@ -156,7 +166,7 @@ before he threw in the towel. This was probably the only game where I
 felt like I was in control of events.
 
 *Game link:*
-[[https://lichess.org/7ccWSPcCOtrE]{.ul}](https://lichess.org/7ccWSPcCOtrE)
+[https://lichess.org/7ccWSPcCOtrE](https://lichess.org/7ccWSPcCOtrE)
 
 <div class="clearfix"></div>
 
@@ -177,7 +187,7 @@ was a pawn down in a rook ending but managed to win on time as I was
 moving faster -- Graham said he'd forgotten we weren't using increments.
 
 *Game link:*
-[[https://lichess.org/OyGVI3cWSuNB]{.ul}](https://lichess.org/OyGVI3cWSuNB)
+[https://lichess.org/OyGVI3cWSuNB](https://lichess.org/OyGVI3cWSuNB)
 
 As an aside, I can recommend *How to be Lucky in Chess* by David LeMoir,
 one of my Norfolk team mates. Lots of practical tips!
