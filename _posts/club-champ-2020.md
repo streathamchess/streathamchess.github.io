@@ -1,5 +1,7 @@
-**S&BCC Club championship 2020 -- Angus French (tournament controller)
-reports**
+---
+title:  S&BCC Club championship 2020
+author: Angus French
+---
 
 Our club championship was held on Thursdays 10 and 17 September with
 three rounds on each day. 15 played and we welcomed Lawrence, Cyrus and
@@ -35,8 +37,8 @@ tournament management.
 Further details including game results and links are available at:
 <http://www.zen116966.zen.co.uk/Chess/ClubChamp2020/SBCCClubChampionship2020.pdf>.
 
-Editors note: huge thanks to Angus for the great organisation,
-especially as it means he can't play!
+Editor's note: huge thanks to Angus for the great organisation,
+especially as it means he couldn't play!
 
 **Read Antony Hall's round by round account of his tournament in 'The
 Art of Luck in Chess.'**
