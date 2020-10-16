@@ -141,8 +141,6 @@ increments, so we repeated moves and split the point.
 
 <div class="clearfix"></div>
 
-{% include image.html url="/assets/ahpics/ah5.png" %}
-
 In R5, I knew I'd be facing **Martin
 Smith**, the tournament '2nd seed' (168 ECF). He had won in R4 by
 beating Alan so was half a point ahead of me: only a win would do! My
@@ -153,6 +151,8 @@ fairly secure on the kingside, but Martin had castled long and I was
 struggling to land a blow. Droidfish had Martin as better for most of
 the game, and he gave me plenty of chances to go wrong, but I hung on
 (which involved avoiding several queen swaps).
+
+{% include image.html url="/assets/ahpics/ah5.png" %}
 
 In this position, I'd actually managed to equalise. Martin played 46.Rc6
 here, but is lost after my reply 46\...Qb4 and he resigned after a long
