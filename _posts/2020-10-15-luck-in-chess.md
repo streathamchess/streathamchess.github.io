@@ -22,7 +22,7 @@ or thinking too much.
 
 <div class="clearfix"></div>
 
-{% include ahimage.html url="/assets/ahpics/ah1.png" %}
+{% include image.html url="/assets/ahpics/ah1.png" %}
 
 In R1, I was white against **Paul Ritchie**. I thought I was being
 clever in this position as early as move 5(!) with c3 because, if Paul
@@ -40,7 +40,7 @@ it back to shatter black's K-side with Bxg7.
 
 
 
-{% include ahimage.html url="/assets/ahpics/ah2.png" %}
+{% include image.html url="/assets/ahpics/ah2.png" %}
 
 Then, a few moves later, I played 9.Qe5
 (see diagram right). I'm sure Paul smelt a rat as to why I hadn't
@@ -60,7 +60,7 @@ advantage.
 
 <div class="clearfix"></div>
 
-{% include ahimage.html url="/assets/ahpics/ah3.png" %}
+{% include image.html url="/assets/ahpics/ah3.png" %}
 
 R2 saw me paired against **Michael Chung**, who has always given me
 tough games online, despite his lower rating. On the black side of a
@@ -120,7 +120,7 @@ the Pirc!).
 We got to the following position (which Droidfish actually assesses as
 being better for me -- which I didn't think during the game).
 
-{% include ahimage.html url="/assets/ahpics/ah4.png" %}
+{% include image.html url="/assets/ahpics/ah4.png" %}
 
 I played 17\...f6 (which I was quite pleased with, but Droidfish much prefers
 17\...Rh8). Graham gave up the exchange with 18.Rxh5
@@ -141,7 +141,8 @@ increments, so we repeated moves and split the point.
 
 <div class="clearfix"></div>
 
-{% include ahimage.html url="/assets/ahpics/ah5.png" %}
+{% include image.html url="/assets/ahpics/ah5.png" %}
+
 In R5, I knew I'd be facing **Martin
 Smith**, the tournament '2nd seed' (168 ECF). He had won in R4 by
 beating Alan so was half a point ahead of me: only a win would do! My
@@ -188,7 +189,7 @@ Graham's 5 (no increments), but he only had to draw whereas I had to
 win. I had to give up a pawn to escape an annoying bishop pin and we got
 to this position. Still time for one more slice of luck!
 
-{% include ahimage.html url="/assets/ahpics/ah6.png" %}
+{% include image.html url="/assets/ahpics/ah6.png" %}
 
 
 Graham played 27\...Nxd2 here, when just doubling the rooks on the
