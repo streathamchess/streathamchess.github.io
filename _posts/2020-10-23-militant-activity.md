@@ -3,6 +3,11 @@ title:  "Militant Activity: Chess in Victorian Lambeth and Beyond"
 author: Martin Smith
 description: A talk on chess history, now on YouTube
 ---
+<style>
+  iframe {
+    max-width: 85%;
+  }
+</style>
 
 Streatham and Brixton Chess Club took a trip down memory lane back in September 2020 when, as the club’s unofficial historian, I gave an online talk to the Lambeth Heritage Festival about the origins and early years of the Brixton and the Streatham clubs in the late C19th.
 
