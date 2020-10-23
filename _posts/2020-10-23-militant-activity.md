@@ -5,7 +5,8 @@ description: A talk on chess history, now on YouTube
 ---
 <style>
   iframe {
-    max-width: 85%;
+    max-width: 96%;
+    margin:  auto;
   }
 </style>
 
