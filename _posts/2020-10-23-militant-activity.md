@@ -8,7 +8,7 @@ Streatham and Brixton Chess Club took a trip down memory lane back in September 
 
 It’s now on YouTube, thanks to the Streatham Society:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5fJZ_hxGL00" 
+<iframe width="560" height="420" src="https://www.youtube.com/embed/5fJZ_hxGL00" 
   frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
   allowfullscreen>
 </iframe>
