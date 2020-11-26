@@ -5,13 +5,13 @@ layout: default
 
 ### Streatham & Brixton Chess Club Privacy Policy Concerning the Use of Personal Data
 
-[Streatham and Brixton Chess Club](http://streathamchess.org.uk/) has its home match venue at Streatham Library SW16 1PN. 
+[Streatham and Brixton Chess Club](http://streathamchess.org/) has its home match venue at Streatham Library SW16 1PN. 
 
 We are committed to protecting and respecting your privacy.
 
 #### How we collect and use your personal data 
 
-The only information we obtain about you is provided directly by you, when you join our club or ask to receive our emails and other communications. We do not collect personal data when someone visits our  website [http://streathamchess.org.uk/](http://streathamchess.org.uk/).
+The only information we obtain about you is provided directly by you, when you join our club or ask to receive our emails and other communications. We do not collect personal data when someone visits our  website [http://streathamchess.org/](http://streathamchess.org/).
 
 The personal data we collect is applied for the following purposes consistent with the legitimate purposes of the Club, such as to:
 

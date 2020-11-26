@@ -1,6 +1,6 @@
 Streatham & Brixton Chess Club Website
 
-[Live Website](http://streathamchess.org.uk)
+[Live Website](http://streathamchess.org)
 
 
 To start locally with incremental build

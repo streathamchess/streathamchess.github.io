@@ -10,7 +10,7 @@ description: Streatham Chess Club's activities in Central London, South London a
 
 Face to face chess is not currently possible but Streatham Chess Club is still going strong online!
 
-See our [home page](http://streathamchess.org.uk/) for more details.
+See our [home page](http://streathamchess.org/) for more details.
 
 <hr>
 

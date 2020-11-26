@@ -9,7 +9,7 @@ Face to face chess is not currently possible but Streatham Chess Club is still g
 
 Everyone is welcome to join in our online activities, and they are all free with no club membership fees charged.
 
-See our [home page](http://streathamchess.org.uk/) for more details.
+See our [home page](http://streathamchess.org/) for more details.
 
 <hr>
 
