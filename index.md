@@ -18,12 +18,6 @@ However Streatham Chess Club is extremely active online:
 
 Because all events are online everyone is welcome to take part, and there are no club membership fees being charged.
 
-### Streatham Festival
-
-During October 2020 the club will be holding six special events across two Sundays as part of the Streatham Festival. These are a great opportunity for people of all ages to give chess a try, or to learn a bit more about the game. They will be especially well suited for beginners or those returning to chess after some time away.
-
-Read all the details here: [S&BCC at the Streatham Festival](http://streathamchess.org/2020/09/08/festival-info.html)
-
 ### Getting started with online chess
 
 To get started playing with clubmates and in club-organised events, do the following:
