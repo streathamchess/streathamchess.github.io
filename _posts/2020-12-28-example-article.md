@@ -7,4 +7,4 @@ newpgn: true
 
 Example game
 
-{% include pgn.html url="/assets/image_uploads/Angus_French_vs_Gul_Kapur.pgn" %}
+{% include pgn.html url="/assets/image_uploads/angus_french_vs_gul_kapur.pgn" %}
