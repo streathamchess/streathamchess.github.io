@@ -61,3 +61,23 @@ chess, you won't have to pay anything at all.
 
 So read on to learn a little more [about us](/about/index.html), [where we play](/about/venues.html) and [how to join](/join.html). Feel free to simply drop by at one our Tuesday sessions at Streatham Library, or [get in touch](contact.html) for more information on the club.
 <br/>
+
+<hr>
+
+## Latest Articles
+
+<ul>
+{% for post in site.posts limit:3 %}
+
+    <li>
+    	<h4><a href="{{ post.url }}">{{ post.title }}</a>  &nbsp; <small>{{ post.date | date_to_long_string }}</small></h4>
+    	<p>
+    		{{ post.description }}
+    	</p>
+    	<p>
+
+    	</p>
+    </li>
+
+{% endfor %}
+</ul>
