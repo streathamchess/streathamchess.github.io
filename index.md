@@ -64,6 +64,13 @@ So read on to learn a little more [about us](/about/index.html), [where we play]
 
 <hr>
 
+<style>
+    #latestarticles {
+        color:  white;
+        background-color: darkslategrey;
+    }
+</style>
+<div id="latestarticles">
 ## Latest Articles
 
 <ul>
@@ -81,3 +88,5 @@ So read on to learn a little more [about us](/about/index.html), [where we play]
 
 {% endfor %}
 </ul>
+
+ </div>
