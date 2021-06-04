@@ -71,7 +71,8 @@ So read on to learn a little more [about us](/about/index.html), [where we play]
     }
 </style>
 <div id="latestarticles">
-## Latest Articles
+
+<h2>Latest Articles</h2>
 
 <ul>
 {% for post in site.posts limit:3 %}
@@ -88,5 +89,5 @@ So read on to learn a little more [about us](/about/index.html), [where we play]
 
 {% endfor %}
 </ul>
-
+<br><br>
  </div>
