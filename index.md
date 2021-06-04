@@ -68,8 +68,8 @@ So read on to learn a little more [about us](/about/index.html), [where we play]
     #latestarticles {
         color:  white;
         background-color: darkslategrey;
-        margin-top: 10px;
-        margin-left: 5px;
+        padding-top: 10px;
+        padding-left: 5px;
     }
 </style>
 <div id="latestarticles">
