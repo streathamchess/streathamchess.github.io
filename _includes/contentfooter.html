@@ -2,6 +2,24 @@
 <!-- (distinct from Kostya's footer which is copyright notice etc -->
 
 <style>
+    * {
+  box-sizing: border-box;
+}
+
+/* Create three equal columns that floats next to each other */
+.cf-column {
+  float: left;
+  width: 33.33%;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for testing */
+}
+
+/* Clear floats after the columns */
+.cf-row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
     #contentfooter {
         color:  white;
         background-color: darkslategray;
@@ -13,18 +31,18 @@
   <h3>Footer Block</h3>
   <p>This is a block under construction.</p>
   <br>
-<div id="footerwidgets" class="row mt-0 pt-3 pb-3 pl-5">
-    <div class="col-md border-right border-light" id="fwidget1">
+<div id="footerwidgets" class="cf-row mt-0 pt-3 pb-3 pl-5">
+    <div class="cf-column col-md border-right border-light" id="fwidget1">
         <h5>First col</h5>
         <p>Some placeholder text.</p>
     </div>
 
-    <div class="col-md border-right border-light" id="fwidget2">
+    <div class="cf-column col-md border-right border-light" id="fwidget2">
         <h5>Second col</h5>
         <p>Some more placeholder text.</p>
     </div>
 
-    <div class="col-md" id="fwidget3">
+    <div class="cf-column col-md" id="fwidget3">
         <h5>Third col</h5>
         <p>Some placeholder text.</p>
     </div>
