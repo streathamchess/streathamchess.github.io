@@ -5,18 +5,17 @@ layout: default
 
 {% include image.html url="/assets/chessart/soldier.jpg" description="Jean Metzinger, Soldat jouant aux échecs (Soldier at a Game of Chess)" %}
 
-## Chess during coronavirus outbreak
+## Chess activity while coronavirus continues
 
-At the moment there is no face to face chess because of the ongoing coronavirus outbreak. All leagues are still suspended and our venue for social chess, the community centre at Streatham Library, is not currently available.
+As of July 19th, face-to-face chess is cautiously restarting, with clubs and leagues considering how and when to play over the board again. However, S&BCC’s social and competition chess at Streatham Library remains suspended while the Mark Bennett Streatham Centre is used for COVID-19 testing.
 
-However Streatham Chess Club is extremely active online:
+While face to face chess recovers, Streatham and Brixton Chess Club will remain active as follows:
 
-- We field teams in national and local leagues
-- We hold regular internal tournaments, both informal fun ones and more serious competitions
-- Members run online simuls and other events
-- We also plan on having some social events, such as quizzes and talks on Zoom
+- We will maintain teams in online leagues.
+- We will continue with friendly matches online and/or face to face at away venues.
+- We will continue to hold internal tournaments both informal and more serious - online and/or face-to-face if it becomes possible.
 
-Because all events are online everyone is welcome to take part, and there are no club membership fees being charged.
+Membership fees will start up again as things get back to normal. 
 
 ### Getting started with online chess
 
