@@ -5,7 +5,7 @@ layout: default
 
 {% include image.html url="/assets/chessart/soldier.jpg" description="Jean Metzinger, Soldat jouant aux échecs (Soldier at a Game of Chess)" %}
 
-## Chess activity while coronavirus continues
+## Chess while coronavirus continues
 
 As of July 19th, face-to-face chess is cautiously restarting, with clubs and leagues considering how and when to play over the board again. However, S&BCC’s social and competition chess at Streatham Library remains suspended while the Mark Bennett Streatham Centre is used for COVID-19 testing.
 
