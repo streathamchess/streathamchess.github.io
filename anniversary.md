@@ -5,7 +5,7 @@ layout: default
 
 We are marking our 150th anniversary with a year long series of events running throughout 2021.
 
-## Anniversary Party
+### Anniversary Party
 
 On Saturday July 24th we held a birthday party on Tooting Common.
 
