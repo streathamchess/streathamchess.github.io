@@ -26,6 +26,10 @@ Phasellus mi quam, pharetra a congue pharetra, commodo nec sapien. Quisque et au
 
 <!-- Add images to <div class="fotorama"></div> -->
 <div class="fotorama">
+  <img src="/assets/anniv/anniv-wide.jpg">
+  <img src="/assets/anniv/anniv-cake.jpg">
+  <img src="/assets/anniv/anniv-table.jpg">
+  <img src="/assets/anniv/anniv-martin.jpg">
   <img src="https://s.fotorama.io/1.jpg">
   <img src="https://s.fotorama.io/2.jpg">
 </div>
