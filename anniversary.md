@@ -1,6 +1,7 @@
 ---
 title: Our 150th Anniversary Year
 layout: default
+gallery: true
 ---
 
 We are marking our 150th anniversary with a year long series of events running throughout 2021.
@@ -20,3 +21,11 @@ Vivamus congue ultricies velit, ut sodales urna consequat eu. Maecenas dui massa
 {% include imageleft.html url="/assets/anniv/anniv-cake.jpg" %}
 
 Phasellus mi quam, pharetra a congue pharetra, commodo nec sapien. Quisque et auctor quam, et hendrerit nunc. Sed sem orci, congue nec lorem non, suscipit feugiat dui. Curabitur mollis a massa et ullamcorper. Cras mattis ac risus elementum varius. Vestibulum felis elit, imperdiet non euismod et, hendrerit eu felis. Sed tempor sed leo sed aliquet. Morbi pellentesque tortor vel turpis venenatis condimentum a eu erat. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+
+{% include stopwrapping.html %}
+
+<!-- Add images to <div class="fotorama"></div> -->
+<div class="fotorama">
+  <img src="https://s.fotorama.io/1.jpg">
+  <img src="https://s.fotorama.io/2.jpg">
+</div>
