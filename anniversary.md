@@ -9,7 +9,7 @@ We are marking our 150th anniversary with a year long series of events running t
 
 On Saturday July 24th we held a birthday party on Tooting Common.
 
-{% include bigimage.html align="center" url="/assets/anniv/anniv-wide.jpg" %}
+{% include bigimage.html url="/assets/anniv/anniv-wide.jpg" %}
 
 {% include imageright.html url="/assets/anniv/anniv-martin.jpg" %}
 
