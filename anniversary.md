@@ -22,3 +22,12 @@ On Saturday July 24th we held a birthday party on Tooting Common.
   <img src="/assets/anniv/anniv-table.jpg">
   <img src="/assets/anniv/anniv-martin.jpg">
 </div>
+
+### Anniversary Matches and Tournaments
+
+The club naturally takes part in many league matches and organises a number of club tournaments every year. On top of the normal run of these competitive chess events, in this anniversary year we are also adding some special matches and events related to our history. See below for some reports...
+
+[150th Online Lichess Swiss](/2021/03/08/150th-anniversary-update-1-first-online-tournament-of-our-anniversary-year.html)
+
+[Brickbats Revisited](/2021/03/11/150th-anniversary-update-2-brickbat-revisited.html)
+
