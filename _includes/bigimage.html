@@ -5,7 +5,14 @@
 {% if include.alt %}
   {% assign alttext = include.alt %}
 {% else %}
-  {% assign alttext = "Picture without description" %}
+  {% assign alttext = "Picture" %}
+{% endif %}
+
+
+{% if include.title %}
+  {% assign titletext = include.title %}
+{% else %}
+  {% assign titletext = alttext %}
 {% endif %}
 
 {% if include.align  %}
