@@ -10,7 +10,7 @@ After months of lockdown Streatham Chess Club peeped outside, saw the sun shinin
 
 That’s Matt Carter (shades left), then Robin Haldane and Richard Tillett (under that hat), Angus French (another hat) playing Mark Orpen in the foreground, and Kostya Titorenko and son Peter in combat with Antony Hall further back. Alex Spencer (behind the camera) and son Marcus were also there, as was Olga (Peter’s mum). Jagdip Patel and Garry Smith arrived later.
 
-{% include bigimage.html align="center" url="/assets/image_uploads/untitled.png" %}
+{% include bigimage.html align="center" url="/assets/image_uploads/untitled.png" alt="Collage of chess on the common"%}
 
 Look out for more such gatherings in the future, including a celebration to mark Streatham and Brixton Chess Club's 150th Anniversary.
 
