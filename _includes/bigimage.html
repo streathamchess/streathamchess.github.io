@@ -2,10 +2,16 @@
 
 <div class="clearfix"></div>
 
-{% if include.align  %}
- <div class="img-auto-sized" style="max-width: 100%;" align="{{include.align}}">
+{% if include.alt %}
+  {% assign alttext = include.alt %}
 {% else %}
- <div class="img-auto-sized" style="max-width: 100%;" align="center">
+  {% assign alttext = "" %}
+{% endif %}
+
+{% if include.align  %}
+ <div class="img-auto-sized" style="max-width: 100%;" align="{{include.align}}" alt="{{alttext}}">
+{% else %}
+ <div class="img-auto-sized" style="max-width: 100%;" align="center" alt="{{alttext}}">
 {% endif %}
   <p></p>
   <p>
