@@ -10,4 +10,4 @@ newpgn: true
 
 We kicked-off the anniversary year with a Lichess Swiss (6 rounds @ 7+3) on the 4th Jan). Won by a whisker by Venkat. 17 members and friends entered. Angus organised (and came 4th!).      
 
-![](/assets/image_uploads/anniversary-lichess-result.png)
+{% include bigimage.html align="center" url="/assets/image_uploads/anniversary-lichess-result.png" %}
