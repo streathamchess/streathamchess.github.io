@@ -1,11 +1,14 @@
+{% comment %}
 {% if include.align  %}
  <div class="img-auto-sized" style="float: {{ include.align }}; max-width: 48%; padding-right: 15px; margin-top: 0px;" align="{{include.align}}">
 {% else %}
  <div class="img-auto-sized" style="float: left; max-width: 48%; padding-right: 15px; margin-top: 0px;" align="left">
 {% endif %}
+{% endcomment %}
+  
   <p></p>
   <p>
-   <img src="{{ include.url }}" class="img-responsive"/>
+   <img src="{{ include.url }}" class="img-responsive img-left"/>
  </p>
   {% capture my-include %}{{ include.description }}{% endcapture %}
   <p align="left" style="text-align: left;"><i>{{ my-include | markdownify }}</i></p>
