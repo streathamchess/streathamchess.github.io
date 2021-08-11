@@ -1,0 +1,73 @@
+/* Custom responsive styles for SBCC site */
+
+/* Anything up here applies to all screen sizes from portrait phone upward */
+
+
+/* Images will use the full screen width on small devices */
+
+.img-right, .img-left, .img-full {
+    max-width: 100%;
+}
+
+
+.lichesscontainer {
+    position: relative;
+    overflow: visible;
+    width: 100%;
+    padding-top: 177%; /* lichess iframes will be tall, moves below board */
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.responsive-iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.lichessgame {
+    max-width: 100%;
+}
+
+/* Only applies to screens wider than 480px */
+
+@media (min-width: 480px) {
+  
+    .lichesscontainer {
+        position: relative;
+        overflow: visible;
+        width: 100%;
+        padding-top: 57.23%; /* lichess iframes are wide, board and moves side by side */
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+}
+
+/* Only applies to screens wider than 576px */
+
+/* Floating pics will only take up 50% of screen width max */
+/* Following text will wrap around them */
+
+@media (min-width: 576px) {
+    .img-right {
+        float: right;
+        max-width: 50%;
+        padding-left: 5px;
+        margin-left: 5px;
+        padding-top: 5px;
+        margin-top: 5px;
+    }
+    .img-left {
+        float: left;
+        max-width: 50%;
+        padding-right: 5px;
+        margin-right: 5px;
+        padding-top: 5px;
+        margin-top: 5px;
+    }    
+}
+
