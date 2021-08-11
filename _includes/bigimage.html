@@ -22,7 +22,7 @@
 {% endif %}
   <p></p>
   <p>
-   <img src="{{ include.url }}" class="img-responsive" alt="{{alttext}}" title="{{titletext}}" />
+   <img src="{{ include.url }}" class="img-responsive img-full" alt="{{alttext}}" title="{{titletext}}" />
  </p>
   {% capture my-include %}{{ include.description }}{% endcapture %}
   <p align="left" style="text-align: left;"><i>{{ my-include | markdownify }}</i></p>
