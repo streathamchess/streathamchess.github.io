@@ -4,9 +4,11 @@ author: Martin Smith
 description: "Alan and Robin fight it out again by text. "
 newpgn: false
 ---
-Alan Hayward (this time with white) played Robin Haldane again, by text, in late 2020. Below, Alan takes us through the game - seen from his point of view.  
+Alan Hayward (this time with white) played Robin Haldane again, by text, in late 2020. Below, Alan takes us through the game - seen from his point of view.
 
-You can see the moves here <https://lichess.org/study/socvKKi0/33pJ1oyA#0>    
+{% include lichess.html url="https://lichess.org/study/embed/socvKKi0/33pJ1oyA#0" %}
+
+If the above game display doesn't work well for you, try viewing on lichess here: <https://lichess.org/study/socvKKi0/33pJ1oyA#0>    
 
 **1 e4 e5 2 Nc3 (**We agreed not to play an opening that we usually play -Alan)
 
