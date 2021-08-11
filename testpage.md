@@ -17,6 +17,14 @@ Vivamus congue ultricies velit, ut sodales urna consequat eu. Maecenas dui massa
 
 Pellentesque pulvinar gravida mollis. Sed mattis rutrum ullamcorper. Nunc in est ac purus consectetur interdum non eget mi. Etiam vulputate laoreet est et ullamcorper. Vivamus pellentesque vehicula odio, quis tristique metus lobortis vitae.
 
+{% include lichess.html url="https://lichess.org/study/embed/k9R1tY3O/Dmq3KZW0" %}
+
+Nam quis nisi ipsum. Morbi dignissim eget elit et viverra. Pellentesque vestibulum aliquet placerat. Ut sodales pellentesque augue ut feugiat. Proin a vulputate diam.
+
+{% include lichess.html url="https://lichess.org/embed/rFei1tGc#0" %}
+
+Sed volutpat sollicitudin feugiat. Cras nibh nisi, pellentesque at porttitor non, interdum eu dui. Curabitur feugiat libero et libero posuere, non placerat ligula imperdiet. Nulla nec hendrerit erat, non pharetra est.
+
 {% include imageleft.html align="center" url="/assets/image_uploads/20210531_202625-again.jpg" alt="Chess on the common" %}
 
 Phasellus mi quam, pharetra a congue pharetra, commodo nec sapien. Quisque et auctor quam, et hendrerit nunc. Sed sem orci, congue nec lorem non, suscipit feugiat dui. Curabitur mollis a massa et ullamcorper. Cras mattis ac risus elementum varius. Vestibulum felis elit, imperdiet non euismod et, hendrerit eu felis. Sed tempor sed leo sed aliquet. Morbi pellentesque tortor vel turpis venenatis condimentum a eu erat. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla leo ex, mattis ut lacinia ullamcorper, faucibus ut urna. Mauris consequat vestibulum egestas. Sed sit amet tincidunt dui, porta ultrices enim.
