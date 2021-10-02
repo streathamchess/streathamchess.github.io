@@ -37,18 +37,23 @@ The club naturally takes part in many league matches and organises a number of c
 
 ### Coming Highlights
 
+<br>
+
 #### S&BCC at the Streatham Festival
 
 Saturday 16th October 10.00am to 5.00pm in the Rookery Market.
 
 Chess in the Community! A running simul, a giant chess set, and our chance to strut our stuff in the local community. Come along and join in – and help show them who we are!
 
+<br>
 
 #### Movers and Takers – a 150 Chess History of S&BCC
 
 Martin Smith will be  talking at St. Leonard’s Church Tuesday 2 November 7.30pm                      
 
 Come along to the Streatham Society to hear your editor reveal something of the club’s back story, timed to coincide with the publication of Movers and Takers – a 150 year saga of chess in Streatham and Brixton
+
+<br>
 
 #### Simul by GM Daniel King
 
@@ -57,3 +62,5 @@ Daniel King (a past member of S&BCC) v members of the club – 12.30pm to 4.30pm
 We are looking for 20 club members to take on GM Daniel King (well-known commentator and coach) in a simul on the 13 November. Upcoming improvers and juniors will be especially welcome, as will be a handful of our stronger players.
 
 Let’s show Daniel that S&BCC is still a force to be reckoned with 40-odd years after he was a member. There will be a voluntary £10 board fee. Let Paul Ritchie know if you’d like to play.         
+
+<br>
