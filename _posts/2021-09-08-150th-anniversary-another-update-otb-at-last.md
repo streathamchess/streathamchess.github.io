@@ -31,20 +31,16 @@ Here are a selection of photos from the nigh.
      data-click="true"
      data-swipe="true"
      data-width="100%">
-  <img src="/assets/snheritage/sn-panorma.jpg">
-  <img src="/assets/snheritage/sn1-robin.jpg">
-  <img src="/assets/snheritage/sn2-liam-paul.jpg">
-  <img src="/assets/snheritage/sn3-amar.jpg">
-  <img src="/assets/snheritage/sn4-michael.jpg">
-  <img src="/assets/snheritage/sn5-avar.jpg">
-  <img src="/assets/snheritage/sn6-tim.jpg">
-  <img src="/assets/snheritage/sn7-alex.jpg">
-  <img src="/assets/snheritage/sn8-eric.jpg">
-  <img src="/assets/snheritage/sn8-david.jpg">
+  <img src="/assets/snheritage/sn-panorma.jpg" data-caption="Heritage Match vs South Norwood">
+  <img src="/assets/snheritage/sn1-robin.jpg" data-caption="Robin">
+  <img src="/assets/snheritage/sn2-liam-paul.jpg data-caption="Liam and Paul"">
+  <img src="/assets/snheritage/sn3-amar.jpg" data-caption="Amar">
+  <img src="/assets/snheritage/sn4-michael.jpg" data-caption="Michael">
+  <img src="/assets/snheritage/sn5-avar.jpg" data-caption="Avar">
+  <img src="/assets/snheritage/sn6-tim.jpg" data-caption="Tim">
+  <img src="/assets/snheritage/sn7-alex.jpg" data-caption="Alex">
+  <img src="/assets/snheritage/sn8-eric.jpg" data-caption="Eric">
+  <img src="/assets/snheritage/sn8-david.jpg" data-caption="David">
 </div>
-
-Here is our team on the night (though Zafar is missing, and Alan has dropped in from elsewhere). Board 1 on the left.
-
-{% include bigimage.html align="center" url="/assets/image_uploads/composite.png" alt="Player portraits" %}
 
 An enjoyable evening, perhaps even for those of our guys on whom Lady Luck didn't smile. Thanks to South Norwood's captain David Howes, and their equipment-chief Simon Lea (an S&BCC-man many moons ago), for the comfortable arrangements at the venue.
