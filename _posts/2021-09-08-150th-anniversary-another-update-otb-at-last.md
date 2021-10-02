@@ -6,7 +6,7 @@ description: "We play another 'heritage' match, face to face, with our old
 newpgn: true
 ---
 
-{% include bigimage.html align="center" url="/assets/snheritage/sn-panorama.jpg" alt="Heritage match vs South Norwood" %}
+{% include bigimage.html align="center" url="/assets/snheritage/sn-panorma.jpg" alt="Heritage match vs South Norwood" %}
 
 Thursday 2nd September 2021 was a big day in our 150th Anniversary year: we emerged from the COVID Lockdown to play a proper match, face to face, and Over the Board! It was the latest in our series of ‘heritage’ matches against historic rivals. Having played Battersea, Epsom and Wimbledon online, this time our opponents were local neighbours South Norwood. They kindly hosted this friendly in-person 'heritage match' as our own home venue was still unavailable after Lockdown.
 
