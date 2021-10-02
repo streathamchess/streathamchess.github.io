@@ -51,7 +51,7 @@ Chess in the Community! A running simul, a giant chess set, and our chance to st
 
 Martin Smith will be  talking at St. Leonard’s Church Tuesday 2 November 7.30pm                      
 
-Come along to the Streatham Society to hear your editor reveal something of the club’s back story, timed to coincide with the publication of Movers and Takers – a 150 year saga of chess in Streatham and Brixton
+Come along to the Streatham Society to hear Martin reveal something of the club’s back story, timed to coincide with the publication of Movers and Takers – a 150 year saga of chess in Streatham and Brixton
 
 <br>
 
