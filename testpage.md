@@ -33,4 +33,20 @@ Phasellus mi quam, pharetra a congue pharetra, commodo nec sapien. Quisque et au
 
 {% include imageright.html align="center" url="/assets/image_uploads/20210531_202625-again.jpg" alt="Chess on the common" %}
 
-Sed et auctor enim, id commodo urna. Donec in faucibus metus, quis iaculis eros. Suspendisse vehicula, dui in ultrices iaculis, nisl enim lobortis risus, sit amet posuere lacus eros vitae lacus. Suspendisse non velit sodales, pharetra nibh eget, varius massa. Morbi et fringilla dolor. Vestibulum urna metus, scelerisque eu sem in, consectetur rhoncus tellus. Aliquam ut ultrices ligula, sed vulputate nunc. Integer semper lectus sit amet dui varius, nec fringilla tortor sagittis. Donec in quam interdum, sagittis elit sit amet, imperdiet libero. Pellentesque cursus, est et suscipit scelerisque, enim velit mollis mauris, porttitor rutrum ligula libero nec odio. Etiam sed enim augue. Sed laoreet mauris non maximus bibendum. Aliquam feugiat varius justo.
+Sed et auctor enim, id commodo urna. Donec in faucibus metus, quis iaculis eros. Suspendisse vehicula, dui in ultrices iaculis, nisl enim lobortis risus, sit amet posuere lacus eros vitae lacus. Suspendisse non velit sodales, pharetra nibh eget, varius massa. Morbi et fringilla dolor. Vestibulum urna metus, scelerisque eu sem in, consectetur rhoncus tellus.
+
+<!-- Add images to <div class="fotorama"></div> -->
+<div class="fotorama" 
+     data-loop="true"
+     data-arrows="true"
+     data-click="true"
+     data-swipe="true"
+     data-width="100%">
+  <img src="/assets/anniv/anniv-wide.jpg">
+  <img src="/assets/anniv/anniv-cake.jpg">
+  <img src="/assets/anniv/anniv-table.jpg">
+  <img src="/assets/anniv/anniv-martin.jpg">
+</div>
+
+
+Aliquam ut ultrices ligula, sed vulputate nunc. Integer semper lectus sit amet dui varius, nec fringilla tortor sagittis. Donec in quam interdum, sagittis elit sit amet, imperdiet libero. Pellentesque cursus, est et suscipit scelerisque, enim velit mollis mauris, porttitor rutrum ligula libero nec odio. Etiam sed enim augue. Sed laoreet mauris non maximus bibendum. Aliquam feugiat varius justo.
