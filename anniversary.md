@@ -47,7 +47,7 @@ Chess in the Community! A running simul, a giant chess set, and our chance to st
 
 <br>
 
-#### Movers and Takers – a 150 Chess History of S&BCC
+#### Movers and Takers – a 150 Year Chess History of S&BCC
 
 Martin Smith will be  talking at St. Leonard’s Church Tuesday 2 November 7.30pm                      
 
