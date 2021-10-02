@@ -40,7 +40,7 @@ Here are a selection of photos from the nigh.
   <img src="/assets/snheritage/sn6-tim.jpg" data-caption="Tim">
   <img src="/assets/snheritage/sn7-alex.jpg" data-caption="Alex">
   <img src="/assets/snheritage/sn8-eric.jpg" data-caption="Eric">
-  <img src="/assets/snheritage/sn8-david.jpg" data-caption="David">
+  <img src="/assets/snheritage/sn9-david.jpg" data-caption="David">
 </div>
 
 An enjoyable evening, perhaps even for those of our guys on whom Lady Luck didn't smile. Thanks to South Norwood's captain David Howes, and their equipment-chief Simon Lea (an S&BCC-man many moons ago), for the comfortable arrangements at the venue.
