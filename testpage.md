@@ -1,6 +1,7 @@
 ---
 title: Lorem Test Page
 layout: default
+gallery: true
 ---
 
 **This page is for site testing only.**
@@ -42,6 +43,7 @@ Sed et auctor enim, id commodo urna. Donec in faucibus metus, quis iaculis eros.
      data-click="true"
      data-swipe="true"
      data-width="100%">
+  <img src="/assets/snheritage/sn1-robin.jpg">
   <img src="/assets/anniv/anniv-wide.jpg">
   <img src="/assets/anniv/anniv-cake.jpg">
   <img src="/assets/anniv/anniv-table.jpg">
