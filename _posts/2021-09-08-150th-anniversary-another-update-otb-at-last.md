@@ -33,7 +33,7 @@ Here are a selection of photos from the nigh.
      data-width="100%">
   <img src="/assets/snheritage/sn-panorma.jpg" data-caption="Heritage Match vs South Norwood">
   <img src="/assets/snheritage/sn1-robin.jpg" data-caption="Robin">
-  <img src="/assets/snheritage/sn2-liam-paul.jpg data-caption="Liam and Paul"">
+  <img src="/assets/snheritage/sn2-liam-paul.jpg" data-caption="Liam and Paul">
   <img src="/assets/snheritage/sn3-amar.jpg" data-caption="Amar">
   <img src="/assets/snheritage/sn4-michael.jpg" data-caption="Michael">
   <img src="/assets/snheritage/sn5-avar.jpg" data-caption="Avar">
