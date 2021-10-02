@@ -3,7 +3,7 @@ title: "150th Anniversary: A Big Day. OTB at last!"
 author: Martin Smith
 description: "We play another 'heritage' match, face to face, with our old
   friends South Norwood CC."
-gallery:true
+gallery: true
 ---
 
 {% include bigimage.html align="center" url="/assets/snheritage/sn-panorma.jpg" alt="Heritage match vs South Norwood" %}
