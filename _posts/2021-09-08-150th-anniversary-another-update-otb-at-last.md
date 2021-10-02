@@ -3,7 +3,7 @@ title: "150th Anniversary: A Big Day. OTB at last!"
 author: Martin Smith
 description: "We play another 'heritage' match, face to face, with our old
   friends South Norwood CC."
-newpgn: true
+gallery:true
 ---
 
 {% include bigimage.html align="center" url="/assets/snheritage/sn-panorma.jpg" alt="Heritage match vs South Norwood" %}
@@ -23,6 +23,22 @@ We have lost count of how many times the two clubs have played since their first
 S&BCC was able to field a good mixture of familiar faces (e.g. veteran Robin Haldane, our 4ONCL captain Liam Hylands), young talent (Amar Adatia), and new arrivals (Aivar Jefry, David Vuolo, Tim Cutter).  
 
 A selection of the games can be found at this Lichess Study page: <https://lichess.org/study/mRmzxB1y> where you can see Robin celebrating his return to active play with a nice win on board 1. In typically adventurous style he took his king for a walk to d5 to clinch victory. Back to his old ways, Robin even slipped in his trademark Qh5! Check out as well Zafar’s vigorous win on board 3 against 'never say die' Roy Reddin, and Amar’s confident draw against veteran Martin Cath.  Our new Latvian friend Aivar Jefrey played a game of many pins with Barry Miles (a sometime visitor at S&BCC) and engineered a pretty mate for victory. David Voulo landed a win on board 12, and  Liam's draw on 2 (though neither is shown) brought our score to five . Alex's game on board 10 is noteworthy for his chagrined discovery, in the small hours after the match, of a hidden resource at move 37 - rotten luck missing it, after hanging on for so long in a lost position waiting for something to turn up!  
+
+Here are a selection of player photos from the night.
+
+<!-- Add images to <div class="fotorama"></div> -->
+<div class="fotorama" 
+     data-loop="true"
+     data-arrows="true"
+     data-click="true"
+     data-swipe="true"
+     data-width="100%">
+  <img src="/assets/snheritage/sn-panorma.jpg">
+  <img src="/assets/snheritage/sn1-robin.jpg">
+  <img src="/assets/snheritage/sn2-laim-paul.jpg">
+  <img src="/assets/snheritage/sn3-amar.jpg">
+  <img src="/assets/snheritage/sn4-michael.jpg">
+</div>
 
 Here is our team on the night (though Zafar is missing, and Alan has dropped in from elsewhere). Board 1 on the left.
 
