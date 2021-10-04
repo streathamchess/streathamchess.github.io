@@ -5,13 +5,15 @@ layout: default
 
 {% include image.html url="/assets/chessart/soldier.jpg" description="Jean Metzinger, Soldat jouant aux échecs (Soldier at a Game of Chess)" %}
 
-## Chess while coronavirus continues
+## Chess gradually emerges from pandemic restrictions
 
-As of July 19th, face-to-face chess is cautiously restarting, with clubs and leagues considering how and when to play over the board again. However, S&BCC’s social and competition chess at Streatham Library remains suspended while the Mark Bennett Streatham Centre is used for COVID-19 testing.
+As of October 4th, face-to-face chess is cautiously restarting.
+
+Some clubs and leagues have already started playing over the board again, while others will be gradually resuming over the coming months. Currently S&BCC’s social and competition chess at Streatham Library remains suspended while the Mark Bennett Streatham Centre is used for COVID-19 testing. However this is likely to change in the  coming weeks and months, so keep an eye out for updates.
 
 While face to face chess recovers, Streatham and Brixton Chess Club will remain active as follows:
 
-- We will maintain teams in online leagues.
+- We will continue to maintain teams in online leagues.
 - We will continue with friendly matches online and/or face to face at away venues.
 - We will continue to hold internal tournaments both informal and more serious - online and/or face-to-face if it becomes possible.
 
