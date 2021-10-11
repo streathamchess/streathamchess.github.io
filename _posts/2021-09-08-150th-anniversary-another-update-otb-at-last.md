@@ -36,7 +36,7 @@ Here are a selection of photos from the night.
   <img src="/assets/snheritage/sn2-liam-paul.jpg" data-caption="Liam and Paul">
   <img src="/assets/snheritage/sn3-amar.jpg" data-caption="Amar">
   <img src="/assets/snheritage/sn4-michael.jpg" data-caption="Michael">
-  <img src="/assets/snheritage/sn5-avar.jpg" data-caption="Avar">
+  <img src="/assets/snheritage/sn5-avar.jpg" data-caption="Aivar">
   <img src="/assets/snheritage/sn6-tim.jpg" data-caption="Tim">
   <img src="/assets/snheritage/sn7-alex.jpg" data-caption="Alex">
   <img src="/assets/snheritage/sn8-eric.jpg" data-caption="Eric">

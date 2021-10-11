@@ -16,6 +16,7 @@ While face to face chess recovers, Streatham and Brixton Chess Club will remain 
 - We will continue to maintain teams in online leagues.
 - We will continue with friendly matches online and/or face to face at away venues.
 - We will continue to hold internal tournaments both informal and more serious - online and/or face-to-face if it becomes possible.
+- We will be holding a series of [special events to mark our 150th Anniversary Year](/anniversary).
 
 Membership fees will start up again as things get back to normal. 
 
