@@ -3,9 +3,9 @@ title: How to join
 layout: default
 ---
 
-### Online chess during the pandemic
+### Chess during the pandemic
 
-Face to face chess is not currently possible but Streatham Chess Club is still going strong online!
+Face to face chess is gradually returning to normal, and Streatham Chess Club is also still going strong online!
 
 Everyone is welcome to join in our online activities, and they are all free with no club membership fees charged.
 
