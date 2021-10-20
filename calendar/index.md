@@ -16,9 +16,9 @@ See our [home page](http://streathamchess.org/) for more details.
 
 **Calendar for 2019-20 Season**
 
-The calendar below reflects our activities in a normal pandemic-free year. All leagues were suspended in March 2020, but may resume when conditions allow.
+The calendar below reflects our activities in a normal pandemic-free year. All leagues were suspended in March 2020, but are now resuming as conditions allow.
 
-In the meantime we have a programme of online activities which includes leagues such as [4NCL Online](http://www.4ncl.co.uk/data/pairings_online.htm#onlinedates) and we also hold [regular club events on lichess](https://lichess.org/team/streatham--brixton-chess-club)
+We also have a programme of online activities which includes leagues such as [4NCL Online](http://www.4ncl.co.uk/data/pairings_online.htm#onlinedates) and we also hold [regular club events on lichess](https://lichess.org/team/streatham--brixton-chess-club)
 
 {% include fewseconds.html %}
 
