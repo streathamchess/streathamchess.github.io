@@ -3,9 +3,9 @@ title: About us
 layout: default
 ---
 
-### Online chess during the pandemic
+### Chess during the pandemic
 
-Face to face chess is not currently possible but Streatham Chess Club is still going strong online!
+Face to face chess is gradually returning to normal, and Streatham Chess Club is also still going strong online!
 
 See our [home page](http://streathamchess.org/) for more details.
 
