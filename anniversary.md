@@ -35,7 +35,7 @@ The club naturally takes part in many league matches and organises a number of c
 
 <br><br><br>
 
-### Coming Highlights
+### Special Events
 
 <br>
 
