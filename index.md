@@ -7,15 +7,17 @@ layout: default
 
 ## Chess gradually emerges from pandemic restrictions
 
-As of October 4th, face-to-face chess is cautiously restarting.
+As of November 3rd, face-to-face chess is gradually restarting.
 
-Some clubs and leagues have already started playing over the board again, while others will be gradually resuming over the coming months. Currently S&BCC’s social and competition chess at Streatham Library remains suspended while the Mark Bennett Streatham Centre is used for COVID-19 testing. However this is likely to change in the  coming weeks and months, so keep an eye out for updates.
+The Streatham Library Chess Group is meeting again on Tuesday afternoons, at the same time and place as before the pandemic. Covid safety precautions are in place, and visitors are encouraged to wear masks and make use of the provided hand sanitiser.
 
-While face to face chess recovers, Streatham and Brixton Chess Club will remain active as follows:
+Some clubs and leagues have already started playing over the board again, while others will be  resuming in the near future. Currently S&BCC’s home venue at Streatham Library is available for the casual Tuesday afternoon sessions mentioned above, but availability for evening events outside of normal library opening hours is still to be determined.  However this is likely to change very soon, so keep an eye out for further updates.
+
+While face to face chess fully recovers, Streatham and Brixton Chess Club will remain active as follows:
 
 - We will continue to maintain teams in online leagues.
 - We will continue with friendly matches online and/or face to face at away venues.
-- We will continue to hold internal tournaments both informal and more serious - online and/or face-to-face if it becomes possible.
+- We will continue to hold internal tournaments both informal and more serious - online and/or face-to-face as and when that becomes possible.
 - We will be holding a series of [special events to mark our 150th Anniversary Year](/anniversary).
 
 Membership fees will start up again as things get back to normal. 
