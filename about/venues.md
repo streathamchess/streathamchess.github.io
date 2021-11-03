@@ -12,6 +12,8 @@ Face to face chess is gradually returning to normal, and Streatham Chess Club is
 
 See our [home page](http://streathamchess.org/) for more details.
 
+NB The **Social Chess** explained in the section below is now up and running again!
+
 <hr>
 
 <div class="clearfix"></div>
