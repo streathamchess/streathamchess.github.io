@@ -12,8 +12,6 @@ Our free weekly chess sessions at Streatham Library are held every Tuesday throu
 You can view upcoming events in Week, Month or Agenda view by clicking on the menu bar on the right. Just click on an event to call up further information.  
 We also have a programme of online activities which includes leagues such as [4NCL Online](http://www.4ncl.co.uk/data/pairings_online.htm#onlinedates).  
 
-{% include fewseconds.html %}
-
 <iframe src="https://calendar.google.com/calendar/embed?src=hd72cr06g8mrl45piofljls7cs%40group.calendar.google.com&ctz=Europe%2FLondon" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 <!-- comment out previous Excel embed which doesn't seem to work any more
