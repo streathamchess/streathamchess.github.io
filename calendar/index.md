@@ -18,7 +18,7 @@ We also have a programme of online activities which includes leagues such as [4N
 
 <!-- comment out previous Excel embed which doesn't seem to work any more
 
-<div id="myExcelDiv" style="width: 640px; height: 750px"></div>
+<div id="myExcelDiv" style="width: 640px; height: 750px"></div>https://calendar.google.com/calendar/u/0?cid=aGQ3MmNyMDZnOG1ybDQ1cGlvZmxqbHM3Y3NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ
 <script type="text/javascript" src="https://r.office.microsoft.com/r/rlidExcelWLJS?v=1&kip=1"></script>
 <script type="text/javascript">
 	/*
