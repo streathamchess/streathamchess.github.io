@@ -14,7 +14,7 @@ We also have a programme of online activities which includes leagues such as [4N
 
 {% include fewseconds.html %}
 
-<iframe width="640" height="750" frameborder="0" scrolling="no" src="https://calendar.google.com/calendar/u/0?cid=aGQ3MmNyMDZnOG1ybDQ1cGlvZmxqbHM3Y3NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=hd72cr06g8mrl45piofljls7cs%40group.calendar.google.com&ctz=Europe%2FLondon" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 <!-- comment out previous Excel embed which doesn't seem to work any more
 
