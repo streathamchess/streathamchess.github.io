@@ -4,25 +4,17 @@ layout: default
 jq_disable: false
 ---
 
-### Chess during the pandemic
 
-Face to face chess is gradually returning to normal, and Streatham Chess Club is also still going strong online!
 
-See our [home page](http://streathamchess.org/) for more details.
-
-<hr>
-
-<div class="clearfix"></div>
-
-**Calendar for 2019-20 Season**
-
-The calendar below reflects our activities in a normal pandemic-free year. All leagues were suspended in March 2020, but are now resuming as conditions allow.
-
-We also have a programme of online activities which includes leagues such as [4NCL Online](http://www.4ncl.co.uk/data/pairings_online.htm#onlinedates) and we also hold [regular club events on lichess](https://lichess.org/team/streatham--brixton-chess-club)
+Face-to-face chess is returning to normal.  
+Below is our calendar for the 2021/22 season, including fixtures in the London League, the Central London League and the Surrey League. We will also be entering teams in the Croydon & District League which will restart soon - fixture dates to follow.  
+Our free weekly chess sessions at Streatham Library are held throughout the year (excluding bank holidays) 16:30 to 19:30.  
+You can view upcoming events in Week, Month or Agenda view by clicking on the menu bar on the right. Just click on an event to call up further information.  
+We also have a programme of online activities which includes leagues such as [4NCL Online](http://www.4ncl.co.uk/data/pairings_online.htm#onlinedates).  
 
 {% include fewseconds.html %}
 
-<iframe width="640" height="750" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8EB2B688CF6DF930%21174&authkey=%21AD5i2m1vdM8zXnA&em=2&wdAllowInteractivity=False&Item='Sheet1'!A1%3AO117&wdDownloadButton=True&wdInConfigurator=True"></iframe>
+<iframe width="640" height="750" frameborder="0" scrolling="no" src="https://calendar.google.com/calendar/u/0?cid=aGQ3MmNyMDZnOG1ybDQ1cGlvZmxqbHM3Y3NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ"></iframe>
 
 <!-- comment out previous Excel embed which doesn't seem to work any more
 
