@@ -9,7 +9,7 @@ layout: default
 
 As of November 3rd, face-to-face chess is gradually restarting.
 
-The Streatham Library Chess Group is meeting again on Tuesday afternoons, at the same time and place as before the pandemic. Covid safety precautions are in place, and visitors are encouraged to wear masks and make use of the provided hand sanitiser.
+The Streatham Library chess group is meeting again on Tuesday afternoons, at the same time and place as before the pandemic, though we are currently closed for Christmas and the New Year (reopening 11 January 2022). Covid safety precautions are in place. See [website](https://sites.google.com/site/chessatstreathamlibrary/chess-at-streatham-library) for further information.
 
 Some clubs and leagues have already started playing over the board again, while others will be  resuming in the near future. Currently S&BCC’s home venue at Streatham Library is available for the casual Tuesday afternoon sessions mentioned above, but availability for evening events outside of normal library opening hours is still to be determined.  However this is likely to change very soon, so keep an eye out for further updates.
 
