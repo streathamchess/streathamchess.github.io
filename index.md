@@ -5,7 +5,7 @@ layout: default
 
 {% include image.html url="/assets/chessart/soldier.jpg" description="Jean Metzinger, Soldat jouant aux échecs (Soldier at a Game of Chess)" %}
 
-## Chess gradually emerges from pandemic restrictions
+## Chess emerges from pandemic restrictions
 
 As of November 3rd, face-to-face chess is gradually restarting.
 
