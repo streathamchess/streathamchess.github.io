@@ -50,11 +50,11 @@ For more information, and to enter online, visit the [tournament website](http:/
 
 Catch up on club news by downloading our most recent newsletters, just click on the links below:
 <br/>    
-[August 2022](https://drive.google.com/file/d/1TStQOfHDLuJ-uTIPbAs8nIJCJiuDsdXI/view?usp=sharing).
+<a>August 2022<a href=”https://drive.google.com/file/d/1TStQOfHDLuJ-uTIPbAs8nIJCJiuDsdXI/view?usp=sharing”></a>.
 <br/>
-[June 2022](https://drive.google.com/file/d/1ZR0n5q0LHi9--hnlL-2KCl53EQbIMfUv/view?usp=sharing).
+<a>June 2022](https://drive.google.com/file/d/1ZR0n5q0LHi9--hnlL-2KCl53EQbIMfUv/view?usp=sharing).
 <br/>
-[March 2022](https://drive.google.com/file/d/1Dk7SYb557t3XwlY6L7nTaMOU7XhZqTBZ/view?usp=sharing).
+<a>March 2022](https://drive.google.com/file/d/1Dk7SYb557t3XwlY6L7nTaMOU7XhZqTBZ/view?usp=sharing).
 <ul>
 {% for post in site.posts limit:3 %}
 
