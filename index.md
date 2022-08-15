@@ -5,49 +5,6 @@ layout: default
 
 {% include image.html url="/assets/chessart/soldier.jpg" description="Jean Metzinger, Soldat jouant aux échecs (Soldier at a Game of Chess)" %}
 
-## Chess emerges from pandemic restrictions
-
-As of November 3rd, face-to-face chess is gradually restarting.
-
-The Streatham Library chess group is meeting again on Tuesday afternoons, at the same time and place as before the pandemic. Covid safety precautions are in place. See [website](https://sites.google.com/site/chessatstreathamlibrary/chess-at-streatham-library) for further information.
-
-Some clubs and leagues have already started playing over the board again, while others will be  resuming in the near future. Currently S&BCC’s home venue at Streatham Library is available for the casual Tuesday afternoon sessions mentioned above, but availability for evening events outside of normal library opening hours is still to be determined.  However this is likely to change very soon, so keep an eye out for further updates.
-
-While face to face chess fully recovers, Streatham and Brixton Chess Club will remain active as follows:
-
-- We will continue to maintain teams in online leagues.
-- We will continue with friendly matches online and/or face to face at away venues.
-- We will continue to hold internal tournaments both informal and more serious - online and/or face-to-face as and when that becomes possible.
-- We will be holding a series of [special events to mark our 150th Anniversary Year](/anniversary).
-
-Membership fees will start up again as things get back to normal. 
-
-### Getting started with online chess
-
-To get started playing with clubmates and in club-organised events, do the following:
-
-#### 1) Create an account on lichess.org
-
-Register with lichess  [(https://lichess.org/)](https://lichess.org/), and create an online user name (if possible one that other members will be able to easily recognize). You can start playing casual games straightaway. 
-
-#### 2) Join our online club
-
-Join our lichess online club by visiting [https://lichess.org/team/streatham--brixton-chess-club](https://lichess.org/team/streatham--brixton-chess-club) and hit ‘Join’. Note that it might take a day or so for your membership request to be processed by club officers.
-
-Joining the online group will help you find fellow members and enable you to play in club-only events.
-
-Keep an eye on the club's lichess forum: [https://lichess.org/forum/team-streatham--brixton-chess-club](https://lichess.org/forum/team-streatham--brixton-chess-club)
-
-Here we will post messages about what will be happening online for our members.
-
-#### 3) Mobile apps
-
-Once you are all set up on lichess you might want to get a mobile app. These are available in the normal Apple and Google app stores. Some information about the mobile apps can be found here:  [https://lichess.org/mobile](https://lichess.org/mobile)
-
-Be aware that not all lichess features can be accessed via the apps, so you may prefer to play using the lichess website, even when using a phone or tablet.
-
-<hr>
-
 ## Welcome
 
 Welcome – you’ve arrived at Streatham & Brixton Chess Club’s website.
@@ -64,6 +21,17 @@ for the first year of membership. If all you want is to play ungraded games of f
 chess, you won't have to pay anything at all.
 
 So read on to learn a little more [about us](/about/index.html), [where we play](/about/venues.html) and [how to join](/join.html). Feel free to simply drop by at one our Tuesday sessions at Streatham Library, or [get in touch](contact.html) for more information on the club.
+
+### Enter our Anniversary Rapidplay now, while there are still places left!
+We’re holding a one day rapidplay on Saturday 17 September at Streatham Library to mark the conclusion of our 150th anniversary celebrations:
+- Six rounds of 25 minutes plus 5 seconds per move.
+- Two sections - Major (under 2400) and Minor (under 1750).
+- Entry fee just £20 for ECF Silver members.
+- Winners and runners-up in each section will receive £100/£50; further prizes subject to entries.
+
+For more information, and to enter online, visit the [tournament website](http://congress.org.uk/congress/187/home).
+
+
 <br/>
 
 <hr>
