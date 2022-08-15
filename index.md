@@ -41,19 +41,19 @@ For more information, and to enter online, visit the [tournament website](http:/
         padding-top: 10px;
         padding-left: 5px;
     }
-    
-    
+   
+   
 </style>
 <div id="latestarticles">
 
 <h2>Latest Articles</h2>
 
 Catch up on club news by downloading our most recent newsletters, just click on the links below:
-    
+<br/>    
 [August 2022](https://drive.google.com/file/d/1TStQOfHDLuJ-uTIPbAs8nIJCJiuDsdXI/view?usp=sharing).
-    
+<br/>
 [June 2022](https://drive.google.com/file/d/1ZR0n5q0LHi9--hnlL-2KCl53EQbIMfUv/view?usp=sharing).
-    
+<br/>
 [March 2022](https://drive.google.com/file/d/1Dk7SYb557t3XwlY6L7nTaMOU7XhZqTBZ/view?usp=sharing).
 <ul>
 {% for post in site.posts limit:3 %}
