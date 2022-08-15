@@ -21,7 +21,7 @@ chess, you won't have to pay anything at all.
 So read on to learn a little more [about us](/about/index.html), [where we play](/about/venues.html) and [how to join](/join.html). Feel free to simply drop by at one our Tuesday sessions at Streatham Library, or [get in touch](contact.html) for more information on the club.
 
 ### Enter our Anniversary Rapidplay now, while there are still places left!
-We’re holding a one day rapidplay on Saturday 17 September at Streatham Library to mark the conclusion of our 150th anniversary celebrations:
+We’re holding a one day rapidplay on Saturday 17 September 2022 at Streatham Library to mark the conclusion of our 150th anniversary celebrations:
 - Six rounds of 25 minutes plus 5 seconds per move.
 - Two sections - Major (under 2400) and Minor (under 1750).
 - Entry fee just £20 for ECF Silver members.
