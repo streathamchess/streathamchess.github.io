@@ -5,9 +5,7 @@ layout: default
 
 {% include image.html url="/assets/chessart/soldier.jpg" description="Jean Metzinger, Soldat jouant aux échecs (Soldier at a Game of Chess)" %}
 
-## Welcome
-
-Welcome – you’ve arrived at Streatham & Brixton Chess Club’s website.
+You’ve arrived at Streatham & Brixton Chess Club’s website.
 We hope you’ll take a few moments to find out more about us – we’re a lively chess club
 with a fast-growing membership and we provide opportunities for chess players of all
 abilities.
