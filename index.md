@@ -18,7 +18,7 @@ We offer one of the best-value membership packages in London with a special redu
 for the first year of membership. If all you want is to play ungraded games of friendly
 chess, you won't have to pay anything at all.
 
-So read on to learn a little more [about us](/about/index.html), [where we play](/about/venues.html) and [how to join](/join.html). Feel free to simply drop by at one our Tuesday sessions at Streatham Library, or [get in touch](contact.html) for more information on the club.
+So read on to learn a little more [about us](/about/index.html), [where we play](/about/venues.html) and [how to join](/join.html). Feel free to simply drop by at one our Tuesday sessions at Streatham Library, or [get in touch](contact.html) for more information on the club. <b>Please note that this website is currently being updated and some of the information may no longer be correct.</b> 
 
 ### Enter our Anniversary Rapidplay now, while there are still places left!
 We’re holding a one day rapidplay on Saturday 17 September 2022 at Streatham Library to mark the conclusion of our 150th anniversary celebrations:
@@ -30,7 +30,7 @@ We’re holding a one day rapidplay on Saturday 17 September 2022 at Streatham L
 For more information, and to enter online, visit the [tournament website](http://congress.org.uk/congress/187/home).
 
 ### Club newsletters
-<p> Find out what's been happening at our club by downloading our most recent newsletters, just click on the links below:
+<p> Find out what's been happening at our club by downloading our most recent newsletters. Just click on the links below:
 <p>
 <a href="https://drive.google.com/file/d/1TStQOfHDLuJ-uTIPbAs8nIJCJiuDsdXI/view?usp=sharing">August 2022</a>.
 <p>
