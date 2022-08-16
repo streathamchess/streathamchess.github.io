@@ -39,9 +39,7 @@ For more information, and to enter online, visit the [tournament website](http:/
 <a href="https://drive.google.com/file/d/1Dk7SYb557t3XwlY6L7nTaMOU7XhZqTBZ/view?usp=sharing">March 2022</a>.
 <p>
 <br/>
-
 <hr>
-
     
 <style>
     #latestarticles {
