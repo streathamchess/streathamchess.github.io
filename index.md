@@ -29,12 +29,8 @@ We’re holding a one day rapidplay on Saturday 17 September 2022 at Streatham L
 
 For more information, and to enter online, visit the [tournament website](http://congress.org.uk/congress/187/home).
 
-
-<br/>
-
-<hr>
-
-<p> Catch up on club news by downloading our most recent newsletters, just click on the links below:
+### Club newsletters
+<p> Find out what's been happening at our club by downloading our most recent newsletters, just click on the links below:
 <p>
 <a href="https://drive.google.com/file/d/1TStQOfHDLuJ-uTIPbAs8nIJCJiuDsdXI/view?usp=sharing">August 2022</a>.
 <p>
@@ -42,6 +38,10 @@ For more information, and to enter online, visit the [tournament website](http:/
 <p>
 <a href="https://drive.google.com/file/d/1Dk7SYb557t3XwlY6L7nTaMOU7XhZqTBZ/view?usp=sharing">March 2022</a>.
 <p>
+<br/>
+
+<hr>
+
     
 <style>
     #latestarticles {
