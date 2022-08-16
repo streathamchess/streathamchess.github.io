@@ -4,20 +4,6 @@ layout: default
 description: Streatham Chess Club's activities in Central London, South London and Surrey
 ---
 
-<a name="central-london"></a>
-
-### Chess during the pandemic
-
-Face to face chess is gradually returning to normal, and Streatham Chess Club is also still going strong online!
-
-See our [home page](http://streathamchess.org/) for more details.
-
-NB The **Social Chess** explained in the section below is now up and running again!
-
-<hr>
-
-<div class="clearfix"></div>
-
 ### Chess in Central London
 
 {% include image.html url="/assets/photos/central-london.jpg" description="A London League match" %}
