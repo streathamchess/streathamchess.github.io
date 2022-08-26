@@ -6,11 +6,9 @@ jq_disable: false
 
 
 
-Face-to-face chess is returning to normal.  
-Below is our calendar for the 2021/22 season, including fixtures in the London League, the Central London League and the Surrey League. We will also be entering teams in the Croydon & District League which will restart soon - fixture dates to follow.  
+Below is our calendar for the 2022/23 season. It includes our fixtures in the Central London League but we do not have fixture dates for the other leagues we play in - they will be added as soon as possible.  
 Our free weekly chess sessions at Streatham Library are held every Tuesday throughout the year (excluding bank holidays) 16:30 to 19:30.  
 You can view upcoming events in Week, Month or Agenda view by clicking on the menu bar on the right. Just click on an event to call up further information.  
-We also have a programme of online activities which includes leagues such as [4NCL Online](http://www.4ncl.co.uk/data/pairings_online.htm#onlinedates).  
 
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=Europe%2FLondon&src=aGQ3MmNyMDZnOG1ybDQ1cGlvZmxqbHM3Y3NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23E67C73" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
