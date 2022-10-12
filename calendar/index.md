@@ -6,7 +6,7 @@ jq_disable: false
 
 
 
-Below is our calendar for the 2022/23 season. It includes our fixtures in the Central London League but we do not have fixture dates for the other leagues we play in - they will be added as soon as possible.  
+Below is our calendar for the 2022/23 season. Some fixtures are still to be arranged - they will be added as soon as possible.  
 Our free weekly chess sessions at Streatham Library are held every Tuesday throughout the year (excluding bank holidays) 16:30 to 19:30.  
 You can view upcoming events in Week, Month or Agenda view by clicking on the menu bar on the right. Just click on an event to call up further information.  
 
