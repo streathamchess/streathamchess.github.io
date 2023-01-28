@@ -8,16 +8,18 @@ description: Streatham Chess Club's activities in Central London, South London a
 
 {% include image.html url="/assets/photos/central-london.jpg" description="A London League match" %}
 
-You don’t have to live in the Streatham area to play for us – many of our members live north of the river or outside
-London. They prefer to play their team chess in Central London because of the convenient location and the high quality
-that the [London Chess League](http://www.londonchess.org.uk/main.php) offers. In fact we play more league chess in central London than we do at local venues.
+You don't have to live in the Streatham or Brixton areas to play for us -- many of our members live north of the river or outside London.
+Playing in central London is convenient and offers high-quality competitive chess. In fact, we play more league chess in central London
+than at local venues.
 
-We have three teams in the London Chess League – a 10-board team in Division 1, a 10-board team in Division 2,
-and an 8-board team in Division 4. The majority of our London League matches in 2019-20 will be played at the Citadines Hotel, Holborn, which is located [here](https://www.google.co.uk/maps/place/Citadines+Holborn-Covent+Garden+London/@51.5182942,-0.1206973,17z/data=!4m13!1m7!3m6!1s0x48761b3597627687:0x97304b6330a0a89d!2sHigh+Holborn,+London+WC1V+6LF!3b1!8m2!3d51.5182874!4d-0.1187017!3m4!1s0x0:0xd4a983d961c3e6e5!8m2!3d51.5178531!4d-0.1185583?hl=en), although several other Zone 1 venues will also be used.
-
-Starting in the 2019-20 season we are also fielding a 4-board team in the [Central London Chess League](http://www.oxfordfusion.com/oca/index.cfm?Org=7). Most matches in this league will be played in the [Lillington Gardens Community Centre](https://www.westminster.gov.uk/yourhousing/your-community/hall-hire/lillington-and-longmoore-community-hall) very close to Pimlico tube station.
-
-If you think you might like to play in any of our teams, please contact one of our [club officers](/contact.html).
+In the London Chess League, we have teams in several divisions (the main ones are 8-boards). Matches generally start at 6.45pm and all finish in
+one evening. The league has two principal venues: St Margaret's Hall near Bethnal Green tube (our designated 'home' venue), and the Mind
+Sports Centre at Hammersmith (Ravenscourt Park tube). A few clubs also use their own venues. All venues are in Zones 1 or 2. We also play in
+the Central London Chess League which has smaller teams of 4 or 5 
+boards. It plays all matches, starting at 6.30pm, at one venue:
+Churchill Gardens Tenants Association Hall, near Pimlico tube. At the
+height of the season we have one match a week (sometimes more!) in one
+or other of these two London leagues.
 
 <div class="clearfix"></div>
 
