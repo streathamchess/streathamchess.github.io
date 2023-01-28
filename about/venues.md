@@ -43,9 +43,7 @@ High Road/Hill (including from Brixton tube a 15-minute ride). There is
 free on-street parking adjacent. Away matches are at various clubs to
 which our regulars are usually able to offer lifts. We are also
 affiliated to the Surrey County Chess Association which offers a route
-into county-wide competitions and inter-county match chess. *\[Ed note
--- I will send separately a pic of play at St. Thomas Church Café, to
-replace the current one which was taken at the Library.\]*
+into county-wide competitions and inter-county match chess.
 
 The club usually holds a small number of internal competitions over the
 course of the year. They may be in rapid or blitz formats open to
