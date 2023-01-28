@@ -30,15 +30,34 @@ or other of these two London leagues.
 
 {% include image.html url="/assets/photos/Surrey-Guildford-1.jpg" align="left" description="A Surrey League match at Streatham Library (bds 1-4)" %}
 
-If you do live in or around Streatham, there are also various opportunities to play competitive chess more locally.
+If you live in or around Streatham, there are also opportunities to play
+chess more locally. Our main participation is in the Croydon and
+District Chess League (4 board matches) where we have teams in several
+divisions covering all strengths of play. All usually start at 7.40 and
+all finish in one evening. Our home matches are currently played at the
+Café at St. Thomas Church, corner of Telford Avenue and Salford Road.
+Map [here](https://goo.gl/maps/gsXxZaSgvgWwby2n9). It is a short
+10-minute walk from Streatham Hill Station, and slightly more from
+Balham tube. It is on several bus routes north and south along Streatham
+High Road/Hill (including from Brixton tube a 15-minute ride). There is
+free on-street parking adjacent. Away matches are at various clubs to
+which our regulars are usually able to offer lifts. We are also
+affiliated to the Surrey County Chess Association which offers a route
+into county-wide competitions and inter-county match chess. *\[Ed note
+-- I will send separately a pic of play at St. Thomas Church Café, to
+replace the current one which was taken at the Library.\]*
 
-We play our home matches in the [Surrey League](http://www.scca.co.uk/) and the
-[Croydon & District League](http://www.croydonchessleague.org.uk/) at [Streatham Library](https://www.google.co.uk/maps/place/London+SW16+1PN/@51.4317243,-0.1291294,17z/data=!3m1!4b1!4m2!3m1!1s0x487604280906fd47:0xa10f28b2b86f41a0). We have a 7-board team in
-the second division of the Surrey League, and five 4-board teams in the Croydon & District League. Our away matches are held at various venues around South London and Surrey. Several regulars drive to away matches, so lifts are usually available for those that want them.
-
-We typically also hold  several internal club competitions at Streatham Library over the course of the year. Currently two rapidplay events and a blitz tournament are expected to take place, taking advantage of quiet periods in the league schedule.
-
+The club usually holds a small number of internal competitions over the
+course of the year. They may be in rapid or blitz formats open to
+members and friends of the club.
 <div class="clearfix"></div>
+
+### Online Chess
+
+If you also like to play from the comfort of your own screen we
+currently offer places in our teams in the online 4NCL. Time will tell
+whether this format will remain viable as face-to-face chess is
+re-established after the enforced Lockdown break in 2021.
 
 
 <a name="whitelion"></a>
@@ -47,7 +66,7 @@ We typically also hold  several internal club competitions at Streatham Library 
 
 {% include image.html url="/assets/photos/Improvers2.jpg" description="Members of our Library Improvers Group, getting some practice in preparation for match play." %}
 
-You can play casual chess at [Streatham Library](http://www.lambeth.gov.uk/places/streatham-library) every Tuesday throughout the year. Streatham Library is [here](https://www.google.co.uk/maps/place/London+SW16+1PN/@51.4317243,-0.1291294,17z/data=!3m1!4b1!4m2!3m1!1s0x487604280906fd47:0xa10f28b2b86f41a0) at 63 Streatham High Road, SW16 1PN. We meet in the Mark Bennett Community Centre from 4.30 to 7.30 pm and players of all ages and abilities are welcome, including beginners. We ask that children under 10 are accompanied by an adult. There is nothing to pay and you don't have to be a member of Streatham & Brixton Chess Club to participate.
+You can play casual chess at [Streatham Library](http://www.lambeth.gov.uk/places/streatham-library) every Tuesday throughout the year. Streatham Library is [here](https://www.google.co.uk/maps/place/London+SW16+1PN/@51.4317243,-0.1291294,17z/data=!3m1!4b1!4m2!3m1!1s0x487604280906fd47:0xa10f28b2b86f41a0) at 63 Streatham High Road, SW16 1PN. We meet in the Mark Bennett Community Centre from 4.30 to 7.30 pm and players of all ages and abilities are welcome. We ask that children under 10 are accompanied by an adult. There is nothing to pay and you don't have to be a member of Streatham & Brixton Chess Club to participate.
 
 Strong players often drop by for a few games of blitz chess and several of our Tuesday afternoon regulars also play for our league teams. Members of the informal library chess group also have the opportunity to take part in more organized events, such as club rapidplays.
 
