@@ -14,8 +14,7 @@ Streatham & Brixton Chess Club goes back a long way. Our club was founded over [
 The club has a full [programme of events](/calendar/index.html), with up to
 three matches a week during the league season, and social chess all
 year round. We have teams in the London Chess League (which plays at
-several venues in Central London), and the Central London Chess League
-(which plays at Pimlico). In addition, we have teams in the Croydon
+several venues in Central London), and the Central London Chess League (which plays at Pimlico). In addition, we have teams in the Croydon
 and District League where we play our home matches at the Café at
 St.Thomas Church, Telford Avenue off Streatham Hill. We also use this
 venue for occasional club events -- but our venue for weekly social
