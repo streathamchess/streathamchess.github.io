@@ -11,7 +11,17 @@ layout: default
 
 Streatham & Brixton Chess Club goes back a long way. Our club was founded over [150 years ago](/clubhistory/index.html) and we are still flourishing today with over 40 active [members](/members.html).
 
-The club has a full [programme of events](/calendar/index.html), with two or three matches many weeks during the league season, and social chess all year round. We have several teams in the London Chess League which play their matches at various venues in [Central London](/about/venues.html). In addition, we have teams in the Surrey Chess League and the Croydon & District Chess League, which play their home matches at [Streatham Library](/about/venues.html#woodfield-grove), located on Streatham High Road. The library is also our main venue for [social chess](/about/venues.html#whitelion) and various club competitions.
+The club has a full [programme of events](/calendar/index.html), with up to
+three matches a week during the league season, and social chess all
+year round. We have teams in the London Chess League (which plays at
+several venues in Central London), and the Central London Chess League
+(which plays at Pimlico). In addition, we have teams in the Croydon
+and District League where we play our home matches at the Café at
+St.Thomas Church, Telford Avenue off Streatham Hill. We also use this
+venue for occasional club events -- but our venue for weekly social
+chess is Streatham Library on Streatham High Road. See [Where we play](/about/venues.html) for full details
+of these venues. We are also affiliated to the Surrey League, and
+participate in the Online 4 Nations Chess League.
 
 Although we don’t have a junior section, youngsters are welcome to join us at our Streatham Library Tuesday sessions. There are opportunities for strong juniors to play in our league teams.
 
