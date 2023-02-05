@@ -19,8 +19,8 @@ for the first year of membership. If all you want is to play ungraded games of f
 chess, you won't have to pay anything at all.
 
 So read on to learn a little more [about us](/about/index.html), [where we play](/about/venues.html) and [how to join](/join.html). Feel free to simply drop by at one our Tuesday sessions at Streatham Library, or [get in touch](contact.html) for more information on the club.
-<br>
-<b>Please note that this website is currently being updated and some of the information may no longer be correct.</b> 
+<!--br>
+<b>Please note that this website is currently being updated and some of the information may no longer be correct.</b--> 
 
 ### Club newsletters
 <p> Find out what's been happening at our club by downloading our most recent newsletters. Just click on the links below:
