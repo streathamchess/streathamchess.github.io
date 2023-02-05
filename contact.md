@@ -6,7 +6,9 @@ layout: default
 {% include image.html url="/assets/chessart/chess_rage_1462.jpg" description="The first ever depiction of chess rage? [Partie d'échecs dégénérant en assassinat](http://streathambrixtonchess.blogspot.com/2009/11/chess-in-art-postscript-chess-in_22.html), painted by the 15th century artist Renaut de Montauban." %}
 
 
-**For general enquiries:** Richard Tillett <tillett.richard@gmail.com>
+**For general enquiries:**
+
+Richard Tillett <tillett.richard@gmail.com>
 tel 07973 831619
 
 **Club Management Team**
