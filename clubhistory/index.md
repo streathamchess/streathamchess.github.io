@@ -3,6 +3,20 @@ title: Club history
 layout: default
 ---
 
+### Introduction
+
+Streatham and Brixton Chess Club celebrated its 150^th^ Anniversary in
+2021/22 -- culminating in an Anniversary Rapid Tournament in September
+2022. You can read about our celebrations in our [News and Games](/noticeboard) section - this includes the publication of *Movers and
+Takers -- a chess history of Streatham and Brixton 1871-2021*
+
+*Movers and Takers* is now sold out. But a downloadable version is
+available
+[here](https://drive.google.com/file/d/1FwbYdZj6f2mGce_F8yfb7pMYephzNNFj/view?usp=sharing)
+
+The material below may be read in conjunction with the full 150-year history told in detail in *Movers
+and Takers.*
+
 ### A tale of two clubs
 
 Streatham & Brixton Chess Club can claim to be one of London’s oldest chess clubs with a history that goes back to Victorian times - although it started out as two clubs.
