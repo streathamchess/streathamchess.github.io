@@ -5,9 +5,7 @@ layout: default
 
 ### Introduction
 
-Streatham and Brixton Chess Club celebrated its 150^th^ Anniversary in
-2021/22 -- culminating in an Anniversary Rapid Tournament in September
-2022. You can read about our celebrations in our [News and Games](/noticeboard) section - this includes the publication of *Movers and
+Streatham and Brixton Chess Club celebrated its 150th Anniversary in 2021/22 -- culminating in an [Anniversary Rapid Tournament](/2022/09/29/rapid-tournament-completes-our-150th-anniversary-celebrations.html) in September 2022. You can read about our celebrations in our [News and Games](/noticeboard) section - this includes the publication of *Movers and
 Takers -- a chess history of Streatham and Brixton 1871-2021*
 
 *Movers and Takers* is now sold out. But a downloadable version is
