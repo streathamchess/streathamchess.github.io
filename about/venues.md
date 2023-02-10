@@ -72,3 +72,4 @@ Strong players often drop by for a few games of blitz chess and several of our T
 For more information about Chess at Streatham Library visit the library group's [website](https://sites.google.com/site/chessatstreathamlibrary/).
  
 <div class="clearfix"></div>
+<br><br>
