@@ -6,7 +6,7 @@ description: Streatham Chess Club's activities in Central London, South London a
 
 ### Chess in Central London
 
-{% include image.html url="/assets/photos/central-london.jpg" description="A London League match" %}
+{% include imageright.html url="/assets/photos/central-london.jpg" description="A London League match" %}
 
 You don't have to live in the Streatham or Brixton areas to play for us -- many of our members live north of the river or outside London.
 Playing in central London is convenient and offers high-quality competitive chess. In fact, we play more league chess in central London
@@ -28,7 +28,7 @@ or other of these two London leagues.
 
 ### Competitive Chess in South London
 
-{% include image.html url="/assets/photos/st-thomas-rapid-1024.jpg" align="left" description="A club event at St Thomas Church Cafe" %}
+{% include imageleft.html url="/assets/photos/st-thomas-rapid-1024.jpg" align="left" description="A club event at St Thomas Church Cafe" %}
 
 If you live in or around Streatham, there are also opportunities to play
 chess more locally. Our main participation is in the Croydon and
@@ -62,7 +62,7 @@ re-established after the enforced Lockdown break in 2021.
 
 ### Social Chess at Streatham Library
 
-{% include image.html url="/assets/photos/
+{% include imageright.html url="/assets/photos/
 social-chess-1024.jpg " description="Social chess at Streatham Library." %}
 
 You can play casual chess at [Streatham Library](http://www.lambeth.gov.uk/places/streatham-library) every Tuesday throughout the year. Streatham Library is [here](https://www.google.co.uk/maps/place/London+SW16+1PN/@51.4317243,-0.1291294,17z/data=!3m1!4b1!4m2!3m1!1s0x487604280906fd47:0xa10f28b2b86f41a0) at 63 Streatham High Road, SW16 1PN. We meet in the Mark Bennett Community Centre from 4.30 to 7.30 pm and players of all ages and abilities are welcome. We ask that children under 10 are accompanied by an adult. There is nothing to pay and you don't have to be a member of Streatham & Brixton Chess Club to participate.
