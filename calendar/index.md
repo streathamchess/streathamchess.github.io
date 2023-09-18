@@ -6,9 +6,10 @@ jq_disable: false
 
 
 
-Below is our calendar for the 2022/23 season.
+Below is our calendar for the 2023/24 season. It is incomplete: fixture dates for matches in the Croydon League and the London League's Eastman Cup will be added when known.
 
-Our free weekly chess sessions at Streatham Library are held every Tuesday throughout the year (excluding bank holidays) 16:30 to 19:30.  
+Our free weekly chess sessions at Streatham Library are held every Tuesday throughout the year (excluding bank holidays) 16:30 to 19:30.
+
 You can view upcoming events in Week, Month or Agenda view by clicking on the menu bar on the right. Just click on an event to call up further information.  
 
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=Europe%2FLondon&src=aGQ3MmNyMDZnOG1ybDQ1cGlvZmxqbHM3Y3NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23E67C73" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
