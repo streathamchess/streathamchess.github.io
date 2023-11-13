@@ -6,9 +6,9 @@ jq_disable: false
 
 
 
-Below is our calendar for the 2023/24 season, last updated 18/10/23. More match fixtures and club events will be added as the season progresses.
+Below is our calendar for the 2023/24 season, last updated 13/11/23. More match fixtures and club events will be added as the season progresses.
 
-Our free weekly chess sessions at Streatham Library are held every Tuesday throughout the year, except when the Library is closed, from 16:30pm to 19:30pm.
+Our weekly chess sessions at Streatham Library are currently suspended as the hall is closed to community groups while building work is in progress. We are hoping to find temporary accommodation.
 
 You can view upcoming events in Week, Month or Agenda view by clicking on the menu bar on the right. Just click on an event to call up further information.  
 
