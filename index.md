@@ -25,6 +25,8 @@ So read on to learn a little more [about us](/about/index.html), [where we play]
 ### Club newsletters
 <p> Find out what's been happening at our club by downloading our most recent newsletters. Just click on the links below:
 <p>
+<a href="https://drive.google.com/file/d/1Ebci7VpGcfGexhzAACSC0mqVedHU47Bt/view?usp=sharing">October 2023</a>.
+<p>
 <a href="https://drive.google.com/file/d/1YQS-HvVAWcFIUl_VC5zEE-8brutE-pbT/view?usp=sharing">August 2023</a>.
 <p>   
 <a href="https://drive.google.com/file/d/1t5psKzuemOBtrQyULrpeWbS-icnJwhvY/view?usp=sharing">March 2023</a>.
