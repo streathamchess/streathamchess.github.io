@@ -1,5 +1,5 @@
 ---
-title: Club Contacts
+title: Club contacts
 layout: default
 ---
 
@@ -11,41 +11,38 @@ layout: default
 Richard Tillett <tillett.richard@gmail.com>
 tel 07973 831619
 
-**Club Management Team**
+**Club management:**
 
-Club President: Martin Smith <msmith.ms@btinternet.com> tel 0208 7672355
+Martin Smith <msmith.ms@btinternet.com> tel 0208 7672355 (Club President)
 
-Club Secretary: Richard Tillett <tillett.richard@gmail.com> tel 07973
-831619
+Richard Tillett <tillett.richard@gmail.com> tel 07973 831619 (Club Secretary)
 
-Club Treasurer: Paul Ritchie <paulwritchie@yahoo.co.uk> tel 07842 695544
+Paul Ritchie <paulwritchie@yahoo.co.uk> tel 07842 695544 (Club Treasurer)
 
-Additional team member: James Toon <james.toon@mac.com> tel 07803 812094
+Antony Hall <msmith.ms@btinternet.com> tel 07980 550219
 
-**Team Captains**
+James Toon <james.toon@mac.com> tel 07803 812094
+
+**Team captains:**
 
 London League 1: James Toon <james.toon@mac.com> tel 07803 812094
 
-London League 2: Martin Smith <msmith.ms@btinternet.com> tel 0208
-7672355
+London League 2: Antony Hall <msmith.ms@btinternet.com> tel 07980 550219
 
-Central London League 1: Paul Ritchie <paulwritchie@yahoo.co.uk> tel
-07842 695544
+London League Eastman Cup: James Toon <james.toon@mac.com> tel 07803 812094
+
+Central London League 1: James Toon <james.toon@mac.com> tel 07803 812094
 
 Central London League 2: Paul Ritchie <paulwritchie@yahoo.co.uk> tel
 07842 695544
 
-Croydon League 1: Robin Haldane <robin.haldane173@googlemail.com> tel
-07932 363233
+Croydon League A: Richard Tillett <tillett.richard@gmail.com> tel 07973 831619
 
-Croydon League 2: David Varley <varley_david@hotmail.com> tel 07519
-928852 and Richard Tillett <tillett.richard@gmail.com> tel 07973 831619
+Croydon League B: Richard Tillett <tillett.richard@gmail.com> tel 07973 831619
 
-Croydon League 3: Martin Dale <mdale@phonecoop.coop> tel 07935 054698
-and Richard Tillett <tillett.richard@gmail.com> tel 07973 831619
+Croydon League C: Richard Tillett <tillett.richard@gmail.com> tel 07973 831619
 
-Croydon League Rapid: Robin Haldane <robin.haldane173@googlemail.com>
-tel 07932 363233
+Croydon League D: Richard Tillett <tillett.richard@gmail.com> tel 07973 831619
 
 Surrey League Alexander Cup: Martin Smith <msmith.ms@btinternet.com> tel
 0208 7672355
