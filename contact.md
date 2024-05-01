@@ -19,7 +19,7 @@ Richard Tillett <tillett.richard@gmail.com> tel 07973 831619 (Club Secretary)
 
 Paul Ritchie <paulwritchie@yahoo.co.uk> tel 07842 695544 (Club Treasurer)
 
-Antony Hall <msmith.ms@btinternet.com> tel 07980 550219
+Antony Hall <knight_moves64@hotmail.com> tel 07980 550219
 
 James Toon <james.toon@mac.com> tel 07803 812094
 
@@ -27,7 +27,7 @@ James Toon <james.toon@mac.com> tel 07803 812094
 
 London League 1: James Toon <james.toon@mac.com> tel 07803 812094
 
-London League 2: Antony Hall <msmith.ms@btinternet.com> tel 07980 550219
+London League 2: Antony Hall <knight_moves64@hotmail.com> tel 07980 550219
 
 London League Eastman Cup: James Toon <james.toon@mac.com> tel 07803 812094
 
