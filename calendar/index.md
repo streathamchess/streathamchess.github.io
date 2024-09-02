@@ -6,11 +6,9 @@ jq_disable: false
 
 
 
-Below is our calendar for the 2023/24 season, last updated 2/4/24.
+Below is our calendar for the 2024/25 season, last updated 2/9/24.
 
-Our weekly social chess group is currently meeting at Tooting Conservative Club. Our usual venue, Streatham Library, is closed to community groups while building work is in progress. We expect to return to Streatham Library in May 2024.
-
-You can view upcoming events in Week, Month or Agenda view by clicking on the menu bar on the right. Just click on an event to call up further information.  
+You can view upcoming events in Week, Month or Agenda view. Just click on an event to call up further information.  
 
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=Europe%2FLondon&src=aGQ3MmNyMDZnOG1ybDQ1cGlvZmxqbHM3Y3NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23E67C73" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
