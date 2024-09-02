@@ -6,7 +6,7 @@ jq_disable: false
 
 
 
-Below is our calendar for the 2024/25 season, last updated 2/9/24.
+Below is our calendar for the 2024/25 season. Croydon League fixtures and club nights to follow. Last updated 2/9/24.
 
 You can view upcoming events in Week, Month or Agenda view. Just click on an event to call up further information.  
 
