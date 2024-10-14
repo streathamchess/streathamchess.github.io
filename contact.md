@@ -11,27 +11,23 @@ layout: default
 Richard Tillett <tillett.richard@gmail.com>
 tel 07973 831619
 
-**Club management:**
+**Club officers:**
 
-Martin Smith <msmith.ms@btinternet.com> tel 0208 7672355 (Club President)
+Antony Hall <knight_moves64@hotmail.com> tel 07980 550219 (Chair)
 
-Richard Tillett <tillett.richard@gmail.com> tel 07973 831619 (Club Secretary)
+Richard Tillett <tillett.richard@gmail.com> tel 07973 831619 (Secretary)
 
-Paul Ritchie <paulwritchie@yahoo.co.uk> tel 07842 695544 (Club Treasurer)
-
-Antony Hall <knight_moves64@hotmail.com> tel 07980 550219
-
-James Toon <james.toon@mac.com> tel 07803 812094
+Paul Ritchie <paulwritchie@yahoo.co.uk> tel 07842 695544 (Treasurer)
 
 **Team captains:**
 
-London League 1: James Toon <james.toon@mac.com> tel 07803 812094
+London League 1: Graham Keane <ggrahamkeane@aol.com> tel 07565 519190
 
 London League 2: Antony Hall <knight_moves64@hotmail.com> tel 07980 550219
 
-London League Eastman Cup: James Toon <james.toon@mac.com> tel 07803 812094
+London League Minor: Ed Mospan <eamospan@aol.com> tel 07936 366424
 
-Central London League 1: James Toon <james.toon@mac.com> tel 07803 812094
+Central London League 1: Andrew Stone <andrewstone@blueyonder.co.uk> tel 07544 786041
 
 Central London League 2: Paul Ritchie <paulwritchie@yahoo.co.uk> tel
 07842 695544
