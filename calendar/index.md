@@ -6,11 +6,10 @@ jq_disable: false
 
 
 
-Below is our calendar for the 2024/25 season. Club events will be added during the season. Last updated 26/10/24.
+Below is our calendar for the 2025/26 season. Club events will be added during the season. Last updated 05/09/25.
 
 You can view upcoming events in Week, Month or Agenda view. Just click on an event to call up further information.  
-
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=Europe%2FLondon&src=aGQ3MmNyMDZnOG1ybDQ1cGlvZmxqbHM3Y3NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23E67C73" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=7589710c50e8a7ccd3bef188fd353c75d8596076fb9ce0d4326715bcec3cb708%40group.calendar.google.com&ctz=Europe%2FLondon" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 <!-- comment out previous Excel embed which doesn't seem to work any more
 
