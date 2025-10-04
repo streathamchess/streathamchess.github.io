@@ -10,7 +10,7 @@ options to suit you – an annual subscription or a game fee.
 
 If you only want to play a few games for us every year the best option for you may be to pay on a game-by-game basis. If you are new to competitive chess, you can normally play up to three games for free to try it out and make sure it suits you. Alternatively as a new annual subscription member you pay just half of the full subscription in your first season.
 
-{% include image.html url="/assets/chessart/boileauchess.jpg" description="[Two men playing chess](http://streathambrixtonchess.blogspot.com/2008/08/chess-in-art-xi.html) – wood sculpture by the Canadian artist Alain Boileau. " %}
+{% include image.html url="/assets/chessart/boileauchess.jpg" description="[Two men playing chess](https://streathambrixtonchess.blogspot.com/2008/08/chess-in-art-xi.html) – wood sculpture by the Canadian artist Alain Boileau. " %}
 
 Subscription rates for the 2025-2026 season are:
 
@@ -21,8 +21,8 @@ Subscription rates for the 2025-2026 season are:
 
 As a club member you will be qualified to play for our league teams, subject to selection, and you will be able to participate in club competitions and other members-only events.
 
-To play regular competitive chess in England you will also need to become a member of the English Chess Federation (ECF):
-Bronze membership costs £18 for a year - see [here](https://www.englishchess.org.uk/ecf-membership/) for further information.
+To play regular competitive chess in England - after your first few  games, which are free - you will also need to become a member of the English Chess Federation (ECF).
+Bronze membership currently costs £21 a year for adults - see [here](https://www.englishchess.org.uk/ecf-membership-rates-and-joining-details/) for further information.
 
 
 
