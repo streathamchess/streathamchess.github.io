@@ -47,11 +47,11 @@ free on-street parking adjacent. Away matches are at various clubs to
 which our regulars are usually able to offer lifts.
 
 The club is also
-affiliated to the Surrey County Chess Association which offers members opporunites to play
+affiliated to the Surrey County Chess Association which offers members opportunites to play
 in inter-county matches.
 
 The club usually holds a small number of internal competitions over the
-course of the year. They are typical in rapid or blitz formats and open to
+course of the year. They are typically in rapid or blitz formats and open to
 members and friends of the club.
 
 <div class="clearfix"></div>
