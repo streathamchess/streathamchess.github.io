@@ -12,14 +12,17 @@ You don't have to live in the Streatham or Brixton areas to play for us -- many 
 Playing in central London is convenient and offers high-quality competitive chess. In fact, we play more league chess in central London
 than at local venues.
 
-In the London Chess League, we have teams in several divisions (the main ones are 8-boards). Matches generally start at 6.45pm and all finish in
-one evening. The league has two principal venues: St Margaret's Hall near Bethnal Green tube (our designated 'home' venue), and the Mind
-Sports Centre at Hammersmith (Ravenscourt Park tube). A few clubs also use their own venues. All venues are in Zones 1 or 2. We also play in
+In the London Chess League, we have teams in several divisions (the main ones are 8-boards). Matches generally start at 6.30pm though this can vary a little depending on the match venue. Games last a maximum of three hours and are always finished on the same night. The league has two principal venues: St Margaret's Hall near Bethnal Green tube (our designated 'home' venue), and the Mind
+Sports Centre at Hammersmith (very close to Ravenscourt Park tube). We also play away matches at a few clubs which use their own venue. All venues are in Zones 1 or 2.
+
+We also play in
 the Central London Chess League which has smaller teams of 4 or 5 
-boards. It plays all matches, starting at 6.30pm, at one venue:
-Churchill Gardens Tenants Association Hall, near Pimlico tube. At the
+boards. All matches in this league are played at one venue:
+Churchill Gardens Tenants Association Hall, near Pimlico tube. Matches start at 6:30 and last a maximum of three hours.
+
+At the
 height of the season we have one match a week (sometimes more!) in one
-or other of these two London leagues.
+or other of these two London leagues. League seasons run from sometime in September through to May or June. 
 
 <div class="clearfix"></div>
 
@@ -38,24 +41,27 @@ all finish in one evening. Our home matches are currently played at the
 Café at St. Thomas Church, corner of Telford Avenue and Salford Road.
 Map [here](https://goo.gl/maps/gsXxZaSgvgWwby2n9). It is a short
 10-minute walk from Streatham Hill Station, and slightly more from
-Balham tube. It is on several bus routes north and south along Streatham
+Balham tube. It is also near several bus routes running north and south along Streatham
 High Road/Hill (including from Brixton tube a 15-minute ride). There is
 free on-street parking adjacent. Away matches are at various clubs to
-which our regulars are usually able to offer lifts. We are also
-affiliated to the Surrey County Chess Association which offers a route
-into county-wide competitions and inter-county match chess.
+which our regulars are usually able to offer lifts.
+
+The club is also
+affiliated to the Surrey County Chess Association which offers members opporunites to play
+in inter-county matches.
 
 The club usually holds a small number of internal competitions over the
-course of the year. They may be in rapid or blitz formats open to
+course of the year. They are typical in rapid or blitz formats and open to
 members and friends of the club.
+
 <div class="clearfix"></div>
 
 ### Online Chess
 
-If you also like to play from the comfort of your own screen we
-currently offer places in our teams in the online 4NCL. Time will tell
-whether this format will remain viable as face-to-face chess is
-re-established after the enforced Lockdown break in 2021.
+If you like to play from the comfort of your own screen we
+also offer places in our teams in the online 4 Nations Chess League (4NCL). Games are played
+on the Lichess platform, and matches take place on Tuesday evenings, starting at 7:30pm. The time
+control is 45 minutes with a 15 second increment after each move, so games typically last a couple of hours or less.
 
 
 <a name="whitelion"></a>
