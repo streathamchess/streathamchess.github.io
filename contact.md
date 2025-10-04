@@ -25,13 +25,16 @@ London League 1: Graham Keane <ggrahamkeane@aol.com> tel 07565 519190
 
 London League 2: Antony Hall <knight_moves64@hotmail.com> tel 07980 550219
 
-London League Minor: Ed Mospan <eamospan@aol.com> tel 07936 366424
+London League Intermediate: Ed Mospan <eamospan@aol.com> tel 07936 366424
 
 Central London League 1: Andrew Stone <andrewstone@blueyonder.co.uk> tel 07544 786041
 
 Central London League 2: Andrew Ponting <aponting@alvarezandmarsal.com> tel 07869 514791
 
-Central London League 3: David Marshall -- email & tel TBC
+Central London League 3: David Marshall <davidmarshall203@hotmail.com> tel 07889 154489
+
+
+
 
 Croydon League A: Ed Mospan <eamospan@aol.com> tel 07936 366424
 
