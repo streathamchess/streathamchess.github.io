@@ -15,7 +15,7 @@ tel 07973 831619
 
 Antony Hall <knight_moves64@hotmail.com> tel 07980 550219 (Chair)
 
-Richard Tillett <tillett.richard@gmail.com> tel 07973 831619 (Secretary)
+Chris Bernard <chrispjbernard@gmail.com> tel 07458 079788 (Secretary)
 
 Paul Ritchie <paulwritchie@yahoo.co.uk> tel 07842 695544 (Treasurer)
 
@@ -29,19 +29,20 @@ London League Minor: Ed Mospan <eamospan@aol.com> tel 07936 366424
 
 Central London League 1: Andrew Stone <andrewstone@blueyonder.co.uk> tel 07544 786041
 
-Central London League 2: Paul Ritchie <paulwritchie@yahoo.co.uk> tel
-07842 695544
+Central London League 2: Andrew Ponting <aponting@alvarezandmarsal.com> tel 07869 514791
 
-Croydon League A: Richard Tillett <tillett.richard@gmail.com> tel 07973 831619
+Central London League 3: David Marshall -- email & tel TBC
 
-Croydon League B: Richard Tillett <tillett.richard@gmail.com> tel 07973 831619
+Croydon League A: Ed Mospan <eamospan@aol.com> tel 07936 366424
 
-Croydon League C: Richard Tillett <tillett.richard@gmail.com> tel 07973 831619
+Croydon League B: Ed Mospan <eamospan@aol.com> tel 07936 366424
 
-Croydon League D: Richard Tillett <tillett.richard@gmail.com> tel 07973 831619
+Croydon League C: Ed Mospan <eamospan@aol.com> tel 07936 366424
 
-Surrey League Alexander Cup: Martin Smith <msmith.ms@btinternet.com> tel
-0208 7672355
+Croydon League D: Ed Mospan <eamospan@aol.com> tel 07936 366424
+
+<!--Surrey League Alexander Cup: Martin Smith <msmith.ms@btinternet.com> tel
+0208 7672355-->
 
 4NCL Online: Matthew Tillett <tillett@gmail.com> tel 07782 167693
 
