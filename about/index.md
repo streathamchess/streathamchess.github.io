@@ -9,7 +9,7 @@ layout: default
 
 {% include image.html url="/assets/chessart/graffiti-chess-one.jpg" %}
 
-Streatham & Brixton Chess Club goes back a long way. Our club was founded over [150 years ago](/clubhistory/index.html) and we are still flourishing today with over 40 active [members](/members.html).
+Streatham & Brixton Chess Club goes back a long way. Our club was founded over [150 years ago](/clubhistory/index.html) and we are still flourishing today with over 50 active [members](/members.html).
 
 The club has a full [programme of events](/calendar/index.html), with up to
 three matches a week during the league season, and social chess all
