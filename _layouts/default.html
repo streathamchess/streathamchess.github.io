@@ -98,8 +98,19 @@
 
 	<script type="text/javascript">
 		$(document).ready(function() {
+			function setMenu(open) {
+				$('.row-offcanvas').toggleClass('active', open);
+				$('[data-toggle=offcanvas]').attr('aria-expanded', open);
+			}
 			$('[data-toggle=offcanvas]').click(function() {
-				$('.row-offcanvas').toggleClass('active');
+				setMenu(!$('.row-offcanvas').hasClass('active'));
+			});
+			// On small screens, tapping outside the menu or pressing Escape closes it
+			$(document).on('click', function(event) {
+				if (!$(event.target).closest('#sidebar, [data-toggle=offcanvas]').length) { setMenu(false); }
+			});
+			$(document).on('keydown', function(event) {
+				if (event.key === 'Escape') { setMenu(false); }
 			});
 		});
 	</script>

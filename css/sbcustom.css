@@ -71,3 +71,92 @@
     }    
 }
 
+
+
+/* ---- Left menu: same colours as before, nicer behaviour ---- */
+
+.nav-sidebar > li > a {
+    padding: 10px 20px 10px 16px;
+    border-left: 4px solid transparent;
+    transition: background-color 0.15s, border-color 0.15s, color 0.15s;
+}
+
+.nav-sidebar > li > a:hover,
+.nav-sidebar > li > a:focus {
+    color: #2a6ba5;
+    background-color: #e6eef7;
+    border-left-color: #9fc2e6;
+}
+
+.nav-sidebar > li > a:focus-visible {
+    outline: 2px solid #2a6496;
+    outline-offset: -2px;
+}
+
+.nav-sidebar > .active > a,
+.nav-sidebar > .active > a:hover,
+.nav-sidebar > .active > a:focus {
+    color: #fff;
+    background-color: #428bca;
+    border-left-color: #2a6496;
+}
+
+/* Wide screens: the menu stays in view while a long page is read */
+@media (min-width: 769px) {
+    .row-offcanvas {
+        display: flex;
+        align-items: flex-start;
+    }
+    .row-offcanvas:before,
+    .row-offcanvas:after {
+        display: none;
+    }
+    .row-offcanvas > .sidebar-offcanvas {
+        position: sticky;
+        top: 50px; /* below the fixed top bar */
+        flex: 0 0 auto;
+        max-height: calc(100vh - 50px);
+        overflow-y: auto;
+    }
+    .row-offcanvas > .main {
+        flex: 0 0 auto;
+    }
+}
+
+/* Phones and small tablets: the menu is a slide-over drawer that does not push the page aside */
+@media (max-width: 768px) {
+    .row-offcanvas.row-offcanvas-left .sidebar-offcanvas {
+        position: fixed;
+        top: 50px;
+        bottom: 0;
+        left: 0;
+        width: 260px;
+        max-width: 80%;
+        margin-left: 0;
+        padding: 0;
+        overflow-y: auto;
+        z-index: 1030;
+        background-color: #f5f5f5;
+        transform: translateX(-105%);
+        transition: transform 0.25s ease-out, box-shadow 0.25s;
+    }
+    .row-offcanvas.row-offcanvas-left.active {
+        left: 0;
+    }
+    .row-offcanvas.row-offcanvas-left.active .sidebar-offcanvas {
+        transform: translateX(0);
+        box-shadow: 2px 0 14px rgba(0, 0, 0, 0.3);
+    }
+    .row-offcanvas > .main {
+        float: none;
+        width: 100%;
+    }
+    .nav-sidebar {
+        margin-left: 0;
+        margin-right: 0;
+    }
+    .nav-sidebar > li > a {
+        padding-top: 13px;
+        padding-bottom: 13px;
+    }
+}

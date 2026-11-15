@@ -1,26 +1,28 @@
  {% assign current = page.url | downcase | split: '/' %}
+ {% assign section = current[1] %}
+ {% if page.collection == 'posts' %}{% assign section = 'noticeboard' %}{% endif %}
 
  <ul class="nav nav-sidebar">
-  <li {% if current[1] == null %} class="active" {% endif %}>
-    <a href="/index.html">Welcome</a>
+  <li{% if current[1] == null %} class="active"{% endif %}>
+    <a href="/index.html"{% if current[1] == null %} aria-current="page"{% endif %}>Welcome</a>
   </li>
-   <li {% if current[1] == 'about' and current[2] == null %} class="active" {% endif %}>
-    <a href="/about">About us</a>
+   <li{% if current[1] == 'about' and current[2] == null %} class="active"{% endif %}>
+    <a href="/about"{% if current[1] == 'about' and current[2] == null %} aria-current="page"{% endif %}>About us</a>
   </li>
-  <li {% if current[2] == 'venues.html' %} class="active" {% endif %}>
-    <a href="/about/venues.html">Where we play</a>
+  <li{% if current[2] == 'venues.html' %} class="active"{% endif %}>
+    <a href="/about/venues.html"{% if current[2] == 'venues.html' %} aria-current="page"{% endif %}>Where we play</a>
   </li>
   <!--li {% if current[1] == 'anniversary.html' %} class="active" {% endif %}>
     <a href="/anniversary">Our Anniversary</a>
   </li-->
-  <li {% if current[1] == 'join.html' %} class="active" {% endif %}>
-    <a href="/join.html">How to join</a>
+  <li{% if current[1] == 'join.html' %} class="active"{% endif %}>
+    <a href="/join.html"{% if current[1] == 'join.html' %} aria-current="page"{% endif %}>How to join</a>
   </li>
-  <li {% if current[1] == 'noticeboard' %} class="active" {% endif %}>
-    <a href="/noticeboard">News and games</a>
+  <li{% if section == 'noticeboard' %} class="active"{% endif %}>
+    <a href="/noticeboard"{% if section == 'noticeboard' %} aria-current="page"{% endif %}>News and games</a>
   </li>
-  <li {% if current[1] == 'calendar' %} class="active" {% endif %}>
-    <a href="/calendar">Club calendar</a>
+  <li{% if current[1] == 'calendar' %} class="active"{% endif %}>
+    <a href="/calendar"{% if current[1] == 'calendar' %} aria-current="page"{% endif %}>Club calendar</a>
   </li>
   <!--li {% if current[1] == 'members.html' %} class="active" {% endif %}>
     <a href="/members.html">Members' grades</a>
@@ -32,18 +34,18 @@
     <a href="/past-results.html">Past results</a>
   </li-->
 
-  <li {% if current[1] == 'clubhistory' %} class="active" {% endif %}>
-    <a href="/clubhistory">Club history</a>
+  <li{% if current[1] == 'clubhistory' %} class="active"{% endif %}>
+    <a href="/clubhistory"{% if current[1] == 'clubhistory' %} aria-current="page"{% endif %}>Club history</a>
   </li>
  <!--li {% if current[1] == 'converter.html' %} class="active" {% endif %}>
     <a href="/converter.html">ECF/FIDE Converter</a>
  </li-->
   
-  <li {% if current[1] == 'links.html' %} class="active" {% endif %}>
-    <a href="/links.html">Links</a>
+  <li{% if current[1] == 'links.html' %} class="active"{% endif %}>
+    <a href="/links.html"{% if current[1] == 'links.html' %} aria-current="page"{% endif %}>Links</a>
   </li>
-  <li {% if current[1] == 'contact.html' %} class="active" {% endif %}>
-    <a href="/contact.html">Club Contacts</a>
+  <li{% if current[1] == 'contact.html' %} class="active"{% endif %}>
+    <a href="/contact.html"{% if current[1] == 'contact.html' %} aria-current="page"{% endif %}>Club Contacts</a>
   </li>
   <!-- li {% if current[1] == 'privacy.html' %} class="active" {% endif %}>
     <a href="/privacy.html">Privacy</a>
