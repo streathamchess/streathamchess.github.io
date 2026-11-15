@@ -26,7 +26,7 @@ Our group goes from strength to strength, but a consultation exercise last Summe
 
 ### Club Nights – Richard Tillett reports
 
-<figure style="margin: 15px 0;">
+<figure style="margin: 15px 0; clear: both;">
 <img src="/assets/image_uploads/nl33-club-night-cafe.jpg" class="img-responsive" alt="A club night at St. Thomas’s Café, seen from outside">
 <figcaption><i>Club Night or Night Club?</i></figcaption>
 </figure>
@@ -90,7 +90,7 @@ Martin Smith adds: The Division 3 Final produced a fighting see-saw game by Yase
 
 #### London Classic (26 November – 7 December 2025)
 
-<figure style="margin: 15px 0;">
+<figure style="margin: 15px 0; clear: both;">
 <img src="/assets/image_uploads/nl33-london-classic.jpg" class="img-responsive" alt="Players at the London Classic">
 </figure>
 
@@ -126,7 +126,7 @@ Qixiang Han competed in the under-12s competition. He was ranked 17th/124 at the
 
 **Women’s Open club team tournament.** In the parallel event for 4 board women’s teams, a team of Chinese players, led by WGM Li Xueyi, played under the title of Streatham and Brixton! Li (who is Qixiang Han’s online coach) takes up the story – and gives us the rare opportunity to post some beautiful Chinese script:
 
-<figure style="margin: 15px 0;">
+<figure style="margin: 15px 0; clear: both;">
 <img src="/assets/image_uploads/nl33-li-xueyi-script-b.jpg" class="img-responsive" alt="A handwritten account in Chinese by WGM Li Xueyi, dated 19 December 2025">
 </figure>
 

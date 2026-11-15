@@ -31,7 +31,7 @@ And hello, too, to ‘Chess at the Café’ club nights! An ancient club traditi
 
 Chair Antony Hall reviewed the past season. There were standout performances from our OTB London League MI, Croydon League D and both our Central London League teams. We did well, too, in one-off team events (Surrey County Thorp – 2nd place by our U1450s; SCCU London Club Champs – 1st place by our U1650s).
 
-<figure style="margin: 15px 0;">
+<figure style="margin: 15px 0; clear: both;">
 <img src="/assets/image_uploads/nl32-sccu-u1650-team.jpg" class="img-responsive" alt="The S&BCC team: five players standing in front of a brick wall">
 <figcaption><i>Team photo, left to right: Tom Mayers, Nic Basty, Ed Mospan, Austin Sopocko, Richard Tillett.</i></figcaption>
 </figure>

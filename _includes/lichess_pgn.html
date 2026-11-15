@@ -26,5 +26,5 @@ and reads from Lichess itself until that copy exists.
 {%- if slug -%}
 {%- assign local = "/assets/pgn/lichess/" | append: slug | append: ".pgn" -%}
 {%- assign archived = site.static_files | where: "path", local | first -%}
-<div class="lichess-pgn" id="lichess-pgn-{{ slug }}" data-src="{% if archived %}{{ local }}{% else %}{{ live | escape }}{% endif %}" data-fallback="{{ live | escape }}" data-link="{{ link }}"></div>
+<div class="lichess-pgn" style="clear: both;" id="lichess-pgn-{{ slug }}" data-src="{% if archived %}{{ local }}{% else %}{{ live | escape }}{% endif %}" data-fallback="{{ live | escape }}" data-link="{{ link }}"></div>
 {%- endif -%}
