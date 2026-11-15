@@ -25,11 +25,14 @@ So read on to learn a little more [about us](/about/index.html), [where we play]
     
 <style>
     #latestarticles {
-        color:  white;
-        background-color: darkslategrey;
-        padding-top: 10px;
-        padding-left: 5px;
+        color: #333;
+        background-color: #eef3f7;
+        border-left: 5px solid #428bca;
+        padding: 10px 15px 2px 15px;
+        margin-top: 20px;
     }
+    #latestarticles h2 { margin-top: 0; }
+    #latestarticles li p:empty { display: none; }
    
    
 </style>
@@ -54,5 +57,4 @@ So read on to learn a little more [about us](/about/index.html), [where we play]
 </ul>
 
 <p><a href="/noticeboard/">More news and games</a></p>
-<br><br>
  </div>
