@@ -2,6 +2,7 @@ backend:
   name: github
   repo: streathamchess/streathamchess.github.io
   branch: master # Branch to update
+  base_url: https://streatham-cms-auth.titorenko.workers.dev # OAuth proxy (Cloudflare Worker) for "Sign In with GitHub"
 
 media_folder: "assets/image_uploads" # Where uploaded files are stored in the repo
 public_folder: "/assets/image_uploads" # How posts refer to them (as existing posts do)
