@@ -110,6 +110,14 @@ collections:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
           - {label: "Body", name: "body", widget: "markdown", modes: ["raw", "rich_text"]}
+      - name: "calendar"
+        label: "Club calendar page (text only; events are edited in Google Calendar)"
+        file: "calendar/index.md"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "jQuery disabled", name: "jq_disable", widget: "hidden", default: false}
+          - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
+          - {label: "Body", name: "body", widget: "markdown", modes: ["raw", "rich_text"]}
       - name: "links"
         label: "Links"
         file: "links.md"
