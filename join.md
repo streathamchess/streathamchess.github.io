@@ -12,7 +12,7 @@ If you only want to play a few games for us every year the best option for you m
 
 {% include image.html url="/assets/chessart/boileauchess.jpg" description="[Two men playing chess](https://streathambrixtonchess.blogspot.com/2008/08/chess-in-art-xi.html) – wood sculpture by the Canadian artist Alain Boileau. " %}
 
-Subscription rates for the 2025-2026 season are:
+Subscription rates for the 2026-2027 season are:
 
 * £45 full membership.
 * £22.50 first year of membership.
