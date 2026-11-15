@@ -1,0 +1,37 @@
+[Event "46th FIDE Chess Olympiad 2026 | Puzzle Pack: Kovalenko, Igor - Mwadzura, Roy"]
+[Site "https://lichess.org/broadcast/46th-fide-chess-olympiad-samarkand-2026-open-i/round-1/DfnuMSan/7YF7pT83"]
+[Date "2026.09.16"]
+[Round "1.413"]
+[White "Kovalenko, Igor"]
+[Black "Mwadzura, Roy"]
+[Result "1-0"]
+[WhiteElo "2642"]
+[WhiteTitle "GM"]
+[WhiteTeam "Ukraine"]
+[WhiteFideId "14117908"]
+[BlackElo "2211"]
+[BlackTitle "FM"]
+[BlackTeam "Zimbabwe"]
+[BlackFideId "11004436"]
+[Annotator "https://lichess.org/@/NaSil"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "46th FIDE Chess Olympiad 2026 | Puzzle Pack"]
+[ChapterName "Kovalenko, Igor - Mwadzura, Roy"]
+[ChapterURL "https://lichess.org/study/Zwqt6BdF/TFFN2q5c"]
+[FEN "rn1r2k1/pb3ppp/1p2pn2/3p4/1PP5/q2N2P1/P2NPPBP/R2Q1RK1 b - - 0 14"]
+[SetUp "1"]
+[Orientation "white"]
+[ChapterMode "gamebook"]
+
+{ [%anno "AAArmstark", aaarmstark] Welcome to our Puzzle Pack for the 46th FIDE Chess Olympiad 2026, which took place in Samarkand, Uzbekistan!
+
+We hope you enjoy the puzzles, annotated and curated by FM Nazmi Can Doğan (https://lichess.org/@/NaSil) and FM Tamer Tarık Selbes (https://lichess.org/@/nuagesgris).
+
+You can replay all the games in our broadcasts: https://lichess.org/broadcast/46th-fide-chess-olympiad-samarkand-2026/32sSzO6S
+
+Now, let's start with the Round 1 game between GM Igor Kovalenko of Team Ukraine and FM Roy Mwadzura of Team Zimbabwe. } 14... a5?? { Before, it was a normal-looking position, now it's not! What had Black missed when making the previous move? } { [%clk 1:09:33] } 15. Nb1 { [%anno "AAArmstark", aaarmstark] Black's Queen is trapped, Black resigned.
+For example ... } { [%csl Ra3] } 15... Qxb4 { [%anno "AAArmstark", aaarmstark] ... and White simply captures the queen ... } 16. Nxb4 { [%anno "AAArmstark", aaarmstark] Replay the game: https://lichess.org/broadcast/46th-fide-chess-olympiad-samarkand-2026-open-matches-1-12/round-1/DfnuMSan/7YF7pT83 } 1-0
+
+
