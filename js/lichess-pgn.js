@@ -1,4 +1,4 @@
-// Draws the boards for _includes/lichess_pgn.html with PgnViewerJS 1.6 (js/pgnviewer-1.6.11).
+// Draws the boards for _includes/lichess_pgn.html with js/pgn-board.js (PgnViewerJS 1.6).
 // The older viewer in js/pgnviewer is still used by the posts with newpgn: true.
 (function () {
   "use strict";
@@ -31,11 +31,9 @@
       board.id = box.id + "-" + i;
       board.style.cssText = "width: 800px; max-width: 100%; margin-top: 20px; margin-bottom: 20px;";
       box.appendChild(board);
-      try {
-        PGNV.pgnView(board.id, { pgn: pgn, locale: "en", pieceStyle: "merida", theme: "blue", layout: box.clientWidth >= 640 ? "left" : "top" });
-      } catch (error) {
+      streathamPgnBoard(board.id, { pgn: pgn }).catch(function () {
         board.textContent = "This game could not be shown.";
-      }
+      });
     });
   }
 

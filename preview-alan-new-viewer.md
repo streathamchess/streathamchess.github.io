@@ -14,7 +14,7 @@ Our 3rd team played a match against BBCA 1 this week. It was not an easy match w
 
 <div id="board1" style="width: 800px; max-width: 100%; margin-top: 20px; margin-bottom: 20px;"></div>
 <script src="/js/pgnviewer-1.6.11/dist.js"></script>
+<script src="/js/pgn-board.js"></script>
 <script>
-  var cfg = { pgnFile: '/assets/news/alan_game.pgn', locale: 'en', pieceStyle: 'merida', orientation: 'white', theme: 'blue', layout: 'left', scrollable: true, movesHeight: '540px'};
-  var board = PGNV.pgnView('board1', cfg);
+  streathamPgnBoard('board1', { pgnFile: '/assets/news/alan_game.pgn', orientation: 'white' });
 </script>
