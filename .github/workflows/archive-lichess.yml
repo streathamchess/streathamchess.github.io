@@ -1,0 +1,42 @@
+name: Archive Lichess games
+
+# When a page or post that uses a Lichess game or study is saved, keep a copy of its PGN in
+# assets/pgn/lichess/ so the board still works if the game later leaves Lichess.
+on:
+  push:
+    branches: [master]
+    paths: ["**/*.md", ".github/**"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+
+concurrency:
+  group: archive-lichess
+  cancel-in-progress: false
+
+jobs:
+  archive:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Save games used on the site
+        run: python3 .github/scripts/archive_lichess.py
+
+      - name: Commit the new copies and rebuild the site
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          if [ -z "$(git status --porcelain assets/pgn/lichess)" ]; then
+            echo "Nothing new to save"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/pgn/lichess
+          git commit -m "Save copies of Lichess games used on the site"
+          git pull --rebase origin master
+          git push origin HEAD:master
+          gh api -X POST "repos/${{ github.repository }}/pages/builds"
