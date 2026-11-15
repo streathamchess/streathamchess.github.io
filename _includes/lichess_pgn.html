@@ -4,6 +4,10 @@ Parameters: game, or study with an optional chapter. Normally inserted by the Li
 It uses the copy saved in assets/pgn/lichess/ by .github/workflows/archive-lichess.yml,
 and reads from Lichess itself until that copy exists.
 {%- endcomment -%}
+{%- comment -%} assign leaks between includes on a page, so start clean {%- endcomment -%}
+{%- assign slug = nil -%}
+{%- assign live = nil -%}
+{%- assign link = nil -%}
 {%- if include.game and include.game != "" -%}
 {%- assign slug = "game-" | append: include.game -%}
 {%- assign live = "https://lichess.org/game/export/" | append: include.game | append: "?clocks=false&evals=false" -%}

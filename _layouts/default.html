@@ -88,7 +88,7 @@
 
 	<footer> {% include footer.html %} </footer>
 
-	{% if page.jq_disable == true %}
+	{% if page.jq_disable == true or content contains 'class="lichess-pgn"' %}
 	<script src="/js/bootstrap.min.js"></script>
 	{% else  %}
 	<script src="/js/combined.js"></script>
