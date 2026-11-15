@@ -65,7 +65,7 @@ It has been a slow start to the season, with disruption due to rail strikes, ven
 
 Results are at 14 December 2023 (unless stated otherwise). NB ECF LMS scores 2 for a match win, and 1 for a match draw. For each team the figures are: match points / matches played; wins (+), draws (=) and losses (-); league position / number of teams.
 
-#### London League ([league website](https://ecflms.org.uk/lms/node/82610/home))
+#### London League ([league website](https://lms.englishchess.org.uk/lms/organisation/1267))
 
 * **Division 1; Streatham 1** (8 boards)
   * Match points / played: 4/4 (+2, =0, -2); position 4th/11
@@ -88,7 +88,7 @@ Results are at 14 December 2023 (unless stated otherwise). NB ECF LMS scores 2 f
   * Special mentions: We’ve fielded 9 players in 4 matches so far. Special mention to Elliott Hills and David Marshall settling straight into the team in their first season for the club.
   * Captain’s brief comment: We’ve made a promising start after finishing last in 22/23. Undefeated after 4 matches we sit 2nd in the table – and look forward to the second half of the season in 2024.
 
-#### Croydon and District League ([league website](https://ecflms.org.uk/lms/node/80420/home)) – all CDCL 4 boards
+#### Croydon and District League ([league website](https://lms.englishchess.org.uk/lms/organisation/1250)) – all CDCL 4 boards
 
 * **Division A/Croydon Shield (Open); Streatham A**
   * Match points / played: 1/3 (+0, =1, -2); position 3rd/4
@@ -121,7 +121,7 @@ Results are at 14 December 2023 (unless stated otherwise). NB ECF LMS scores 2 f
 
 #### County Matches.
 
-Another mention for the popular Surrey matches against other home counties. Teams at all levels; relaxed time control; friendly atmosphere, venues in and around London (lifts sometimes available) – what’s not to like! S&BCC ir/regulars include: Tony Cullen, Martin Dale, James Fox, Robin Haldane, Elliott Hills, John Hodgson, Alan Romeril, Martin Smith, Richard Tillett, all of whom have played for Surrey teams during the current season. See [here](https://ecflms.org.uk/lms/node/63543/home) for more information and match results.
+Another mention for the popular Surrey matches against other home counties. Teams at all levels; relaxed time control; friendly atmosphere, venues in and around London (lifts sometimes available) – what’s not to like! S&BCC ir/regulars include: Tony Cullen, Martin Dale, James Fox, Robin Haldane, Elliott Hills, John Hodgson, Alan Romeril, Martin Smith, Richard Tillett, all of whom have played for Surrey teams during the current season. See [here](https://web.archive.org/web/20240521161846/https://www.ecflms.org.uk/lms/node/63543/home) for more information and match results.
 
 ### Some S&BCC games.
 

@@ -65,7 +65,7 @@ Visitors to London stop by from time to time, and we even had a grandmaster from
 
 **We’ll be open as usual during the Christmas and New Year period except for Tuesday 27 December when the Library will be closed.**
 
-STOP PRESS! A journalist and a photographer from a local newspaper, the Brixton Blog & Bugle, visited us recently and saw for themselves ‘the joy of community chess’. Click [here](https://brixtonblog.com/2022/12/a-port-in-the-storm-the-joy-of-community-chess/) to see their feature.
+STOP PRESS! A journalist and a photographer from a local newspaper, the Brixton Blog & Bugle, visited us recently and saw for themselves ‘the joy of community chess’. Click [here](https://web.archive.org/web/20250328081754/https://brixtonblog.com/2022/12/a-port-in-the-storm-the-joy-of-community-chess/) to see their feature.
 
 ### Club Annual General Meeting 7th October 2022 – Richard Tillett (Club Secretary), and Paul Ritchie (Treasurer) report
 
@@ -194,7 +194,7 @@ The scandal of (alleged) cheating in GM OTB chess has made it to the national pr
 
 Leaving intentional cheating aside, look here at some examples of rule-breaking in serious chess, all be it accidental. The first one appeared in a local club game a few years back. It may be an example of something more common than we all realise: the illegal move double oversight. It was reported at the time on the club website here: [https://streathamchess.org/2016/01/21/martin.html](https://streathamchess.org/2016/01/21/martin.html) My opponent was the genial Nick Keene of Wimbledon CC who sadly died suddenly in June 2022.
 
-For further examples of inadvertent illegalities go to this post [http://rodneybarking.com/hello-world/](http://rodneybarking.com/hello-world/) in Rodney Barking’s blog [http://rodneybarking.com](http://rodneybarking.com/)
+For further examples of inadvertent illegalities go to this post (no longer online) in Rodney Barking’s blog ([archived copy](https://web.archive.org/web/20250713090310/http://rodneybarking.com/))
 
 ### And who is Rodney Barking, I hear you ask
 

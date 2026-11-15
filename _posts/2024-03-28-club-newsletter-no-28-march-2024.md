@@ -18,13 +18,13 @@ description: "Christmas Blitz and New Year Rapid results, Library Group developm
 
 {% include image.html align="left" url="/assets/image_uploads/nl28-graham-keane.jpg" description="Graham Keane" %}
 
-Well done Graham Keane (left) who was first on 7 points - unbeaten over all seven rounds, which included two wins against second-placed Robin Haldane (on 5 points), and wins over third-placed Ruairi Isaacs and fourth placed Kostya Titorenko (both on 4). Special mention to Ruairi, who continues to improve against tough opposition, and welcome back Kostya, who we haven’t seen for some time. 10 competed – great to see you all. Thanks to Alan Romeril who stepped in as Tournament Controller. Final table [here](https://ecflms.org.uk/lms/league_comp/210687/swtable).
+Well done Graham Keane (left) who was first on 7 points - unbeaten over all seven rounds, which included two wins against second-placed Robin Haldane (on 5 points), and wins over third-placed Ruairi Isaacs and fourth placed Kostya Titorenko (both on 4). Special mention to Ruairi, who continues to improve against tough opposition, and welcome back Kostya, who we haven’t seen for some time. 10 competed – great to see you all. Thanks to Alan Romeril who stepped in as Tournament Controller. Final table (no longer online).
 
 #### New Year Rapid (6 rounds), 2 and 16 January, at St. Thomas’s Café.
 
 {% include image.html url="/assets/image_uploads/nl28-mark-oneill.jpg" description="Mark O’Neill" %}
 
-Well done Ben Simpson (more about Ben below), finishing with 5 points, losing only to Mark O’Neill (right), who was second on 4.5. Special ‘well done’ to third-placed Ibrahim Abouchakra, the top-placed Library player, on 4. Thanks to Tournament Controller James Toon for foregoing, yet again, the chance to play. Altogether an encouraging 15 players took part (some for one evening only) including up-coming Charlie Pearson (just 11-years old – more about him below as well). Final table [here](https://ecflms.org.uk/lms/league_comp/211444/swtable).
+Well done Ben Simpson (more about Ben below), finishing with 5 points, losing only to Mark O’Neill (right), who was second on 4.5. Special ‘well done’ to third-placed Ibrahim Abouchakra, the top-placed Library player, on 4. Thanks to Tournament Controller James Toon for foregoing, yet again, the chance to play. Altogether an encouraging 15 players took part (some for one evening only) including up-coming Charlie Pearson (just 11-years old – more about him below as well). Final table (no longer online).
 
 **Thanks to everyone** who chipped in to cover our room-hire costs at these events. Every little helps!
 
@@ -64,7 +64,7 @@ I want to have a clear plan in place by the next Annual General Meeting, which w
 
 Each entry gives the league, division and S&BCC team designation, plus a link to the league website or EMS page. NB ECF LMS scores 2 for a match win, and 1 for a match draw. For each team the figures are: match points/played; matches won, drawn and lost (+ = -); current league position/number of teams; and the captain’s comments or special mentions.
 
-**London League** – [https://ecflms.org.uk/lms/node/82610/home](https://ecflms.org.uk/lms/node/82610/home)
+**London League** – [https://lms.englishchess.org.uk/lms/organisation/1267](https://lms.englishchess.org.uk/lms/organisation/1267)
 
 * **Division 1; Streatham 1.** 8 boards. Captain: James Toon.
   * Match points/played: 10/7; won 5, drawn –, lost 2; current position 3rd/11.
@@ -85,7 +85,7 @@ Each entry gives the league, division and S&BCC team designation, plus a link to
   * Match points/played: 9/7; won 3, drawn 3, lost 1; current position 2nd/6.
   * The main aim with this team is to provide opportunities to play for as many team members as possible – not just field the strongest team on paper. With three matches remaining, including a double header against basement dwellers Hackney 2, there is a possibility of a top of the table decider against Wanstead 2 in May!
 
-**Croydon and District League** – [https://ecflms.org.uk/lms/node/80420/home](https://ecflms.org.uk/lms/node/80420/home) (All CDCL 4 boards). Captain all teams: Richard Tillett.
+**Croydon and District League** – [https://lms.englishchess.org.uk/lms/organisation/1250](https://lms.englishchess.org.uk/lms/organisation/1250) (All CDCL 4 boards). Captain all teams: Richard Tillett.
 
 * **Division A/Croydon Shield (Open). Double round. Streatham A**
   * Match points/played: 3/4; won 1, drawn 1, lost 2; current position 2nd/4.
@@ -155,7 +155,7 @@ We’re planning to hold two rated OTB events during the summer, as we did last 
 
 #### Guildford Chess Congress: Friday 12 to Sunday 14 April, Guildford University GU2 7XH.
 
-[5-round Swiss tournament](https://www.guildfordchessclub.com/activities/GFC24.html): Open, Major (U2000), Minor (U1600). All sections are both ECF-rated and FIDE-rated. The total prize fund is £2,600. Entry fee £45; Closing date 11 April. 160 places – filling up fast.
+[5-round Swiss tournament](https://www.guildfordchessclub.com/): Open, Major (U2000), Minor (U1600). All sections are both ECF-rated and FIDE-rated. The total prize fund is £2,600. Entry fee £45; Closing date 11 April. 160 places – filling up fast.
 
 #### Surrey CCA Individual Summer Tournaments (standard play).
 

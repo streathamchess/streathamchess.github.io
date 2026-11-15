@@ -30,7 +30,7 @@ Reminding you that you can keep on top of our fixtures in all the leagues, and o
 
 ### AGMs held during the summer, and this season’s early results:
 
-**London League AGM 13 July:** We made a strong case for making Pimlico one of the central venues for the London League, but were not successful. On a more positive note, the AGM approved a new, clear and modern set of rules. The league has a new website, and will be using the LMS (i.e. the [ECF League Management System](https://ecflms.org.uk/lms/node/2)) for fixtures, match results, tables etc. It has introduced a Women’s Division. (James Toon – *who is on the League Committee [Ed]*)
+**London League AGM 13 July:** We made a strong case for making Pimlico one of the central venues for the London League, but were not successful. On a more positive note, the AGM approved a new, clear and modern set of rules. The league has a new website, and will be using the LMS (i.e. the [ECF League Management System](https://lms.englishchess.org.uk/lms/node/2)) for fixtures, match results, tables etc. It has introduced a Women’s Division. (James Toon – *who is on the League Committee [Ed]*)
 
 **London League Division 1:** We have a strong squad and should be competitive against almost all teams, aiming to finish in the top half of a very strong division. A welcome return is the Eastman Cup competition where we begin with a home match vs Mushrooms in November. (James Toon).
 
@@ -90,7 +90,7 @@ Actually, Andrew has ancient history chess-wise: if you’d like to find out mor
 
 {% include lichess_pgn.html game="99khqlXt" %}
 
-**Club Blitz 27 June, and Club Rapid 18 & 25 July:** We reported on these club events in our last issue #25 (which is now up on the [club website](https://streathamchess.org/), along with other recent back issues). Great attendance around 20 at both (and great fun!). Our resident man-with-the-pairings, James Toon, kept both events in good order. Full results of the Online, Blitz and Rapid club events are on the Streatham page of the LMS [here](https://ecflms.org.uk/lms/node/92455/home).
+**Club Blitz 27 June, and Club Rapid 18 & 25 July:** We reported on these club events in our last issue #25 (which is now up on the [club website](https://streathamchess.org/), along with other recent back issues). Great attendance around 20 at both (and great fun!). Our resident man-with-the-pairings, James Toon, kept both events in good order. Full results of the Online, Blitz and Rapid club events are on the Streatham page of the LMS [here](https://web.archive.org/web/20240523022735/https://ecflms.org.uk/lms/node/92455/home).
 
 **Streatham Library Rapid Play 23 September:** Good turn out for our packed season-starter Rapid at the Library: it looks like becoming a regular in the competition calendar. Entries came from far and wide, although attendance from S&BCC was a tad disappointing. But it was good to see members Phil Makepeace and Enitan Obasa winning the Major and Minor respectively.
 
