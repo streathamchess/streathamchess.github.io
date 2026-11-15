@@ -12,6 +12,8 @@ Unless stated otherwise the text in this edition is by the editor Martin Smith.
 
 ### Upbeat AGM looks forward to the upcoming season…
 
+{% include image.html url="/assets/image_uploads/nl32-agm-bug-guide.jpg" description="Richard Tillett is presented with a bug identification guide" %}
+
 Ten members attended the AGM on the 30 September – the best attended for some years. Antony Hall (Chair) kicked off things off by saluting Richard Tillett’s ‘retirement’ after 24 years as Club Secretary and presenting him with a bug (of the creepy crawly kind) identification guide - it’s what he does when he is not organising chess, though fat chance given the demands of the exciting new Club Night start-up detailed below.
 
 And in with the New! Welcome to Chris Bernard, our new Club Secretary: a seasoned chess organiser and tournament addict (and ghost of Crystal Palace CC). Read all about him in our interview below. The AGM confirmed the Club’s core management of Chris plus Chair Antony Hall and Treasurer Paul Ritchie – a great team to take us into the 2025-26 season supported by a growing band of volunteers detailed in Appendix 1.
@@ -27,7 +29,12 @@ And hello, too, to ‘Chess at the Café’ club nights! An ancient club traditi
 
 ### … and looked back at successes in 2024-25…
 
-Chair Antony Hall reviewed the past season. There were standout performances from our OTB London League MI, Croydon League D and both our Central London League teams. We did well, too, in one-off team events (Surrey County Thorp – 2nd place by our U1450s; SCCU London Club Champs – 1st place by our U1650s). *Team photo in the PDF, left to right: Tom Mayers, Nic Basty, Ed Mospan, Austin Sopocko, Richard Tillett.*
+Chair Antony Hall reviewed the past season. There were standout performances from our OTB London League MI, Croydon League D and both our Central London League teams. We did well, too, in one-off team events (Surrey County Thorp – 2nd place by our U1450s; SCCU London Club Champs – 1st place by our U1650s).
+
+<figure style="margin: 15px 0;">
+<img src="/assets/image_uploads/nl32-sccu-u1650-team.jpg" class="img-responsive" alt="The S&BCC team: five players standing in front of a brick wall">
+<figcaption><i>Team photo, left to right: Tom Mayers, Nic Basty, Ed Mospan, Austin Sopocko, Richard Tillett.</i></figcaption>
+</figure>
 
 There was also success in the 4NCL Online where our Division 4 side reached the semi-final (only to be knocked out on board count, though they did win promotion to Division 3). For the full details of our 2024-25 league season see Appendix 2. The club’s occasional blitz and rapidplay events at St Thomas’s Café continued to prove popular (see full report below), as did the rapidplay initiative started by Ed Mospan at the Tuesday Streatham Library Group. We supported ‘Chess in the Community’, not only via the thriving Library Group, but also the outdoor chess table meet-ups at Ruskin Park and Streatham Common. Throughout the season, several S&BCCers were out and about in congresses across the UK (with an impressive club presence at Kingston in August – see separate note below); and represented five counties (in two as captain) (see Appendix 3). Antony rounded off by reflecting on the great progress made over the season across many areas of club management, building the impressive team of officers and volunteers detailed in Appendix 1.
 
@@ -43,6 +50,8 @@ Finally: some talking points for a new Club Constitution were introduced by Mart
 
 We’re delighted to welcome our new Secretary Chris Bernard as the new public face of Streatham & Brixton Chess Club—although in the world of South London chess, Chris is hardly a stranger.
 
+{% include image.html align="left" url="/assets/image_uploads/nl32-chris-bernard.jpg" description="Chris Bernard at the 2025 Folkestone Congress (photo: [Folkestone 2025 gallery](https://brendanogorman.smugmug.com/Chess/2025/Folkestone-2025/i-vqk25Ff/A))" %}
+
 "I started playing club chess after my son was born," Chris tells us. "First with Beckenham & Bromley, then Crystal Palace. When the Palace sadly closed its doors, I made my way to S&BCC."
 
 A regular on the congress circuit, Chris has a taste for travel. "Apparently, I like small islands—I’ve played in Kos, Guernsey, Reykjavik, various parts of Crete, and once even in a tournament in Condom, France," he laughs. His most recent outing was the August Thanet Congress. Despite now flying S&BCC’s colours in the London and Croydon Leagues, Chris is part of a group of former Crystal Palace players who still register under the old club’s name at congresses. “We call ourselves the Ghosts of Crystal Palace. So don’t be offended if you don’t see the S&BCC flag next to my name at some events!”
@@ -51,15 +60,17 @@ Off the board, Chris is no less active. He’s contributed significantly to the 
 
 Please join us in welcoming Chris—player, organiser, and ghostbuster—to the Streatham & Brixton Chess Club family.
 
-*[Editorial note: thanks Chris, and his silicon friend ChatGPT (could you tell?), for providing the above in reply to the few questions we sent him. We have made just one minor edit. The photo of Chris at the 2025 Folkestone Congress, in the PDF, is taken from [this gallery](https://brendanogorman.smugmug.com/Chess/2025/Folkestone-2025/i-vqk25Ff/A), with thanks.]*
+*[Editorial note: thanks Chris, and his silicon friend ChatGPT (could you tell?), for providing the above in reply to the few questions we sent him. We have made just one minor edit. The photo of Chris at the 2025 Folkestone Congress is taken from [here](https://brendanogorman.smugmug.com/Chess/2025/Folkestone-2025/i-vqk25Ff/A), with thanks.]*
 
 ### Club tournaments
 
-Great turn outs again for the Club’s end of season internal tournaments at St. Thomas’s Café. The July 1 Blitz saw a five-way pile-up at the top of the table when Robin Haldane, Charlie Pearson, Martin Smith, Amar Adatia, and Austin Sopocko all finished on 5/7. 18 players slugged it out under Alan Romeril’s smooth tournament control. Generous donations covered the cost of the evening.
+{% include image.html align="left" url="/assets/image_uploads/nl32-peter-lalic.jpg" description="Peter Lalic (photo from the [Kingston Invitational page](https://kingstonchess.com/kingston-invitational/fourth-kingston-invitational-12-16-august-2025/))" %}
 
-A two-evening rapid, spread over 15 and 22 July, attracted 21 contestants (with 14 playing both evenings). Peter Lalic beat the field with a clean 6/6 sweep, well clear of Martin Smith and Tom Mayers following up on 4 each. Once again Alan ran the event with his customary aplomb and efficiency. At both events new faces were made welcome alongside club regulars. (The tables are linked in the PDF newsletter.)
+Great turn outs again for the Club’s end of season internal tournaments at St. Thomas’s Café. The July 1 Blitz saw a five-way pile-up at the top of the table when Robin Haldane, Charlie Pearson, Martin Smith, Amar Adatia, and Austin Sopocko all finished on 5/7. 18 players slugged it out under Alan Romeril’s smooth tournament control. Table [here](https://lms.englishchess.org.uk/lms/event/7899/standings). Generous donations covered the cost of the evening.
 
-Let’s mention also Ed Mospan’s brilliant work organising ad hoc pairings for rated games at the Library.
+A two-evening rapid, spread over 15 and 22 July, attracted 21 contestants (with 14 playing both evenings). Peter Lalic beat the field with a clean 6/6 sweep, well clear of Martin Smith and Tom Mayers following up on 4 each. Table [here](https://lms.englishchess.org.uk/lms/event/7995/standings). Once again Alan ran the event with his customary aplomb and efficiency. At both events new faces were made welcome alongside club regulars.
+
+Let’s mention also Ed Mospan’s brilliant work organising ad hoc pairings for rated games at the Library – see [here](https://lms.englishchess.org.uk/lms/event/7593/rounds).
 
 And don’t miss the next one: Season Starter Blitz 30 September!
 
@@ -75,7 +86,7 @@ In August, four club members played in the [Kingston Invitational Swiss](https:/
 
 I scored just 4/9, though I did manage one good win\* (all games marked \* can be played through at the end of this section) after repeating the first twelve moves from the previous day. First time I lost to Qixiang - fortunately, my second opponent didn’t play nearly as well!
 
-> **Murder on the Black Squares.** Graham (black) threatens mayhem on the a7-g1 diagonal. His opponent tried to dodge with 23 Bg5. Can you work out Graham’s forcing sequence to finish the game\*?
+{% include image.html align="left" url="/assets/image_uploads/nl32-black-squares-diagram.png" description="**Murder on the Black Squares.** Graham (black) threatens mayhem on the a7-g1 diagonal. His opponent tried to dodge with 23 Bg5. Can you work out Graham’s forcing sequence to finish the game\*?" %}
 
 The other three Streatham players had very successful tournaments. Qixuan continued his recent big improvement. All his opponents had higher ratings, yet he scored 5 points including wins over experienced players Bob Eames\* and Clive Frostick. Brother Qixiang was in contention for the junior prize until his last round loss, but his score of 50% was excellent – including that win\* over the Streatham London League First Team captain: he gained a significant number of rating points.
 
@@ -168,15 +179,15 @@ Note: all match scores have been based on 1 for a win, 0.5 for a draw, 0 for a l
 
 **In Tournaments**
 
-* **British Championships 2025.** Charlie Pearson: Under 14: 4/7; Weekday PM U2050: 3.5/6. Tom Mayers: Weekday PM U2050: 2/6; Weekday AM U1900: 2.5/6. Charlie also played in the EJCOA National Youth Finals Combined U16, U18, U20 – scoring 4/5 to finish =2nd. Tom also played in the London Chess League FIDE Weekender, 25-27 July, Major section, scoring 3.5/5 to finish 8th (ranked #31 at the start).
-* **Kingston Invitational IM Norm Tournament.** Peter Lalic was the lowest rated player but finished in 8th place (of 10), scoring 3.5/9.
-* **Kingston Invitational Swiss.** Phil Makepeace scored 5.5/9, including wins against two IMs. Qixuan Han scored 5/9 to finish in 22nd place (seeded #43) and beat FM Bob Eames on the way. His brother Qixiang finished on 4.5/9 and LL1 captain Graham Keane scored 4/9.
-* **Pimlico Open.** Phil Makepeace won this on 4.5/5, Ben Simpson came =3rd on 3.5 while John Hodgson and Matthew Tillett both scored 3 pts to finish in the top 8.
-* **Pimlico Summer Major.** Chris Bernard scored 4/5 to finish =2nd, Richard Tillett scored 2.5/5 and Nic Basty scored 1.5/5.
-* **St Albans Open.** Qixiang Han scored 4/5 and finished =2nd, drawing with IM Paul Littlewood. Peter Lalic and Andrew Ponting both scored 3.5 while Qixuan Han scored 2 pts.
-* **Bolton Easter Congress 2025 Open.** Qixuan scored 3/5 and Qixiang 2.5 pts. He also scored 3/5 at the South Lakes Congress 2025: Open, and 3.5/5 at 48th Nottingham Congress 2025 Open to finish =2nd, losing only to the eventual winner, GM Mark Hebden, in the final round.
-* Ben Simpson scored 3/5 to finish 3rd at the ‘UKCA 2508 FM one’ congress. Andrew Ponting started strongly with 1.5/2 but could not add to this at the Frome Chess Congress 2025 – Open, and he scored 2.5/5 at the Durham Open (and drew with FM Tim Wall).
-* Peter Lalic (that man again!) scored 5.5/8 to finish 2nd in the SCCA Individual Tournaments 2025 Challenge Cup; in the London Chess League FIDE Weekender Open he came =1st on 4/5; and came =1st again with 4/5 in the Coulsdon Chess: Late Spring LP Congress Open. In the Earlsfield Congress U2400 Peter came =1st with GM Keith Arkell, whom he beat. And, finally, Chris Bernard scored 2.5/5 at the 53rd Thanet and East Kent Chess Congress, U1800.
+* **British Championships 2025.** Charlie Pearson: [Under 14](https://s2.chess-results.com/tnr1213110.aspx?lan=1&art=9&fed=ENG&flag=30&snr=18&SNode=S0): 4/7; [Weekday PM U2050](https://s3.chess-results.com/tnr1213118.aspx?lan=1&art=9&fed=ENG&flag=30&snr=25&SNode=S0): 3.5/6. Tom Mayers: [Weekday PM U2050](https://s3.chess-results.com/tnr1213118.aspx?lan=1&art=9&fed=ENG&flag=30&snr=25&SNode=S0): 2/6; Weekday AM U1900: 2.5/6. Charlie also played in the [EJCOA National Youth Finals Combined U16, U18, U20](https://s2.chess-results.com/tnr1206615.aspx?lan=1&art=9&fed=ENG&flag=30&snr=14&SNode=S0) – scoring 4/5 to finish =2nd. Tom also played in the [London Chess League FIDE Weekender](https://chess-results.com/tnr1210575.aspx?lan=1&art=9&fed=ENG&flag=30&snr=31), 25-27 July, Major section, scoring 3.5/5 to finish 8th (ranked #31 at the start).
+* **[Kingston Invitational IM Norm Tournament](https://s2.chess-results.com/tnr1160501.aspx?lan=1&art=1&fed=ENG&turdet=YES&flag=30&SNode=S0).** Peter Lalic was the lowest rated player but finished in 8th place (of 10), scoring 3.5/9.
+* **[Kingston Invitational Swiss](https://s1.chess-results.com/tnr1160510.aspx?lan=1&art=4&flag=30&SNode=S0).** Phil Makepeace scored 5.5/9, including wins against two IMs. Qixuan Han scored 5/9 to finish in 22nd place (seeded #43) and beat FM Bob Eames on the way. His brother Qixiang finished on 4.5/9 and LL1 captain Graham Keane scored 4/9.
+* **[Pimlico Open](https://s1.chess-results.com/tnr1195728.aspx?lan=1&art=4&SNode=S0).** Phil Makepeace won this on 4.5/5, Ben Simpson came =3rd on 3.5 while John Hodgson and Matthew Tillett both scored 3 pts to finish in the top 8.
+* **[Pimlico Summer Major](https://s1.chess-results.com/tnr1200938.aspx?lan=1&art=4&SNode=S0).** Chris Bernard scored 4/5 to finish =2nd, Richard Tillett scored 2.5/5 and Nic Basty scored 1.5/5.
+* **[St Albans Open](https://s3.chess-results.com/tnr1087342.aspx?lan=1&art=4&SNode=S0).** Qixiang Han scored 4/5 and finished =2nd, drawing with IM Paul Littlewood. Peter Lalic and Andrew Ponting both scored 3.5 while Qixuan Han scored 2 pts.
+* **[Bolton Easter Congress 2025 Open](https://s1.chess-results.com/tnr1159701.aspx?lan=1&art=4&SNode=S0).** Qixuan scored 3/5 and Qixiang 2.5 pts. He also scored 3/5 at the [South Lakes Congress 2025: Open](http://www.cumbriachess.com/Documents/SLC%202025%20Results.pdf), and 3.5/5 at [48th Nottingham Congress 2025 Open](https://s3.chess-results.com/tnr1150867.aspx?lan=1&art=9&fed=ENG&snr=3&SNode=S0) to finish =2nd, losing only to the eventual winner, GM Mark Hebden, in the final round.
+* Ben Simpson scored 3/5 to finish 3rd at the [‘UKCA 2508 FM one’](https://s2.chess-results.com/tnr1204628.aspx?lan=1&art=9&fed=ENG&snr=2&SNode=S0) congress. Andrew Ponting started strongly with 1.5/2 but could not add to this at the [Frome Chess Congress 2025 – Open](https://s1.chess-results.com/tnr1178179.aspx?lan=1&art=9&fed=ENG&snr=27&SNode=S0), and he scored 2.5/5 at the [Durham Open](https://s3.chess-results.com/tnr1174941.aspx?lan=1&art=9&fed=ENG&snr=21&SNode=S0) (and drew with FM Tim Wall).
+* Peter Lalic (that man again!) scored 5.5/8 to finish 2nd in the [SCCA Individual Tournaments 2025 Challenge Cup](https://rating.englishchess.org.uk/events/list-games-swiss?event_code=PD0118&section_no=1); in the [London Chess League FIDE Weekender Open](https://s1.chess-results.com/tnr1172897.aspx?lan=1&art=9&fed=ENG&flag=30&snr=2&SNode=S0) he came =1st on 4/5; and came =1st again with 4/5 in the [Coulsdon Chess: Late Spring LP Congress Open](https://ccfworld.com/Chess/Results/2025-05-26_LateSpringCongress2025.htm). In the Earlsfield Congress U2400 Peter came =1st with GM Keith Arkell, whom he beat. And, finally, Chris Bernard scored 2.5/5 at the [53rd Thanet and East Kent Chess Congress, U1800](https://s2.chess-results.com/tnr1235111.aspx?lan=1&art=9&fed=ENG&snr=3&SNode=S0).
 
 #### 4. S&BCC Teams and Captains 2025-26
 
@@ -206,3 +217,5 @@ Note: all match scores have been based on 1 for a win, 0.5 for a draw, 0 for a l
 * 4NCL Online 2, playing in Division 3: Matt Tillett
 
 *Editorial contacts: Martin Smith, Antony Hall.*
+
+**Links:** [Streatham & Brixton Chess Club](https://streathamchess.org/); [Streatham & Brixton Chess Club: calendar](https://streathamchess.org/calendar/); [Chess at Streatham Library](https://sites.google.com/site/chessatstreathamlibrary/chess-at-streatham-library); London Chess League: [results](https://lms.englishchess.org.uk/lms/organisation/1267), [general information](https://londonchess.com/); [Central London Chess League](https://oxfordfusion.com/oca/index.cfm?Org=7); Croydon & District Chess League: [results](https://lms.englishchess.org.uk/lms/organisation/1250), [general information](https://croydonchessleague.co.uk/); [Surrey County Chess Association](https://www.scca.co.uk/); Southern Counties Chess Union: [results](https://lms.englishchess.org.uk/lms/organisation/1203), [general information](https://www.sccu-chess.com/index.php/en/).
