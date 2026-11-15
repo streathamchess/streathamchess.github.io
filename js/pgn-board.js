@@ -50,7 +50,8 @@
         return;
       }
       var button = document.getElementById(host.id + (event.deltaY > 0 ? "Buttonnext" : "Buttonprev"));
-      if (!button || button.className.indexOf("disabled") !== -1) {
+      // The viewer greys a button out ("gray") when the game cannot move that way
+      if (!button || button.className.indexOf("gray") !== -1) {
         return;
       }
       event.preventDefault();
@@ -80,8 +81,10 @@
       host.id = id + "Game";
       host.style.padding = "10px";
       box.appendChild(host);
+      var wide = box.clientWidth >= 640;
       var options = Object.assign(
-        { locale: "en", pieceStyle: "merida", theme: "blue", layout: box.clientWidth >= 640 ? "left" : "top" },
+        { locale: "en", pieceStyle: "merida", theme: "blue", layout: wide ? "left" : "top" },
+        wide ? { boardSize: "388px" } : {}, // the old viewer's board size
         config,
         { pgn: pgn },
       );
