@@ -22,42 +22,6 @@ So read on to learn a little more [about us](/about/index.html), [where we play]
 <!--br>
 <b>Please note that this website is currently being updated and some of the information may no longer be correct.</b--> 
 
-### Club newsletters
-<p> Find out what's been happening at our club by downloading our most recent newsletters. Just click on the links below:
-<p>
-<a href="https://drive.google.com/file/d/1NKwoh7EsVAfEAt1ahP518COyQhDGW2PJ/view?usp=sharing">January 2026</a>.
-<p>
-<p>
-<a href="https://drive.google.com/file/d/1d-ymFqlZTX886T3_SLaE_8rOfa9IlJAS/view?usp=sharing">September 2025</a>.
-<p>
-<a href="https://drive.google.com/file/d/1NNXKova0Trkw5g1clEfSiyqtHPhy1WcS/view?usp=sharing">April 2025</a>.
-<p>
-<a href="https://drive.google.com/file/d/1Ot9d6rv_q1Ph4z3hCT2cg62wGiPW8n82/view?usp=sharing">November 2024</a>.
-<p>
-<a href="https://drive.google.com/file/d/1LMY4XRa0UbF4QhsjeC7GKYSukNpA-SaN/view?usp=sharing">August 2024</a>.
-<p>
-<a href="https://drive.google.com/file/d/15y5IdUlT59NClupWYmQ0AdxLny6eV77n/view?usp=sharing">March 2024</a>.
-<p>
-    
-<p>
-<a href="https://drive.google.com/file/d/1IyHDPF9rxGMa1CDXzGCn04NMJPTKUYPG/view?usp=sharing">December 2023</a>.
-<p>
-<a href="https://drive.google.com/file/d/1Ebci7VpGcfGexhzAACSC0mqVedHU47Bt/view?usp=sharing">October 2023</a>.
-<p>
-<a href="https://drive.google.com/file/d/1YQS-HvVAWcFIUl_VC5zEE-8brutE-pbT/view?usp=sharing">August 2023</a>.
-<p>   
-<a href="https://drive.google.com/file/d/1t5psKzuemOBtrQyULrpeWbS-icnJwhvY/view?usp=sharing">March 2023</a>.
-<p>
-<a href="https://drive.google.com/file/d/1UatDsN2y8wiQhSoQZ5qmJ0MDxiMhkKMk/view?usp=sharing">December 2022</a>.
-<p>
-<a href="https://drive.google.com/file/d/1TStQOfHDLuJ-uTIPbAs8nIJCJiuDsdXI/view?usp=sharing">August 2022</a>.
-<p>
-<a href="https://drive.google.com/file/d/1ZR0n5q0LHi9--hnlL-2KCl53EQbIMfUv/view?usp=sharing">June 2022</a>.
-<p>
-<a href="https://drive.google.com/file/d/1Dk7SYb557t3XwlY6L7nTaMOU7XhZqTBZ/view?usp=sharing">March 2022</a>.
-<p>
-<br/>
-<hr>
     
 <style>
     #latestarticles {
@@ -71,7 +35,7 @@ So read on to learn a little more [about us](/about/index.html), [where we play]
 </style>
 <div id="latestarticles">
 
-<h2>Latest Articles</h2>
+<h2>Latest news</h2>
 
 <ul>
 {% for post in site.posts limit:3 %}
@@ -88,5 +52,7 @@ So read on to learn a little more [about us](/about/index.html), [where we play]
 
 {% endfor %}
 </ul>
+
+<p><a href="/noticeboard/">More news and games</a></p>
 <br><br>
  </div>
