@@ -76,6 +76,7 @@
     return source.then(function (pgn) {
       box.style.border = "2px solid gray";
       box.style.boxSizing = "border-box";
+      box.style.maxWidth = "100%";
       box.appendChild(header(pgn));
       var host = document.createElement("div");
       host.id = id + "Game";

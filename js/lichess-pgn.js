@@ -1,5 +1,4 @@
 // Draws the boards for _includes/lichess_pgn.html with js/pgn-board.js (PgnViewerJS 1.6).
-// The older viewer in js/pgnviewer is still used by the posts with newpgn: true.
 (function () {
   "use strict";
 

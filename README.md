@@ -29,6 +29,20 @@ Open <https://streathamchess.org/admin/> and choose **Sign In with GitHub**. Sav
 * **Fallback sign-in:** "Sign In Using Access Token" takes a GitHub fine-grained personal access token
   for this repository with Contents: read and write.
 
+### Chess boards
+
+All boards use PgnViewerJS 1.6 (`js/pgnviewer-1.6.11`) through `js/pgn-board.js`, which gives them the club's
+style (bordered box, grey header with players, date, ECO and result) and lets the mouse wheel step through the
+moves. To show a PGN file from `assets/`, put a placeholder and a call in the post (`board1` is any unique id):
+
+    <div id="board1" style="width: 800px; margin-top: 20px; margin-bottom: 20px;"></div>
+    <script>
+      streathamPgnBoard('board1', { pgnFile: '/assets/pgn/game.pgn', orientation: 'white' });
+    </script>
+
+The layout loads the viewer on any page that contains `streathamPgnBoard(`. The 2017 viewer that was in
+`js/pgnviewer` has been removed; it is in the git history if ever needed.
+
 ### Adding a Lichess game or study to a post
 
 In the rich-text editor of a news post or page, click the **Lichess game or study** button on the toolbar
@@ -38,9 +52,7 @@ The game or study must be public or unlisted. In the raw editor, type the includ
 `{% include lichess_pgn.html game="AbCdEfGh" %}`, or `study="..."` with an optional `chapter="..."`.
 
 * **On the page:** `_includes/lichess_pgn.html` leaves a placeholder and `js/lichess-pgn.js` draws the
-  board(s) with PgnViewerJS 1.6 in `js/pgnviewer-1.6.11`. `_layouts/default.html` loads both when a page uses it.
-  The posts with `newpgn: true` still use the older viewer in `js/pgnviewer` (2017), which cannot read
-  Lichess study comments.
+  board(s) with `js/pgn-board.js`. `_layouts/default.html` loads the scripts when a page uses them.
 * **Copies:** after a save, the GitHub Action `.github/workflows/archive-lichess.yml` runs
   `.github/scripts/archive_lichess.py`, which saves each game's PGN to `assets/pgn/lichess/` (a new commit,
   usually within a minute). The page uses that copy, so the game survives being deleted from Lichess.
