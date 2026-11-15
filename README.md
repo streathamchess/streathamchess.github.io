@@ -23,7 +23,8 @@ Open <https://streathamchess.org/admin/> and choose **Sign In with GitHub**. Sav
 * **What can be edited:** `admin/config.yml` defines two collections.
   *Blog* is `_posts/` (add, edit, delete news posts). *Pages* is a fixed list of site pages
   (edit only). Pages with HTML or Liquid tags (`{% ... %}`) open in the raw editor first so they stay intact.
-  The calendar, the converter and calculator pages and the layouts/menu (`_layouts/`, `_includes/`)
+  The calendar page's text is in the CMS but its events are not: they live in the embedded Google Calendar.
+  The converter and calculator pages and the layouts/menu (`_layouts/`, `_includes/`)
   are not in the CMS; edit those as files.
 * **Fallback sign-in:** "Sign In Using Access Token" takes a GitHub fine-grained personal access token
   for this repository with Contents: read and write.
