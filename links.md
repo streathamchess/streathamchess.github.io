@@ -12,8 +12,8 @@ layout: default
 
 [Chessable - Improve your chess openings and more!](https://www.chessable.com/)
 
-[Laws of chess](https://www.chessarbitersassociation.co.uk/FIDE_LAWS_OF_CHESS_2014_with_comments.pdf) <br/>
-Useful account of the FIDE laws of chess, with comments by the Chess Arbiters' Association.
+[Laws of chess](https://handbook.fide.com/chapter/E012023) <br/>
+The official FIDE Laws of Chess, in the FIDE Handbook.
 
 [English Chess Federation](https://www.englishchess.org.uk/)
 
@@ -27,6 +27,6 @@ Useful account of the FIDE laws of chess, with comments by the Chess Arbiters' A
 
 [Kent County Chess Association](http://www.kentchessca.plus.com/)
 
-[Surrey Border Chess League](http://www.borderleague.org.uk/main.php)
+[Surrey Border Chess League](https://web.archive.org/web/20251117191417/https://www.borderleague.org.uk/main.php) (archived copy)
 
-[Thames Valley Chess League](http://www.thamesvalleychess.org/)
+[Thames Valley Chess League](https://web.archive.org/web/20251017052737/http://thamesvalleychess.org/) (archived copy)

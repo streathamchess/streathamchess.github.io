@@ -2,7 +2,7 @@
 title: Streatham 2 v Cavendish 2 match report
 author: Antony Hall and Alan Hayward
 ---
-The match is it's still in the balance: [match card](http://www.londonchess.org.uk/match_card.php?fixtureid=62&season=20142015)
+The match is it's still in the balance: [match card](https://web.archive.org/web/20210620195224/https://londonchess.org.uk/match_card.php?fixtureid=62&season=20142015)
 
 We beat Cav 2 in a tight match last season, and we expected nothing less this time. Kostya had warned me in advance that he might
 need to withdraw, and unfortunately this proved to be the case but David Varley kindly stepped in with about 24 hours' notice.

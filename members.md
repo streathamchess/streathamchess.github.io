@@ -59,7 +59,7 @@ to open list in separate page.
 //-->
 
 If you would like to know how grades are calculated, see the
-[ECF grading database](http://www.ecfgrading.org.uk/).
+[ECF grading database](https://rating.englishchess.org.uk/).
 
 <!-- Comment out previous grades code
 {% include build/currentlist.html %}

@@ -2,7 +2,7 @@
 title: Alexander Cup&#58; Massacre at Redhill Methodist Church
 ---
 
-Streatham managed just one point out of ten in this Monday's [Alexander Cup](http://www.scca.co.uk/comps/AL_tab.html) semifinal match against strong Redhill team, in what was an even worse performance than Nigel Short's in [recent match](https://chess24.com/en/read/news/kasparov-short-the-st-louis-massacre) against Garry Kasparov.
+Streatham managed just one point out of ten in this Monday's [Alexander Cup](http://www.scca.co.uk/comps/AL_tab.html) semifinal match against strong Redhill team, in what was an even worse performance than Nigel Short's in [recent match](https://web.archive.org/web/20210518010438/https://chess24.com/en/read/news/kasparov-short-the-st-louis-massacre) against Garry Kasparov.
 
 
 |Board	|Colour	|Home Player	   |Grade|	Score |Away Player	    |Grade	|Score|

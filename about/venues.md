@@ -39,7 +39,7 @@ District Chess League (4 board matches) where we have teams in several
 divisions covering all strengths of play. All usually start at 7.40 and
 all finish in one evening. Our home matches are currently played at the
 Café at St. Thomas Church, corner of Telford Avenue and Salford Road.
-Map [here](https://goo.gl/maps/gsXxZaSgvgWwby2n9). It is a short
+Map [here](https://www.google.com/maps/search/?api=1&query=St+Thomas+Church+Cafe,+Telford+Avenue,+London+SW2+4XW). It is a short
 10-minute walk from Streatham Hill Station, and slightly more from
 Balham tube. It is also near several bus routes running north and south along Streatham
 High Road/Hill (including from Brixton tube a 15-minute ride). There is
@@ -71,11 +71,22 @@ control is 45 minutes with a 15 second increment after each move, so games typic
 {% include image.html url="/assets/photos/
 social-chess-1024.jpg " description="Social chess at Streatham Library." %}
 
-You can play casual chess at [Streatham Library](http://www.lambeth.gov.uk/places/streatham-library) every Tuesday throughout the year. Streatham Library is [here](https://www.google.co.uk/maps/place/London+SW16+1PN/@51.4317243,-0.1291294,17z/data=!3m1!4b1!4m2!3m1!1s0x487604280906fd47:0xa10f28b2b86f41a0) at 63 Streatham High Road, SW16 1PN. We meet in the Mark Bennett Community Centre from 4.30 to 7.30 pm and players of all ages and abilities are welcome. We ask that children under 10 are accompanied by an adult. There is nothing to pay and you don't have to be a member of Streatham & Brixton Chess Club to participate.
+You can play casual chess at [Streatham Library](https://www.lambeth.gov.uk/libraries-0/streatham-library) every Tuesday throughout the year, except public holidays when the library is closed. We meet in the Mark Bennett Streatham Centre in Streatham Library, 63 Streatham High Road, London SW16 1PN, at the junction with Pinfold Road (access is on Pinfold Road), from 4.30 to 7.30 pm and players of all ages and abilities are welcome. We ask that children under 10 are accompanied by an adult. There is nothing to pay and you don't have to be a member of Streatham & Brixton Chess Club to participate.
 
 Strong players often drop by for a few games of blitz chess and several of our Tuesday afternoon regulars also play for our league teams. Members of the informal library chess group also have the opportunity to take part in more organized events, such as club rapidplays.
 
 For more information about Chess at Streatham Library visit the library group's [website](https://sites.google.com/site/chessatstreathamlibrary/).
+
+#### Getting there
+
+* **By rail:** The nearest mainline stations are Streatham and Streatham Hill. From Streatham station turn left and walk north along Streatham High Road (about 750m). From Streatham Hill station turn right and walk south along Streatham High Road (about 750m).
+* **By bus/underground:** Many buses serve Streatham High Road. Buses 50, 57, 60, 109, 118, 133, 159, 201, 249, 250, 255, 315, 319, 333, 417, G1 and P13 all stop within walking distance of the venue. Buses 109, 118, 133, 159, 250 and 333 go from Brixton tube. Buses 249 and 319 go from Tooting Bec tube.
+* **By car:** Streatham High Road is on the A23. It's not possible to park on Streatham High Road itself, but there are free-of-charge parking spaces on the residential streets that adjoin it.
+* **Access for people with disabilities:** The Mark Bennett Streatham Centre is on the ground floor of Streatham Library where there is wheelchair access and a disabled toilet.
+
+<iframe title="Map of Streatham Library, 63 Streatham High Road" src="https://www.google.com/maps?q=Streatham+Library,+63+Streatham+High+Rd,+London+SW16+1PN&amp;output=embed" width="100%" height="320" style="border: 0; max-width: 700px;" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+[Open the map in Google Maps](https://www.google.com/maps/search/?api=1&query=Streatham+Library,+63+Streatham+High+Rd,+London+SW16+1PN).
  
 <div class="clearfix"></div>
 <br><br>

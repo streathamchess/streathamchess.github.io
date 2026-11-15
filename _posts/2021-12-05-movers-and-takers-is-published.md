@@ -15,4 +15,4 @@ Fully illustrated over 116 pages, in 20 chapters, *Movers and Takers* also tells
 
 A selection of the club's historic games (about one per decade) is presented in an Appendix and can be played through at <https://lichess.org/study/pkkAwhJK>
 
-Order *Movers and Takers* by emailing us at [SFChess@btinternet.com](SFChess@btinternet.com). It is £12.50 (£10.00 for S&BCC members) plus £2.50 p&p. Bank transfer is preferred, so we will send you our a/c details. Please include your postal address with your order.
+Order *Movers and Takers* by emailing us at [SFChess@btinternet.com](mailto:SFChess@btinternet.com). It is £12.50 (£10.00 for S&BCC members) plus £2.50 p&p. Bank transfer is preferred, so we will send you our a/c details. Please include your postal address with your order.
