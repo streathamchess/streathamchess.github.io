@@ -19,10 +19,13 @@
 <script src="https://cdn.firebase.com/js/client/2.4.0/firebase.js"></script>
 {% endif %}
 
-{% if page.newpgn == true or content contains 'class="lichess-pgn"' %}
+{% if page.newpgn == true %}
 <link href="/js/pgnviewer/css/pgnvjs.css" rel="stylesheet">
 <script src="/js/pgnviewer/js/pgnvjs.js" type="text/javascript"></script>
-{% if content contains 'class="lichess-pgn"' %}<script src="/js/lichess-pgn.js" defer></script>{% endif %}
+{% endif %}
+{% if content contains 'class="lichess-pgn"' %}
+<script src="/js/pgnviewer-1.6.11/dist.js"></script>
+<script src="/js/lichess-pgn.js" defer></script>
 {% endif %}
 
 
@@ -88,7 +91,7 @@
 
 	<footer> {% include footer.html %} </footer>
 
-	{% if page.jq_disable == true or content contains 'class="lichess-pgn"' %}
+	{% if page.jq_disable == true %}
 	<script src="/js/bootstrap.min.js"></script>
 	{% else  %}
 	<script src="/js/combined.js"></script>

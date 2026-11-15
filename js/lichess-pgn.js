@@ -1,4 +1,5 @@
-// Draws the boards for _includes/lichess_pgn.html with PgnViewerJS (js/pgnviewer).
+// Draws the boards for _includes/lichess_pgn.html with PgnViewerJS 1.6 (js/pgnviewer-1.6.11).
+// The older viewer in js/pgnviewer is still used by the posts with newpgn: true.
 (function () {
   "use strict";
 
@@ -23,21 +24,15 @@
     }, fetchText(urls[0]));
   }
 
-  // The viewer's PGN parser fails on the commands Lichess puts in study comments, such as
-  // [%anno ...], [%clk ...] and [%csl ...], so they are removed (the saved copies keep them)
-  function clean(text) {
-    return text.replace(/\[%[^\]]*\]/g, "").replace(/\{\s*\}/g, "");
-  }
-
   // A study PGN holds one game per chapter, separated by a blank line before the next [Event tag
   function render(box, text) {
-    clean(text).replace(/\r\n/g, "\n").trim().split(/\n\s*\n(?=\[Event )/).forEach(function (pgn, i) {
+    text.replace(/\r\n/g, "\n").trim().split(/\n\s*\n(?=\[Event )/).forEach(function (pgn, i) {
       var board = document.createElement("div");
       board.id = box.id + "-" + i;
       board.style.cssText = "width: 800px; max-width: 100%; margin-top: 20px; margin-bottom: 20px;";
       box.appendChild(board);
       try {
-        pgnView(board.id, { pgn: pgn, position: "start", locale: "en", pieceStyle: "merida", theme: "chesscom" });
+        PGNV.pgnView(board.id, { pgn: pgn, locale: "en", pieceStyle: "merida", theme: "blue", layout: box.clientWidth >= 640 ? "left" : "top" });
       } catch (error) {
         board.textContent = "This game could not be shown.";
       }

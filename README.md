@@ -38,7 +38,9 @@ The game or study must be public or unlisted. In the raw editor, type the includ
 `{% include lichess_pgn.html game="AbCdEfGh" %}`, or `study="..."` with an optional `chapter="..."`.
 
 * **On the page:** `_includes/lichess_pgn.html` leaves a placeholder and `js/lichess-pgn.js` draws the
-  board(s) with the PGN viewer in `js/pgnviewer`. `_layouts/default.html` loads both when a page uses it.
+  board(s) with PgnViewerJS 1.6 in `js/pgnviewer-1.6.11`. `_layouts/default.html` loads both when a page uses it.
+  The posts with `newpgn: true` still use the older viewer in `js/pgnviewer` (2017), which cannot read
+  Lichess study comments.
 * **Copies:** after a save, the GitHub Action `.github/workflows/archive-lichess.yml` runs
   `.github/scripts/archive_lichess.py`, which saves each game's PGN to `assets/pgn/lichess/` (a new commit,
   usually within a minute). The page uses that copy, so the game survives being deleted from Lichess.
