@@ -1,0 +1,26 @@
+{%- comment -%}
+Lichess game or study shown as an interactive board (js/lichess-pgn.js draws it).
+Parameters: game, or study with an optional chapter. Normally inserted by the Lichess button in /admin.
+It uses the copy saved in assets/pgn/lichess/ by .github/workflows/archive-lichess.yml,
+and reads from Lichess itself until that copy exists.
+{%- endcomment -%}
+{%- if include.game and include.game != "" -%}
+{%- assign slug = "game-" | append: include.game -%}
+{%- assign live = "https://lichess.org/game/export/" | append: include.game | append: "?clocks=false&evals=false" -%}
+{%- assign link = "https://lichess.org/" | append: include.game -%}
+{%- elsif include.study and include.study != "" -%}
+{%- assign link = "https://lichess.org/study/" | append: include.study -%}
+{%- if include.chapter and include.chapter != "" -%}
+{%- assign slug = "study-" | append: include.study | append: "-" | append: include.chapter -%}
+{%- assign live = "https://lichess.org/api/study/" | append: include.study | append: "/" | append: include.chapter | append: ".pgn" -%}
+{%- assign link = link | append: "/" | append: include.chapter -%}
+{%- else -%}
+{%- assign slug = "study-" | append: include.study -%}
+{%- assign live = "https://lichess.org/api/study/" | append: include.study | append: ".pgn" -%}
+{%- endif -%}
+{%- endif -%}
+{%- if slug -%}
+{%- assign local = "/assets/pgn/lichess/" | append: slug | append: ".pgn" -%}
+{%- assign archived = site.static_files | where: "path", local | first -%}
+<div class="lichess-pgn" id="lichess-pgn-{{ slug }}" data-src="{% if archived %}{{ local }}{% else %}{{ live | escape }}{% endif %}" data-fallback="{{ live | escape }}" data-link="{{ link }}"></div>
+{%- endif -%}

@@ -29,6 +29,22 @@ Open <https://streathamchess.org/admin/> and choose **Sign In with GitHub**. Sav
 * **Fallback sign-in:** "Sign In Using Access Token" takes a GitHub fine-grained personal access token
   for this repository with Contents: read and write.
 
+### Adding a Lichess game or study to a post
+
+In the rich-text editor of a news post or page, click the **Lichess game or study** button on the toolbar
+and paste a link: a game (`https://lichess.org/AbCdEfGh`), or one chapter of a study
+(`https://lichess.org/study/AbCdEfGh/IjKlMnOp`). A study link without a chapter shows every chapter.
+The game or study must be public or unlisted. In the raw editor, type the include yourself:
+`{% include lichess_pgn.html game="AbCdEfGh" %}`, or `study="..."` with an optional `chapter="..."`.
+
+* **On the page:** `_includes/lichess_pgn.html` leaves a placeholder and `js/lichess-pgn.js` draws the
+  board(s) with the PGN viewer in `js/pgnviewer`. `_layouts/default.html` loads both when a page uses it.
+* **Copies:** after a save, the GitHub Action `.github/workflows/archive-lichess.yml` runs
+  `.github/scripts/archive_lichess.py`, which saves each game's PGN to `assets/pgn/lichess/` (a new commit,
+  usually within a minute). The page uses that copy, so the game survives being deleted from Lichess.
+  Until the copy exists the page reads the game from Lichess directly. A copy is never overwritten.
+  To refresh one, delete its file and run the Action manually (Actions > Archive Lichess games > Run workflow).
+
 ### How sign-in works
 
 Sveltia CMS needs a small OAuth proxy to offer the GitHub button. Nothing for it lives in this repo
