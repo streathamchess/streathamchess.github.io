@@ -1,0 +1,23 @@
+[Event "Rated classical game"]
+[Site "https://lichess.org/6LSRsUbZ"]
+[Date "2025.04.01"]
+[White "ebinbromley"]
+[Black "AngusF"]
+[Result "0-1"]
+[WhiteElo "2052"]
+[BlackElo "1962"]
+[TimeControl "2700+15"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+[GameId "6LSRsUbZ"]
+[Variant "Standard"]
+[ECO "D11"]
+[Opening "Slav Defense: Quiet Variation, Pin Defense"]
+[StudyName "O4NCL game vs. Evaldas Baltrunas (Beckenham)"]
+[ChapterName "ebinbromley - AngusF"]
+[ChapterURL "https://lichess.org/study/BHtJD8mh/faAyh2VQ"]
+[Orientation "white"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bg4 { D11 Slav Defense: Quiet Variation, Pin Defense } 5. h3 Bxf3 6. Qxf3 e6 7. Nc3 Nbd7 8. Bd3 Bd6 9. O-O O-O 10. e4 { This seems the obvious move to play but, in his book on the Slav, James Vigus gives the main line as 10 Rd1 Re8 11 Qe2 Qe7 and then 12 e4. } 10... dxe4 { Black exchanges a pair of knights and wins a tempo - what's not to like? (Stockfish 17 approves too.) } (10... dxc4 { says Vigus, citing } 11. Bxc4 e5 12. d5 Nb6 13. Bb3 cxd5 14. exd5 h6 15. Be3 (15. g4 { says Stockfish 17 at plies up to 40 }) (15. Re1 { is also preferred by SF17 }) 15... a6 16. Rac1 Nbd7 { which "gave Black easy play" H.Koneru - B.Lalic, British Championship, Torquay 2002 }) 11. Nxe4 Nxe4 12. Bxe4 Nf6 13. Bc2 { But now I wondered what to do and isn't the position good for White with the Bishop pair and more space? } 13... h6?! { For want of seeing anything else. I did consider allowing White to play Bg5 (and then I'd maybe have played ... h6 or perhaps ... Be7). After playing ... h6 I realised I'd need to keep my queen covering Nf6 as otherwise White would have Bxh6. Ugh. } (13... Re8 { looks a useful, semi-waiting move } 14. Bg5 (14. Be3 e5) 14... h6) 14. Rd1 Re8 15. Bd2 { Around here and to my benefit I thought White would need to spend time to decide how to arrange his pieces. Maybe g4 intending g5 was an idea? } 15... Bf8 { Am I attacking d4 (probably not)? Perhaps I'm preparing ... e5. } 16. Bc3 { I was hoping for this move as it frees my queen from defending Nf6 and I had an idea to get some play } 16... a5 17. a3 { Stops ... Bb4 to exchange dark-squared bishops and remove any bishop-pair advantage for White. } 17... Rc8 { Now I'm aiming for ... b5 } 18. b4? (18. Bd3) 18... axb4 19. axb4 b5! { And now I'm going to get d5 for my knight. The position has changed somewhat in the last few moves and I thought I might be OK. I offered a draw. } 20. Qd3 { After eight minutes' thought. In a 45+15 game (45 minutes start time with a 15-second increment after each move), this left my opponent with 19 minutes (plus the move increment). I had 29 minutes remaining. Over the next few moves my opponent began to get quite low on time and I think this was a factor in the outcome of the game. } 20... bxc4 21. Qxc4 Nd5 { What a piece! Stockfish reckons the position is about equal. } 22. Bd2 Qb6 23. Qd3 g6 { I was wary about playing this as my kingside is a little light on defenders and White has his bishops pointing in that direction. } 24. Rdb1 Qb5 25. Qf3 Ra8 26. Rxa8 Rxa8 27. Bd3 Qa4 { Dreaming of attacking on the queenside but in reality my queen is offside. 27... Qb6 would have been better. } 28. Qg4 Kh7?! (28... h5) 29. h4 Kg7 30. Qe4 (30. h5 { against this I'd intended } 30... Nf6?? { which seems to win a pawn except there's a nasty (for me) combination } (30... Qa2 { however Black is OK with this move } 31. Rd1 (31. hxg6? Qxd2) 31... g5 32. Qe4 (32. Bxg5?? hxg5 33. Qxg5+ Kh8 { and White has no attack }) 32... Nf6) 31. Qf3 Nxh5 32. g4 Nf6 33. Bxh6+) 30... Bd6 31. g4? (31. h5 { I don't have 31.... Nf6 for the same reason as before. }) 31... Qa2 { Usefully gaining a tempo by attacking Bd2. My hope was to play ...Nf6 and ... Qd5 to bring the queen back into play. } 32. Bc2 Rc8 (32... Ra3 { says Stockfish }) 33. h5 Nf6 34. Qd3 gxh5 35. g5? (35. Bb3 { stops my ... Qd5 idea } 35... Qa7) 35... hxg5 36. Bxg5 Qd5 37. Qe3? (37. Bh4 Rg8) 37... Ng4 { Pow! } 38. Qd2 Nh2 { Pow! again. White's bishop pair is no match for my agile knight! } 39. Bh6+ Kf6 40. Be4 Rg8+ { White resigns. Notice that with its last move the knight both threatened Nf3+ and covered f1. } 0-1
+
+

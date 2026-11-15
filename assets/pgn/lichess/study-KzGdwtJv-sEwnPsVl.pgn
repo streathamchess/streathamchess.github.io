@@ -1,0 +1,18 @@
+[Event "Import"]
+[Site "https://lichess.org/Y3Xn45YT"]
+[Date "2023.12.07"]
+[Result "0-1"]
+[TimeControl "-"]
+[Termination "Unknown"]
+[Variant "Standard"]
+[ECO "C78"]
+[Opening "Ruy Lopez: Morphy Defense"]
+[StudyName "Game study"]
+[ChapterName "? - ?"]
+[ChapterURL "https://lichess.org/study/KzGdwtJv/sEwnPsVl"]
+[Annotator "https://lichess.org/@/Simpo137"]
+[Orientation "white"]
+
+1. e4 { [%eval 0.14] } 1... e5 { [%eval 0.17] } 2. Nf3 { [%eval 0.29] } 2... Nc6 { [%eval 0.32] } 3. Bb5 { [%eval 0.34] } 3... a6 { [%eval 0.38] } 4. Ba4 { [%eval 0.31] } 4... Nf6 { [%eval 0.3] } 5. O-O { [%eval 0.24] } 5... b5 { [%eval 0.37] } 6. Bb3 { [%eval 0.27] } 6... Bc5 { [%eval 0.22] } 7. Nxe5 { [%eval -0.08] } 7... Nxe5 { [%eval 0.0] } 8. d4 { [%eval 0.03] } 8... Bxd4 { [%eval 0.1] } 9. Qxd4 { [%eval 0.15] } 9... d6 { [%eval 0.09] } 10. a4 { [%eval -0.34] } 10... c5 { [%eval -0.34] } 11. Qe3 { [%eval -0.19] } 11... c4 { [%eval -0.12] } 12. Ba2 { [%eval -0.06] } 12... O-O { [%eval -0.06] } 13. Nc3 { [%eval -0.52] } 13... Re8 { [%eval -0.56] } 14. axb5 { [%eval -0.53] } 14... axb5 { [%eval -0.52] } 15. Nxb5 { [%eval -0.64] } 15... d5 { [%eval -0.53] } 16. exd5 { [%eval -0.19] } 16... Nxd5 { [%eval -0.44] } 17. Qc5?! { [%eval -1.01] } { Inaccuracy. Qd4 was best. } (17. Qd4 Ra6 18. Bd2 Rg6 19. f4 Bh3 20. g3 Nc6 21. Qxc4 Bxf1 22. Rxf1 Qb6+ 23. Rf2 Rd8) 17... Ra6 { [%eval -0.81] } 18. Bd2? { [%eval -2.04] } { Mistake. f4 was best. } (18. f4) 18... Rg6 { [%eval -1.78] } 19. f4 { [%eval -3.01] } 19... Bh3?? { [%eval -0.64] } { Blunder. Bb7 was best. } (19... Bb7 20. g3 Ng4 21. Rae1 Nxh2 22. Rxe8+ Qxe8 23. Bxc4 Nxf1 24. Kxf1 Qd7 25. Ke1 Re6+ 26. Be2) 20. Rf2?? { [%eval -5.14] } { Blunder. g3 was best. } (20. g3 Ne3 21. Qxe3 Ng4 22. Qd4 Qa8 23. Rf2 Rd8 24. Qc5 Nxf2 25. Qxf2 Rb6 26. Na3 Rbd6) 20... Ng4?? { [%eval -0.89] } { Blunder. Rxg2+ was best. } (20... Rxg2+ 21. Rxg2 Nf3+ 22. Kh1 Bxg2+ 23. Kxg2 Nxd2 24. Bxc4 Nxc4 25. Kh1 Nce3 26. Nd6 Rf8 27. c4) 21. Raf1?? { [%eval -5.31] } { Blunder. f5 was best. } (21. f5 Ra6 22. gxh3 Nxf2 23. Qxf2 Qb8 24. Nc3 Nb4 25. Bf4 Qa8 26. Re1 Rxe1+ 27. Qxe1 Nxa2) 21... Nxf2 { [%eval -6.37] } 22. Rxf2 { [%eval -5.63] } 22... Nxf4 { [%eval -5.51] } 23. Qxc4 { [%eval -6.01] } 23... Ne6?? { [%eval -1.76] } { Blunder. Nxg2 was best. } (23... Nxg2 24. Qxf7+ Kh8 25. Nd6 Rxd6 26. Bc4 Nf4 27. Qxf4 Rg6+ 28. Qg3 Qd4 29. Bf1 Rf8 30. Be1) 24. Nd4?? { [%eval -5.32] } { Blunder. Qd3 was best. } (24. Qd3) 24... Nxd4 { [%eval -5.24] } 25. Qxf7+ { [%eval -5.28] } 25... Kh8 { [%eval -5.36] } 26. Ba5?? { [%eval #-6] } { Checkmate is now unavoidable. Bc4 was best. } (26. Bc4 Be6 27. Bxe6 Rgxe6 28. Ba5 Ne2+ 29. Kh1 Qd6 30. b4 h6 31. Rf1 Qd4 32. b5 Qe4) 26... Ne2+ { [%eval #-5] } 27. Rxe2 { [%eval #-5] } 27... Qd1+ { [%eval #-5] } 28. Qf1 { [%eval #-5] } 28... Qxe2? { [%eval -8.83] } { Lost forced checkmate sequence. Rxe2 was best. } (28... Rxe2 29. Qxd1 Rgxg2+ 30. Kh1 Rxh2+ 31. Kg1 Reg2+ 32. Kf1 Rh1#) 29. Qxe2 { [%eval #-12] } 29... Rxe2 { [%eval #-11] } 30. Bd5 { [%eval -36.87] } 30... Re5?! { [%eval -6.42] } { Inaccuracy. Bxg2 was best. } (30... Bxg2 31. Bxg2 Rexg2+ 32. Kf1 Rxh2 33. c4 Rxb2 34. c5 Rh6 35. Kg1 Ra6 36. Be1 Rg6+ 37. Kf1) 31. c4 { [%eval -6.82] } 31... Bxg2 { [%eval -6.66] } 32. Bxg2 { [%eval -7.04] } 32... Re2 { [%eval -9.1] } 33. Bc7? { [%eval #-9] } { Checkmate is now unavoidable. Kf1 was best. } (33. Kf1 Rgxg2 34. Be1 Rxh2 35. Bc3 Rc2 36. Kg1 Rxb2 37. Bxb2 Rxb2 38. Kf1 Rc2 39. Ke1 Rxc4) 33... Rgxg2+ { [%eval -76.66] } 34. Kh1 { [%eval #-8] } 34... Rxb2 { [%eval -35.88] } 35. Be5 { [%eval #-7] } 35... Rbc2 { [%eval #-6] } 36. h3 { [%eval #-4] } 36... Rgd2 { [%eval #-3] } { 0-1 Black wins. } 0-1
+
+

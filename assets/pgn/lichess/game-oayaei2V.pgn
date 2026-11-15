@@ -1,0 +1,23 @@
+[Event "rated classical game"]
+[Site "https://lichess.org/game/oayaei2V"]
+[Date "2023.07.06"]
+[Round "-"]
+[White "AngusF"]
+[Black "RaggaMat"]
+[Result "1-0"]
+[GameId "oayaei2V"]
+[UTCDate "2023.07.06"]
+[UTCTime "18:31:27"]
+[WhiteElo "2062"]
+[BlackElo "2125"]
+[WhiteRatingDiff "+32"]
+[BlackRatingDiff "-49"]
+[Variant "Standard"]
+[TimeControl "4500+15"]
+[ECO "B00"]
+[Opening "Pirc Defense"]
+[Termination "Normal"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 e5 4. Nf3 exd4 5. Nxd4 Be7 6. Bf4 O-O 7. Be2 Nc6 8. f3 Nxd4 9. Qxd4 Be6 10. O-O-O a6 11. g4 b5 12. Nd5 Nxd5 13. exd5 Bd7 14. Qd2 a5 15. h4 b4 16. h5 Rb8 17. Bd3 a4 18. g5 Bb5 19. Rdg1 b3 20. cxb3 Bxd3 21. Qxd3 axb3 22. a3 c5 23. Qc3 g6 24. Bd2 Re8 25. hxg6 fxg6 26. Rxh7 Bf6 27. gxf6 Kxh7 28. Rh1+ Kg8 29. f7+ Kxf7 30. Rh7+ Kf8 31. Qg7# 1-0
+
+

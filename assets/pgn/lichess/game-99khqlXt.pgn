@@ -1,0 +1,23 @@
+[Event "rated classical game"]
+[Site "https://lichess.org/game/99khqlXt"]
+[Date "2023.07.31"]
+[Round "-"]
+[White "RaggaMat"]
+[Black "EastCoker"]
+[Result "1/2-1/2"]
+[GameId "99khqlXt"]
+[UTCDate "2023.07.31"]
+[UTCTime "18:31:28"]
+[WhiteElo "1994"]
+[BlackElo "2017"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-2"]
+[Variant "Standard"]
+[TimeControl "2700+15"]
+[ECO "B23"]
+[Opening "Sicilian Defense: Closed, Traditional"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 Nc6 3. Bb5 Nd4 4. Nf3 e6 5. O-O a6 6. Bd3 Nc6 7. b3 d6 8. Bb2 Nf6 9. Re1 Be7 10. Bf1 e5 11. h3 Nd4 12. a4 O-O 13. Bc4 Be6 14. Bxe6 Nxf3+ 15. Qxf3 fxe6 16. Qe2 Nd7 17. Qc4 Rf6 18. Re3 Qf8 19. Qe2 Qf7 20. Rf1 Nb8 21. Rf3 Rxf3 22. Qxf3 Qxf3 23. gxf3 Nc6 24. Ne2 Rf8 25. Kg2 Nb4 26. Rc1 Bg5 27. Bc3 Kf7 28. Bxb4 cxb4 29. Rd1 Rc8 30. c4 d5 31. exd5 exd5 32. d3 Ke6 33. Kg3 Rd8 34. f4 Bxf4+ 35. Nxf4+ exf4+ 36. Kxf4 dxc4 37. Re1+ Kf6 38. dxc4 Rd2 39. Kf3 Rd3+ 40. Re3 Rxe3+ 41. Kxe3 Ke5 42. f4+ Kf5 43. a5 h5 44. Kf3 h4 45. Ke3 g6 46. Kf3 g5 47. fxg5 Kxg5 48. Ke3 Kf5 49. Kf3 Kg5 50. Ke3 Kf5 51. Kf3 Kg5 1/2-1/2
+
+

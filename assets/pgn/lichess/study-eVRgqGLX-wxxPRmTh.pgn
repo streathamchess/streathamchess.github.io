@@ -1,0 +1,17 @@
+[Event "S&BCC Mag #21: Chapter 1 Smith v Dupre"]
+[Date "2022.04.09"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "A55"]
+[Opening "Old Indian Defense: Normal Variation"]
+[StudyName "S&BCC Mag #21"]
+[ChapterName "Chapter 1 Smith v Dupre"]
+[ChapterURL "https://lichess.org/study/eVRgqGLX/wxxPRmTh"]
+[Annotator "https://lichess.org/@/msmith_ms"]
+[UTCDate "2022.04.09"]
+[UTCTime "08:18:28"]
+[Orientation "white"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 Nbd7 4. e4 e5 5. Nf3 c6 6. Be2 a5 7. O-O Qc7 { I think the major decision in this type of line is whether to punt d5 or not. I thought he would follow a comfortable well-trodden game plan if I closed the centre that way, and he would go for a slow King's-side build-up against my castled King. I was thinking that a grenade tossed in with c5 might upset his apple-cart. } 8. Re1 h6 { Yeah, there we go - to be followed by ...Be7, Nf8, g5, Ng6 etc } 9. b3 Be7 10. Ba3 { Threatening to take on e5 and then e7 } 10... Nf8 11. c5 { Tossing in the grenade...I thought that, in general terms, with his King still un-castled, opening the centre would be to my advantage because I was better developed. } 11... dxc5 12. dxe5 N6d7 { I was expecting 12...Ng4, but anyway had been thinking along the lines of moves like Na4, or better maybe 13 Qc2 and if he takes on e5, then Na4 and Bb2. But it all looked a bit vague, suspicious even (if I won the g7 pawn then Rg8 gets the g file to my King). Then I noticed Nd5, which the computer spots immediately. Hither to neither of us had realised it was possible... } 13. Nd5 cxd5 { I thought he pretty much had to take it. } 14. exd5 { Now 15 d6 is threatened } 14... Qb8 { Not sure this was best 14...Qb6 looks more active, but these Philidor players like putting their bits back on their first rank. I don't think he saw the force of what comes next. } 15. Bb5 { Now not much he can do about e6; and actually d6 comes into consideration, too; especially after his next. } 15... Ng6 16. e6 { I wanted my piece back, and now! - but as mentioned d6 was playable, with e6 to follow - but I'm not Mikhail Tal (as will be again evident at move 20). Anyway, he hadn't spotted that his Bc8 would be trapped, otherwise he might have tried 16...Kd8 - though that is not the sort of move that appeals at our level... } 16... O-O 17. exd7 { And he now realised that the Bc8 is a goner.... } 17... Bxd7 18. Bxd7 Rd8 19. Bf5 Bf6 20. Rc1 { The comp points out that 20 Bxg6 Bxa1 21 Qxa1 fxg6 loses to 22 Re7 (a move too far for me...) } 20... Nf4 21. Be4 b6 22. Qd2 Ra7 23. Rcd1 Rad7 { He has managed to organise some counterplay, and I was still wondering how to simplify.... } 24. Bb2 Nxd5 { He wins a pawn back, and I had to play the feeble looking Qc1 to keep everything covered...but things are about to simply... } 25. Qc1 Bxb2 26. Qxb2 Nf6 27. Rxd7 Rxd7 28. g3 Nxe4 29. Rxe4 Qb7 30. Qe2 { Missing 30 Re8+ Kh7 31 Qc2+ g6 32 Qb2.... but good enough with an extra piece and chances of an attack. } 30... g6 31. Re8+ Kg7 32. h4 b5 33. Qe5+ f6 34. Qxc5 Rf7 35. Ne5 Qc7 36. Nc6 Qd7 37. Re7 { and the major bits get swapped off. He resigned. 1-0 } *
+
+
