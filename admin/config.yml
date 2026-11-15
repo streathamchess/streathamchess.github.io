@@ -19,3 +19,122 @@ collections:
       - {label: "Description", name: "description", widget: "string", required: false}
       - {label: "Use new PGN style", name: "newpgn", widget: "boolean", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "pages" # Site pages: fixed list, they can be edited but not added or deleted here
+    label: "Pages"
+    description: "Pages with HTML or Liquid tags ({% ... %}) open in the raw editor first, to keep them intact. Edit text there, or switch to the rich text editor only for plain-text pages."
+    files:
+      - name: "home"
+        label: "Home page (Welcome)"
+        file: "index.md"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
+          - {label: "Body", name: "body", widget: "markdown", modes: ["raw", "rich_text"]}
+      - name: "about"
+        label: "About us"
+        file: "about/index.md"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
+          - {label: "Body", name: "body", widget: "markdown", modes: ["raw", "rich_text"]}
+      - name: "venues"
+        label: "Where we play"
+        file: "about/venues.md"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Description", name: "description", widget: "string", required: false}
+          - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
+          - {label: "Body", name: "body", widget: "markdown", modes: ["raw", "rich_text"]}
+      - name: "join"
+        label: "How to join"
+        file: "join.md"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
+          - {label: "Body", name: "body", widget: "markdown", modes: ["raw", "rich_text"]}
+      - name: "contact"
+        label: "Club contacts"
+        file: "contact.md"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
+          - {label: "Body", name: "body", widget: "markdown", modes: ["raw", "rich_text"]}
+      - name: "captains"
+        label: "Team captains"
+        file: "captains.md"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
+          - {label: "Body", name: "body", widget: "markdown", modes: ["raw", "rich_text"]}
+      - name: "members"
+        label: "Latest members grades"
+        file: "members.md"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
+          - {label: "Body", name: "body", widget: "markdown", modes: ["raw", "rich_text"]}
+      - name: "past-results"
+        label: "Past results"
+        file: "past-results.md"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - name: "anniversary"
+        label: "Our 150th Anniversary Year"
+        file: "anniversary.md"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Gallery", name: "gallery", widget: "hidden", default: true}
+          - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
+          - {label: "Body", name: "body", widget: "markdown", modes: ["raw", "rich_text"]}
+      - name: "clubhistory"
+        label: "Club history"
+        file: "clubhistory/index.md"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
+          - {label: "Body", name: "body", widget: "markdown", modes: ["raw", "rich_text"]}
+      - name: "clubhistory-more"
+        label: "More S&BCC History Discovered"
+        file: "clubhistory/more.md"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
+          - {label: "Body", name: "body", widget: "markdown", modes: ["raw", "rich_text"]}
+      - name: "noticeboard"
+        label: "News and games page"
+        file: "noticeboard/index.md"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
+          - {label: "Body", name: "body", widget: "markdown", modes: ["raw", "rich_text"]}
+      - name: "links"
+        label: "Links"
+        file: "links.md"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
+          - {label: "Body", name: "body", widget: "markdown", modes: ["raw", "rich_text"]}
+      - name: "clubpolicies"
+        label: "Club Policies"
+        file: "clubpolicies.md"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - name: "privacy"
+        label: "Club Privacy Policy"
+        file: "privacy.md"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - name: "credits"
+        label: "Credits"
+        file: "credits.md"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
+          - {label: "Body", name: "body", widget: "markdown"}
