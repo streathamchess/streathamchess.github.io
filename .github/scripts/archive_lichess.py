@@ -36,7 +36,8 @@ def find_wanted(root):
     for folder, dirs, files in os.walk(root):
         dirs[:] = [d for d in dirs if d not in SKIP_DIRS]
         for name in files:
-            if not name.endswith((".md", ".markdown", ".html")):
+            # README.md is not part of the site and quotes the include as an example
+            if not name.endswith((".md", ".markdown", ".html")) or name == "README.md":
                 continue
             with open(os.path.join(folder, name), encoding="utf-8") as f:
                 text = f.read()
