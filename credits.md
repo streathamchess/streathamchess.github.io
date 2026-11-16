@@ -3,7 +3,7 @@ title: Credits
 layout: default
 ---
 
-Most content by Richard Tillett
+Most content by Richard Tillett and Martin Smith
 
 Site redesign by Kostya Titorenko
 
