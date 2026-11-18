@@ -1,3 +1,24 @@
+<h3>ECF rating &harr; FIDE rating</h3>
+<p>Since FIDE changed its ratings on 1 March 2024, the English Chess Federation recommends
+<strong>FIDE = 0.6 &times; ECF + 700</strong> up to an ECF rating of 1750, and <strong>FIDE = ECF</strong> above that
+(<a href="https://rating.englishchess.org.uk/library/stats/FIDE_conversion_2402.pdf">ECF note</a>).
+FIDE ratings start at 1400, so results below that are only indicative.</p>
+<p>Treat the result as an estimate: FIDE raised its ratings below 2000 in 2023&ndash;24 and the ECF chose not to follow, so the two scales no longer line up exactly (the ECF's <a href="https://rating.englishchess.org.uk/library/stats/RatingCornerFeb26.pdf">Rating Corner on &ldquo;stretch&rdquo;</a> explains why).</p>
+<script>
+function ecfRatingToFide(ecf) { return ecf <= 1750 ? Math.round(0.6 * ecf + 700) : Math.round(ecf); }
+function fideToEcfRating(fide) { return fide <= 1750 ? Math.round((fide - 700) / 0.6) : Math.round(fide); }
+function showFide(box) { var v = parseFloat(box.value); document.getElementById("fide-now").value = isNaN(v) ? "" : ecfRatingToFide(v); }
+function showEcfRating(box) { var v = parseFloat(box.value); document.getElementById("ecf-now").value = isNaN(v) ? "" : fideToEcfRating(v); }
+</script>
+<label for="ecf-now" style="font-weight:normal">ECF rating:</label>
+<input type="text" inputmode="numeric" id="ecf-now" value="" onChange="showFide(this)" onkeyup="showFide(this)">
+&nbsp;<-->&nbsp;
+<label for="fide-now" style="font-weight:normal">FIDE rating:</label>
+<input type="text" inputmode="numeric" id="fide-now" value="" onChange="showEcfRating(this)" onkeyup="showEcfRating(this)">
+
+<h3>Old ECF grades (used until 2020)</h3>
+<p>Before 2020 the ECF published three-digit grades (for example 150). This is the conversion this page used to show,
+FIDE = 7.5 &times; grade + 700, kept here for old grades.</p>
 <script language="JavaScript">
 function calculateEcf(fide) {
 ecfText = document.getElementById("ecf");

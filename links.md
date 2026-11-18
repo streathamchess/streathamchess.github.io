@@ -17,6 +17,9 @@ The official FIDE Laws of Chess, in the FIDE Handbook.
 
 [English Chess Federation](https://www.englishchess.org.uk/)
 
+[ECF to FIDE rating converter](/converter.html) <br/>
+Our converter between ECF and FIDE ratings, using the ECF's current recommended formula (the old grade formula is there too).
+
 [Southern Counties Chess Union](https://sccu-chess.com/)
 
 [London Chess League](https://www.londonchess.com/)
