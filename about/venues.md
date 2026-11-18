@@ -93,4 +93,8 @@ The club usually holds a small number of internal competitions over the
 course of the year. They are typically in rapid or blitz formats and open to
 members and friends of the club.
 
+<iframe title="Map of St Thomas Church Cafe, Telford Avenue (home matches in the Croydon and District Chess League)" src="https://www.google.com/maps?q=St+Thomas+Church+Cafe,+Telford+Avenue,+London+SW2+4XW&amp;output=embed" width="100%" height="320" style="border: 0; max-width: 700px;" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+[Open the map in Google Maps](https://www.google.com/maps/search/?api=1&query=St+Thomas+Church+Cafe,+Telford+Avenue,+London+SW2+4XW).
+
 <div class="clearfix"></div>
