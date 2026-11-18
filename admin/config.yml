@@ -117,6 +117,16 @@ collections:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
           - {label: "Body", name: "body", widget: "markdown", modes: ["raw", "rich_text"]}
+      - name: "leagues"
+        label: "League tables (links to the leagues' own tables and fixtures; update each season)"
+        file: "leagues.md"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Page heading, if different from the title (optional)", name: "heading", widget: "string", required: false}
+          - {label: "Search title (shown in Google; optional)", name: "seo_title", widget: "string", required: false}
+          - {label: "Search description (shown in Google; optional)", name: "description", widget: "string", required: false}
+          - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
+          - {label: "Body", name: "body", widget: "markdown", modes: ["raw", "rich_text"]}
       - name: "calendar"
         label: "Club calendar page (text only; events are edited in Google Calendar)"
         file: "calendar/index.md"
