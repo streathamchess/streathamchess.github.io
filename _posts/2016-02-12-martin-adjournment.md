@@ -58,3 +58,17 @@ The only chance (it seemed to me – I don’t know what Stockfish would say) wa
 **53\. Kc7 Rc2+  54. Rc6 Rxb2 55. d7 Rd2 56. d8 (Q) Rxd8 57. Kxd8 f3 58. Ke7 Ke4** Draw Agreed
 
 Thanks Stockfish (though I’m sure you’re going to tell me how he might have won from the 3rd diagram).      
+
+<div class="clearfix"></div>
+
+---
+
+**Comment from Angus French** (13 February 2016; comments on this page have since been switched off)
+
+> Excellent story, Martin.
+>
+> I think I’d have played similarly and been just as apprehensive about my moves. Mr. Stockfish fully approves up the point where you played ... Rxh5 (it prefers ... Ke6, presumably to keep your opponent’s king in its own half).
+>
+> Um, I don’t know if you want to know this but towards the end of the game, when you played Rc2+ and your opponent blocked with Rc6 allowing Rxb2, it would have been better for him to play Kd8 (which would likely have lead to a Q+P vs. Q ending - and perhaps another adjournment).
+>
+> Well played though. I think you were absolutely right to play for activity.

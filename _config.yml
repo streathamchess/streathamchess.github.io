@@ -19,9 +19,7 @@ defaults:
       path: ""
       type: "posts"
     values:
-      layout: "post_with_comments"
-      jq_disable: true
-      firebase: true
+      layout: "post"
   -
     scope:
       path: "admin"

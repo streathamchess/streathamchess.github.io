@@ -124,7 +124,6 @@ collections:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Search title (shown in Google; optional)", name: "seo_title", widget: "string", required: false}
           - {label: "Search description (shown in Google; optional)", name: "description", widget: "string", required: false}
-          - {label: "jQuery disabled", name: "jq_disable", widget: "hidden", default: false}
           - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
           - {label: "Body", name: "body", widget: "markdown", modes: ["raw", "rich_text"]}
       - name: "links"

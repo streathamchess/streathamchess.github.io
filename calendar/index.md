@@ -3,7 +3,6 @@ title: Club calendar
 layout: default
 seo_title: "Club Calendar - Streatham & Brixton Chess Club"
 description: "Fixtures, club events and tournament dates for Streatham & Brixton Chess Club."
-jq_disable: false
 ---
 
 
@@ -63,10 +62,3 @@ You can view upcoming events in Week, Month or Agenda view. Just click on an eve
 	}
 </script>
 //-->
-
-<!-- Comment out old calendar code for now
-{% include calendar.html json="'/assets/calendar2015.json'" %}
-
-[Master calendar (PDF)](/assets/calendar2016.pdf)
-//-->
-
