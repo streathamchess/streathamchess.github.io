@@ -66,7 +66,7 @@ except `base_url` in `admin/config.yml`:
 
 * **Proxy:** [sveltia-cms-auth](https://github.com/sveltia/sveltia-cms-auth) deployed as the Cloudflare
   Worker `streatham-cms-auth` (`https://streatham-cms-auth.titorenko.workers.dev`), on the Cloudflare
-  account of titorenko@gmail.com.
+  account of the GitHub user `titorenko`.
 * **GitHub App:** `Streatham Chess CMS Auth`, owned by the `streathamchess` organisation, installed on this
   repository only, permission Contents: read and write. Tokens expire after 8 hours and refresh themselves.
 * **Worker settings** (Cloudflare dashboard > Workers > streatham-cms-auth > Settings > Variables and secrets):
