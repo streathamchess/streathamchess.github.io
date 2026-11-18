@@ -2,6 +2,7 @@
 title: Lorem Test Page
 layout: default
 gallery: true
+sitemap: false
 ---
 
 **This page is for site testing only.**

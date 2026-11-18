@@ -1,16 +1,25 @@
 ---
 title: How to join
 layout: default
+seo_title: "How to Join - Streatham & Brixton Chess Club"
+description: "Turn up free any Tuesday at Streatham Library, or join for league chess: annual or pay-per-game. New players can normally try up to three games free."
 ---
+
+<div class="hidden-xs">
+{% include image.html url="/assets/chessart/boileauchess.jpg" description="[Two men playing chess](https://streathambrixtonchess.blogspot.com/2008/08/chess-in-art-xi.html) – wood sculpture by the Canadian artist Alain Boileau. " %}
+</div>
+
+{% include tuesday.html mode="join" %}
+
+<div class="visible-xs">
+{% include image.html url="/assets/chessart/boileauchess.jpg" description="[Two men playing chess](https://streathambrixtonchess.blogspot.com/2008/08/chess-in-art-xi.html) – wood sculpture by the Canadian artist Alain Boileau. " %}
+</div>
 
 Anyone can join our Tuesday afternoon [Streatham Library chess group](/about/venues.html#whitelion) and there’s nothing
 to pay. If it’s full-on, league chess that you want, you can choose one of two membership
 options to suit you – an annual subscription or a game fee.
 
-
 If you only want to play a few games for us every year the best option for you may be to pay on a game-by-game basis. If you are new to competitive chess, you can normally play up to three games for free to try it out and make sure it suits you. Alternatively as a new annual subscription member you pay just half of the full subscription in your first season.
-
-{% include image.html url="/assets/chessart/boileauchess.jpg" description="[Two men playing chess](https://streathambrixtonchess.blogspot.com/2008/08/chess-in-art-xi.html) – wood sculpture by the Canadian artist Alain Boileau. " %}
 
 Subscription rates for the 2026-2027 season are:
 
@@ -23,7 +32,5 @@ As a club member you will be qualified to play for our league teams, subject to 
 
 To play regular competitive chess in England - after your first few  games, which are free - you will also need to become a member of the English Chess Federation (ECF).
 Bronze membership currently costs £21 a year for adults - see [here](https://www.englishchess.org.uk/ecf-membership-rates-and-joining-details/) for further information.
-
-
 
 If you’re thinking of joining Streatham Chess Club or would like to know more about membership, please [contact](/contact.html) one of our club officers.

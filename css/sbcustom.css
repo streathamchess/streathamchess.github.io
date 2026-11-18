@@ -160,3 +160,20 @@
         padding-bottom: 13px;
     }
 }
+
+/* "Come along on Tuesday" invitation (see _includes/tuesday.html) */
+.invite {
+    overflow: hidden; /* sit beside a floated picture instead of running under it */
+    background-color: #eef3f7;
+    border-left: 5px solid #428bca;
+    padding: 14px 18px;
+    margin: 6px 0 18px;
+}
+.invite .when { font-size: 1.35em; font-weight: 700; margin: 0; }
+.invite .where { margin: 2px 0 10px; }
+.invite .facts { margin: 0 0 10px; padding-left: 18px; }
+.invite .btn { margin: 2px 6px 2px 0; }
+.lead-in { font-size: 1.15em; margin: 0 0 10px; }
+
+/* highlights the entry a button links to (e.g. Where we play > Ask a club officer) */
+.jump-target:target { background-color: #fff3cd; padding: 2px 6px; border-radius: 3px; }

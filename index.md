@@ -1,9 +1,20 @@
 ---
 title: Welcome
 layout: default
+heading: "Streatham & Brixton Chess Club"
+seo_title: "Streatham & Brixton Chess Club - Free Chess in South London"
+description: "Free, friendly chess every Tuesday 4.30-7.30pm at Streatham Library, SW16. All ages and abilities, no membership needed. League chess across London too."
 ---
 
+<div class="hidden-xs">
 {% include image.html url="/assets/chessart/soldier.jpg" description="Jean Metzinger, Soldat jouant aux échecs (Soldier at a Game of Chess)" %}
+</div>
+
+{% include tuesday.html %}
+
+<div class="visible-xs">
+{% include image.html url="/assets/chessart/soldier.jpg" description="Jean Metzinger, Soldat jouant aux échecs (Soldier at a Game of Chess)" %}
+</div>
 
 You’ve arrived at Streatham & Brixton Chess Club’s website.
 We hope you’ll take a few moments to find out more about us – we’re a lively chess club
@@ -18,7 +29,7 @@ We offer one of the best-value membership packages in London with a special redu
 for the first year of membership. If all you want is to play ungraded games of friendly
 chess, you won't have to pay anything at all.
 
-So read on to learn a little more [about us](/about/index.html), [where we play](/about/venues.html) and [how to join](/join.html). Feel free to drop by at one our Tuesday sessions at [Streatham Library](/join.html), or [get in touch](contact.html) for more information on the club.
+So read on to learn a little more [about us](/about/index.html), [where we play](/about/venues.html) and [how to join](/join.html). Feel free to drop by at one our Tuesday sessions at [Streatham Library](/about/venues.html#whitelion), or [get in touch](contact.html) for more information on the club.
 <!--br>
 <b>Please note that this website is currently being updated and some of the information may no longer be correct.</b--> 
 
@@ -30,6 +41,7 @@ So read on to learn a little more [about us](/about/index.html), [where we play]
         border-left: 5px solid #428bca;
         padding: 10px 15px 2px 15px;
         margin-top: 20px;
+        overflow: hidden; /* sit beside the floated picture instead of running under it */
     }
     #latestarticles h2 { margin-top: 0; }
     #latestarticles li p:empty { display: none; }

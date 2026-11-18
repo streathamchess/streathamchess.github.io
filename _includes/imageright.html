@@ -8,7 +8,7 @@
   
   <p></p>
   <p>
-   <img src="{{ include.url }}" class="img-responsive img-right"/>
+   <img src="{{ include.url }}" class="img-responsive img-right" alt="{{ include.description | markdownify | strip_html | strip_newlines | escape_once }}"/>
  </p>
   {% capture my-include %}{{ include.description }}{% endcapture %}
   <p align="left" style="text-align: left;"><i>{{ my-include | markdownify }}</i></p>

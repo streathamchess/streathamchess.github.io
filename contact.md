@@ -1,6 +1,8 @@
 ---
 title: Club contacts
 layout: default
+seo_title: "Club Contacts - Streatham & Brixton Chess Club"
+description: "Who to contact about joining, league teams and the Tuesday sessions at Streatham & Brixton Chess Club."
 ---
 
 {% include image.html url="/assets/chessart/chess_rage_1462.jpg" description="The first ever depiction of chess rage? [Partie d'échecs dégénérant en assassinat](http://streathambrixtonchess.blogspot.com/2009/11/chess-in-art-postscript-chess-in_22.html), painted by the 15th century artist Renaut de Montauban." %}
@@ -47,5 +49,5 @@ Croydon League D: Ed Mospan <eamospan@aol.com> tel 07936 366424
 <!--Surrey League Alexander Cup: Martin Smith <msmith.ms@btinternet.com> tel
 0208 7672355-->
 
-4NCL Online: Matthew Tillett <tillett@gmail.com> tel 07782 167693
+<span id="online-4ncl" class="jump-target">4NCL Online: Matthew Tillett <tillett@gmail.com> tel 07782 167693</span>
 

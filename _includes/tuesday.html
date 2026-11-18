@@ -1,0 +1,25 @@
+{%- comment -%}
+  The single source for the Tuesday session facts (time, place, free, who can come).
+  Change them here and every card updates. mode="home" (default) or mode="join".
+{%- endcomment -%}
+{%- if include.mode == "join" -%}
+<div class="invite" role="region" aria-label="Try it first">
+<p class="when">Try it first &mdash; just turn up on a Tuesday</p>
+<p class="where">4.30&ndash;7.30pm at Streatham Library, 63 Streatham High Road SW16 1PN. All ages and abilities; free, and you don&rsquo;t have to be a member.</p>
+<p class="where"><small>Closed on public holidays &middot; under-10s please bring an adult</small></p>
+<a class="btn btn-primary" href="/about/venues.html#whitelion">Directions and map</a>
+<a class="btn btn-default" href="/contact.html">Ask a club officer</a>
+</div>
+{%- else -%}
+<p class="lead-in">Free, friendly chess in South London for all ages and abilities. No membership needed.</p>
+<div class="invite" role="region" aria-label="Come along">
+<p class="when">Every Tuesday, 4.30&ndash;7.30pm</p>
+<p class="where">Streatham Library, 63 Streatham High Road, London SW16 1PN (entrance on Pinfold Road)</p>
+<ul class="facts">
+<li>Free &mdash; nothing to pay, and you don&rsquo;t have to be a member</li>
+<li>Closed on public holidays &middot; under-10s please bring an adult</li>
+</ul>
+<a class="btn btn-primary" href="/about/venues.html#whitelion">Directions and map</a>
+<a class="btn btn-default" href="/join.html">Joining the club</a>
+</div>
+{%- endif -%}

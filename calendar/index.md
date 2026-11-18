@@ -1,6 +1,8 @@
 ---
 title: Club calendar
 layout: default
+seo_title: "Club Calendar - Streatham & Brixton Chess Club"
+description: "Fixtures, club events and tournament dates for Streatham & Brixton Chess Club."
 jq_disable: false
 ---
 

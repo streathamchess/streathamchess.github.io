@@ -28,6 +28,9 @@ collections:
         file: "index.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Page heading, if different from the title (optional)", name: "heading", widget: "string", required: false}
+          - {label: "Search title (shown in Google; optional)", name: "seo_title", widget: "string", required: false}
+          - {label: "Search description (shown in Google; optional)", name: "description", widget: "string", required: false}
           - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
           - {label: "Body", name: "body", widget: "markdown", modes: ["raw", "rich_text"]}
       - name: "about"
@@ -42,6 +45,7 @@ collections:
         file: "about/venues.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Search title (shown in Google; optional)", name: "seo_title", widget: "string", required: false}
           - {label: "Description", name: "description", widget: "string", required: false}
           - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
           - {label: "Body", name: "body", widget: "markdown", modes: ["raw", "rich_text"]}
@@ -50,6 +54,8 @@ collections:
         file: "join.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Search title (shown in Google; optional)", name: "seo_title", widget: "string", required: false}
+          - {label: "Search description (shown in Google; optional)", name: "description", widget: "string", required: false}
           - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
           - {label: "Body", name: "body", widget: "markdown", modes: ["raw", "rich_text"]}
       - name: "contact"
@@ -57,6 +63,8 @@ collections:
         file: "contact.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Search title (shown in Google; optional)", name: "seo_title", widget: "string", required: false}
+          - {label: "Search description (shown in Google; optional)", name: "description", widget: "string", required: false}
           - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
           - {label: "Body", name: "body", widget: "markdown", modes: ["raw", "rich_text"]}
       - name: "captains"
@@ -114,6 +122,8 @@ collections:
         file: "calendar/index.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Search title (shown in Google; optional)", name: "seo_title", widget: "string", required: false}
+          - {label: "Search description (shown in Google; optional)", name: "description", widget: "string", required: false}
           - {label: "jQuery disabled", name: "jq_disable", widget: "hidden", default: false}
           - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
           - {label: "Body", name: "body", widget: "markdown", modes: ["raw", "rich_text"]}
