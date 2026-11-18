@@ -4,7 +4,7 @@ author: Martin Smith
 description: "The new 2023-24 season, summer AGMs and early results, Player of the Year Andrew Stone, summer events and the club's teams."
 ---
 
-[Download the newsletter as a PDF](https://drive.google.com/file/d/1Ebci7VpGcfGexhzAACSC0mqVedHU47Bt/view?usp=sharing) (it has the photos and diagrams that are not on this page).
+[Download the newsletter as a PDF](/assets/newsletter/club-newsletter-no-26-october-2023.pdf) (it has the photos and diagrams that are not on this page).
 
 *S&BCC NEWS – New Season Issue. Streatham and Brixton Chess Club Magazine, Number 26, October 2023. Follow us on Twitter [@Streathamchess](https://twitter.com/Streathamchess) – Website [streathamchess.org](https://streathamchess.org/)*
 

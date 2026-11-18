@@ -4,7 +4,7 @@ author: Martin Smith
 description: "Plans for change at the club, new WhatsApp groups, a review of the 2023/24 league season, internal tournaments, members' news and the last issue of the Magazine in its current format."
 ---
 
-[Download the newsletter as a PDF](https://drive.google.com/file/d/1LMY4XRa0UbF4QhsjeC7GKYSukNpA-SaN/view?usp=sharing) (it has the photos and diagrams that are not on this page).
+[Download the newsletter as a PDF](/assets/newsletter/club-newsletter-no-29-august-2024.pdf) (it has the photos and diagrams that are not on this page).
 
 *Streatham and Brixton Chess Club Magazine, Number 29, August 2024 – follow us on Twitter [@Streathamchess](https://twitter.com/Streathamchess) – website [streathamchess.org](https://streathamchess.org/)*
 
@@ -18,7 +18,7 @@ As we reported in our last issue, James Toon (who has been doing brilliant work 
 
 #### Whither S&B? Richard Tillett reckons the time for change has come...
 
-“To improve is to change; to be perfect is to change often.” So said Winston Churchill, who may not have been much of a chess player, but did know a thing or two about what it takes to win. Browse through Martin Smith’s [history of S&B](https://drive.google.com/file/d/1FwbYdZj6f2mGce_F8yfb7pMYephzNNFj/view) and you will see how often our club has changed through its 153-year existence. It is because we adapted, either by necessity or design, that we are still around today.
+“To improve is to change; to be perfect is to change often.” So said Winston Churchill, who may not have been much of a chess player, but did know a thing or two about what it takes to win. Browse through Martin Smith’s [history of S&B](https://github.com/streathamchess/streathamchess.github.io/releases/download/club-history/history-of-sb-martin-smith.pdf) and you will see how often our club has changed through its 153-year existence. It is because we adapted, either by necessity or design, that we are still around today.
 
 Now the time has come for our club to change once again. Why? By necessity - because two of our most experienced and dedicated committee members, Martin Smith and James Toon, are stepping back from their management roles. This leaves two big gaps which must be filled if we are to function effectively and build on our reputation as a substantial and well-run chess club. Necessity, as they say, is the mother of invention, and this is surely a golden opportunity to take a long hard look at ourselves, address some significant shortcomings, and involve more of our members in club management. In short, we need to create a positive vision for our future.
 

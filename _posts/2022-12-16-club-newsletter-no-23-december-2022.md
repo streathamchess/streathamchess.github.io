@@ -4,7 +4,7 @@ author: Martin Smith
 description: "A bumper seasonal issue: the Anniversary Rapid, a new match venue, the Library Group, the AGM and Players of the Year, league and tournament reports, false moves, Rodney Barking and a Game of the Century."
 ---
 
-[Download the newsletter as a PDF](https://drive.google.com/file/d/1UatDsN2y8wiQhSoQZ5qmJ0MDxiMhkKMk/view?usp=sharing) (it has the photos and diagrams that are not on this page).
+[Download the newsletter as a PDF](/assets/newsletter/club-newsletter-no-23-december-2022.pdf) (it has the photos and diagrams that are not on this page).
 
 *S&BCC News – Bumper Seasonal Issue! Club New Year Rapid – Anniversary Rapid – New venue x 2 – Library Group – Club AGM – POTYs results! – Tournaments – False moves – Barking – Game of the Century – Bonus!*
 
@@ -243,4 +243,4 @@ Welcome to the 19th Century…
 
 ### That’s Almost All Folks – a bonus
 
-For a bonus treat, please see Alex Spencer’s brilliant Three Act Play: ‘The Queen of Southfields’ – describing, in vivid detail, his school chess club’s recent campaign in the National Schools Chess Championship. Click [here](https://drive.google.com/file/d/1zo1O9OdnlktSO665z6ghaIrHKQjuvrqS/view?usp=sharing) for the full script.
+For a bonus treat, please see Alex Spencer’s brilliant Three Act Play: ‘The Queen of Southfields’ – describing, in vivid detail, his school chess club’s recent campaign in the National Schools Chess Championship. Click [here](/assets/newsletter/the-queen-of-southfields-alex-spencer.pdf) for the full script.

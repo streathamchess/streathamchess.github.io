@@ -4,7 +4,7 @@ author: Richard Tillett
 description: "A new Chair, Christmas events, a proposed club competition, AGM highlights, a puzzle, community chess and a season-so-far report from all the leagues."
 ---
 
-[Download the newsletter as a PDF](https://drive.google.com/file/d/1Ot9d6rv_q1Ph4z3hCT2cg62wGiPW8n82/view?usp=sharing) (it has the photos and diagrams that are not on this page).
+[Download the newsletter as a PDF](/assets/newsletter/club-newsletter-no-30-winter-2024-25.pdf) (it has the photos and diagrams that are not on this page).
 
 *From the Chair: meet the new boss! – Watch out, Christmas is about – A new club competition... would you enter? – London Chess Classic: we’re giving away two free tickets – AGM highlights – Just testing: a position for you to ponder – S&B in the community: our Library and Rookery groups – Castle short, castle long, what could possibly go wrong? – S&B in the leagues: how our season is shaping up – In brief – Just tested: puzzle solution – Contacts, links and credits*
 

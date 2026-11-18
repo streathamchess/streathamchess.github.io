@@ -4,7 +4,7 @@ author: Martin Smith
 description: "Christmas blitz and New Year rapid, a temporary home for the Library Group, a call for club volunteers, league results so far and two annotated games."
 ---
 
-[Download the newsletter as a PDF](https://drive.google.com/file/d/1IyHDPF9rxGMa1CDXzGCn04NMJPTKUYPG/view?usp=sharing) (it has the photos and diagrams that are not on this page).
+[Download the newsletter as a PDF](/assets/newsletter/club-newsletter-no-27-december-2023.pdf) (it has the photos and diagrams that are not on this page).
 
 *Streatham and Brixton Chess Club Magazine – Number 27, December 2023. Follow us on Twitter [@Streathamchess](https://twitter.com/Streathamchess) – Website [streathamchess.org](https://streathamchess.org/)*
 

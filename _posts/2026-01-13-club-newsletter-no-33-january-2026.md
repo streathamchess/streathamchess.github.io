@@ -4,7 +4,7 @@ author: Martin Smith
 description: "Club management, the Library Group, club nights, league reports, tournament action and more."
 ---
 
-[Download the newsletter as a PDF](https://drive.google.com/file/d/1NKwoh7EsVAfEAt1ahP518COyQhDGW2PJ/view?usp=sharing) (it has the photos and diagrams that are not on this page).
+[Download the newsletter as a PDF](/assets/newsletter/club-newsletter-no-33-january-2026.pdf) (it has the photos and diagrams that are not on this page).
 
 *Club management – Library Group – club nights/events – league reports – tournament action – plus other news*
 

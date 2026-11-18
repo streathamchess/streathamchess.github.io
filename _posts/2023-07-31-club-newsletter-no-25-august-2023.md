@@ -4,7 +4,7 @@ author: Martin Smith
 description: "The Summer Issue: upcoming events and league plans for 2023-24, a round-up of recent club activity, chess on Streatham Common, the Library Group, county chess and the 2022-23 league season."
 ---
 
-[Download the newsletter as a PDF](https://drive.google.com/file/d/1YQS-HvVAWcFIUl_VC5zEE-8brutE-pbT/view?usp=sharing) (it has the photos and diagrams that are not on this page).
+[Download the newsletter as a PDF](/assets/newsletter/club-newsletter-no-25-august-2023.pdf) (it has the photos and diagrams that are not on this page).
 
 *S&BCC News – Summer Issue (our 25th!)*
 

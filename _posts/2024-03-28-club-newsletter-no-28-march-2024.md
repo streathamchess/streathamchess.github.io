@@ -4,7 +4,7 @@ author: Martin Smith
 description: "Christmas Blitz and New Year Rapid results, Library Group developments, a league round-up at 28 March 2024, members' news and James Toon's annotated win."
 ---
 
-[Download the newsletter as a PDF](https://drive.google.com/file/d/15y5IdUlT59NClupWYmQ0AdxLny6eV77n/view?usp=sharing) (it has the photos and diagrams that are not on this page).
+[Download the newsletter as a PDF](/assets/newsletter/club-newsletter-no-28-march-2024.pdf) (it has the photos and diagrams that are not on this page).
 
 *Streatham and Brixton Chess Club Magazine, Number 28, March 2024 – follow us on Twitter [@Streathamchess](https://twitter.com/Streathamchess) – website [streathamchess.org](https://streathamchess.org/)*
 

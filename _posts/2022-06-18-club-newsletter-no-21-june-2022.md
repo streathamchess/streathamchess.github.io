@@ -4,7 +4,7 @@ author: Martin Smith
 description: "The 150th Anniversary Rapid, the Library Group, online tournament and league results, farewell to Liam Hylands, the Pimlico Summer Tournament and chess for Ukraine."
 ---
 
-[Download the newsletter as a PDF](https://drive.google.com/file/d/1ZR0n5q0LHi9--hnlL-2KCl53EQbIMfUv/view?usp=sharing) (it has the photos and diagrams that are not on this page).
+[Download the newsletter as a PDF](/assets/newsletter/club-newsletter-no-21-june-2022.pdf) (it has the photos and diagrams that are not on this page).
 
 *S&BCC – Back to the mainline. Anniversary Rapid – the Library Group – Results 1 to 3 – Goodbye Liam – Moved and Taken – Pimlico Summer Tournament – Ukraine – Al Fresco*
 

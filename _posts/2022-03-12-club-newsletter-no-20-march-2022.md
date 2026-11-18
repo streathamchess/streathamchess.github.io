@@ -4,7 +4,7 @@ author: Martin Smith
 description: "Back over the board and subs time again, the online club tournament, league round-up, Ukraine, the club history book Movers and Takers and county chess."
 ---
 
-[Download the newsletter as a PDF](https://drive.google.com/file/d/1Dk7SYb557t3XwlY6L7nTaMOU7XhZqTBZ/view?usp=sharing) (it has the photos and diagrams that are not on this page).
+[Download the newsletter as a PDF](/assets/newsletter/club-newsletter-no-20-march-2022.pdf) (it has the photos and diagrams that are not on this page).
 
 *Chess out of lockdown – at last? Streatham and Brixton Chess Club’s post COVID pick me up. Back over the board, please pay to play! – Our online tourney – Online and OTB round up – Ukraine – Moved and Taken – London Chess Community – County chess*
 

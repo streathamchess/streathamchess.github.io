@@ -4,7 +4,7 @@ author: Martin Smith
 description: "Chair's report, a tribute to Richard Tillett, club tournaments, league and county reports, community chess, upcoming competitions and games."
 ---
 
-[Download the newsletter as a PDF](https://drive.google.com/file/d/1NNXKova0Trkw5g1clEfSiyqtHPhy1WcS/view?usp=sharing) (it has the photos and diagrams that are not on this page).
+[Download the newsletter as a PDF](/assets/newsletter/club-newsletter-no-31-spring-2025.pdf) (it has the photos and diagrams that are not on this page).
 
 *Chair’s Progress Report – A Tribute to Richard Tillett – Club Tournaments – Captains’ Reports – More Standard Play Opportunities – County Chess – S&BCC Out and About – Chess in the Community – Upcoming Competitions – Games – Links & Contacts*
 

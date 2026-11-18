@@ -4,7 +4,7 @@ author: Martin Smith
 description: "AGM news, a new Club Secretary, new club nights, Player of the Year, the Kingston Invitational and the 2024-25 season in review."
 ---
 
-[Download the newsletter as a PDF](https://drive.google.com/file/d/1d-ymFqlZTX886T3_SLaE_8rOfa9IlJAS/view?usp=sharing) (it has the photos and diagrams that are not on this page).
+[Download the newsletter as a PDF](/assets/newsletter/club-newsletter-no-32-september-2025.pdf) (it has the photos and diagrams that are not on this page).
 
 *AGM news – club blitz 30 September – new Club Secretary – new club nights – Player of the Year – plus other news*
 
