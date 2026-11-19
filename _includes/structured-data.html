@@ -1,0 +1,30 @@
+{%- comment -%}
+  Machine-readable description of the club for Google (schema.org SportsClub), used on the home page only.
+  Keep the address, time and "free" in step with _includes/tuesday.html, which is the single source for the Tuesday facts.
+  No email address or phone number goes here on purpose.
+{%- endcomment -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SportsClub",
+  "name": {{ site.name | jsonify }},
+  "url": {{ site.url | append: "/" | jsonify }},
+  "description": "Free, friendly chess in South London for all ages and abilities. No membership needed.",
+  "sport": "Chess",
+  "isAccessibleForFree": true,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Streatham Library, 63 Streatham High Road",
+    "addressLocality": "London",
+    "postalCode": "SW16 1PN",
+    "addressCountry": "GB"
+  },
+  "openingHoursSpecification": {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": "Tuesday",
+    "opens": "16:30",
+    "closes": "19:30"
+  },
+  "sameAs": ["https://twitter.com/Streathamchess"]
+}
+</script>
