@@ -1,67 +1,24 @@
 ---
 title: Latest Members Grades
 layout: default
+seo_title: "Members' ECF Grades - Streatham & Brixton Chess Club"
+description: "Current ECF standard, rapid and blitz ratings of Streatham & Brixton Chess Club players, highest standard rating first."
 ---
-{% include fewseconds.html %}
+{% assign grades = site.data.ecf_grades %}
+These are the ECF ratings of the players the ECF lists for our club, highest Standard rating first. It is a copy of the [ECF rating list for the club]({{ grades.source }}) ({{ grades.rating_list }} list), refreshed every Monday. Over-the-board ratings only; a blank means the player has no rating of that kind. Click a name to see that player's full ECF record.
 
-<iframe width="452" height="750" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8EB2B688CF6DF930%21138&authkey=%21AOEz_cQEXwsF1L4&em=2&wdAllowInteractivity=False&Item='Sheet1'!A1%3AE100&wdHideGridlines=True&wdDownloadButton=True&wdInConfigurator=True"></iframe>
+<div class="table-responsive">
+<table class="table table-striped table-condensed" style="width:auto">
+<thead>
+<tr><th>&nbsp;</th><th>Player</th><th class="text-right">Standard</th><th class="text-right">Rapid</th><th class="text-right">Blitz</th></tr>
+</thead>
+<tbody>
+{%- for p in grades.players %}
+<tr><td class="text-muted">{{ forloop.index }}</td><td><a href="https://rating.englishchess.org.uk/players?ECF_code={{ p.code }}">{% if p.title != '' %}{{ p.title }} {% endif %}{{ p.name }}</a></td><td class="text-right">{{ p.std }}</td><td class="text-right">{{ p.rapid }}</td><td class="text-right">{{ p.blitz }}</td></tr>
+{%- endfor %}
+</tbody>
+</table>
+</div>
 
-<!-- Comment out previous embed code which does not seem to be supported any more
-
-<div id="myExcelDiv" style="width: 452px; height: 750px"></div>
-<script type="text/javascript" src="https://r.office.microsoft.com/r/rlidExcelWLJS?v=1&kip=1"></script>
-<script type="text/javascript">
-	/*
-	 * This code uses the Microsoft Office Excel Javascript object model to programmatically insert the
-	 * Excel Web App into a div with id=myExcelDiv. The full API is documented at
-	 * https://msdn.microsoft.com/en-GB/library/hh315812.aspx. There you can find out how to programmatically get
-	 * values from your Excel file and how to use the rest of the object model. 
-	 */
-
-	// Use this file token to reference SBCC -Grades-Sep2017.xlsx in Excel's APIs
-	var fileToken = "SD8EB2B688CF6DF930!138/-8164262475757389520/t=0&s=0&v=!AOEz_cQEXwsF1L4";
-
-	// run the Excel load handler on page load
-	if (window.attachEvent) {
-		window.attachEvent("onload", loadEwaOnPageLoad);
-	} else {
-		window.addEventListener("DOMContentLoaded", loadEwaOnPageLoad, false);
-	}
-
-	function loadEwaOnPageLoad() {
-		var props = {
-			item: "'Sheet1'!A1:E85",
-			uiOptions: {
-				showGridlines: false
-			},
-			interactivityOptions: {
-				allowTypingAndFormulaEntry: false
-			}
-		};
-
-		Ewa.EwaControl.loadEwaAsync(fileToken, "myExcelDiv", props, onEwaLoaded);
-	}
-
-	function onEwaLoaded(result) {
-		/*
-		 * Add code here to interact with the embedded Excel web app.
-		 * Find out more at https://msdn.microsoft.com/en-GB/library/hh315812.aspx.
-		 */
-	}
-</script>
-//-->
-
-<!-- Comment out previous grades code
-### {% include build/currentlistversion.html %}
-
-Click <a href="http://www.ecfgrading.org.uk/new/glist.php?Code=7152&Club=Streatham" target="_blank">here</a>
-to open list in separate page.
-//-->
-
-If you would like to know how grades are calculated, see the
-[ECF grading database](https://rating.englishchess.org.uk/).
-
-<!-- Comment out previous grades code
-{% include build/currentlist.html %}
-//-->
-
+If you would like to know how ratings are calculated, see the
+[ECF rating database](https://rating.englishchess.org.uk/).

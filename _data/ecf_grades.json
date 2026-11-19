@@ -1,0 +1,918 @@
+{
+ "rating_list": "Nov 2026",
+ "source": "https://rating.englishchess.org.uk/players/list?club_code=7152",
+ "players": [
+  {
+   "name": "Qixiang Han",
+   "title": "FM",
+   "code": "328538J",
+   "std": 2373,
+   "rapid": 2077,
+   "blitz": 2174
+  },
+  {
+   "name": "Venkataramanan Tiruchirapalli",
+   "title": "FM",
+   "code": "259449D",
+   "std": 2338,
+   "rapid": 2254,
+   "blitz": 2121
+  },
+  {
+   "name": "Peter D Lalic",
+   "title": "CM",
+   "code": "246586D",
+   "std": 2330,
+   "rapid": 2202,
+   "blitz": 2148
+  },
+  {
+   "name": "John D Carlin",
+   "title": "",
+   "code": "107992L",
+   "std": 2253,
+   "rapid": 2099,
+   "blitz": 1925
+  },
+  {
+   "name": "Jeremy A Leake",
+   "title": "",
+   "code": "114205H",
+   "std": 2232,
+   "rapid": null,
+   "blitz": null
+  },
+  {
+   "name": "Tom R Chivers",
+   "title": "",
+   "code": "108333J",
+   "std": 2220,
+   "rapid": null,
+   "blitz": null
+  },
+  {
+   "name": "Philip J Makepeace",
+   "title": "",
+   "code": "182869B",
+   "std": 2215,
+   "rapid": 2163,
+   "blitz": 1958
+  },
+  {
+   "name": "Adam Fysh-Foskett",
+   "title": "",
+   "code": "144682E",
+   "std": 2202,
+   "rapid": null,
+   "blitz": null
+  },
+  {
+   "name": "Andrew M Stone",
+   "title": "",
+   "code": "119788F",
+   "std": 2179,
+   "rapid": 2101,
+   "blitz": null
+  },
+  {
+   "name": "Qixuan Han",
+   "title": "",
+   "code": "320977F",
+   "std": 2129,
+   "rapid": 1889,
+   "blitz": 1887
+  },
+  {
+   "name": "Graham DJ Keane",
+   "title": "",
+   "code": "127349J",
+   "std": 2123,
+   "rapid": 2028,
+   "blitz": 2119
+  },
+  {
+   "name": "James M G Toon",
+   "title": "",
+   "code": "120516L",
+   "std": 2113,
+   "rapid": 2010,
+   "blitz": null
+  },
+  {
+   "name": "Stephen C Ledger",
+   "title": "CM",
+   "code": "114228J",
+   "std": 2101,
+   "rapid": 2075,
+   "blitz": 2112
+  },
+  {
+   "name": "Akshat Kumar Bansal",
+   "title": "",
+   "code": "353750L",
+   "std": 2092,
+   "rapid": null,
+   "blitz": null
+  },
+  {
+   "name": "Robin W Haldane",
+   "title": "",
+   "code": "111878L",
+   "std": 2060,
+   "rapid": 1948,
+   "blitz": 1909
+  },
+  {
+   "name": "John H Hodgson",
+   "title": "",
+   "code": "112796C",
+   "std": 2049,
+   "rapid": 2091,
+   "blitz": 1905
+  },
+  {
+   "name": "Liam M Hylands",
+   "title": "",
+   "code": "173024B",
+   "std": 2027,
+   "rapid": null,
+   "blitz": null
+  },
+  {
+   "name": "Benjamin K Simpson",
+   "title": "",
+   "code": "264990B",
+   "std": 2012,
+   "rapid": 2076,
+   "blitz": 1758
+  },
+  {
+   "name": "Charlie Pearson",
+   "title": "",
+   "code": "361031H",
+   "std": 2008,
+   "rapid": 1883,
+   "blitz": 1622
+  },
+  {
+   "name": "Andrew Ponting",
+   "title": "",
+   "code": "117274J",
+   "std": 1993,
+   "rapid": 1905,
+   "blitz": null
+  },
+  {
+   "name": "J Mark O'Neill",
+   "title": "",
+   "code": "141459J",
+   "std": 1976,
+   "rapid": 1854,
+   "blitz": null
+  },
+  {
+   "name": "Alireza Jaberi",
+   "title": "",
+   "code": "387866B",
+   "std": 1976,
+   "rapid": 1688,
+   "blitz": null
+  },
+  {
+   "name": "Samuel Durno",
+   "title": "",
+   "code": "246588H",
+   "std": 1957,
+   "rapid": 1853,
+   "blitz": null
+  },
+  {
+   "name": "Arne Eilers",
+   "title": "",
+   "code": "260630G",
+   "std": 1941,
+   "rapid": 1990,
+   "blitz": 1944
+  },
+  {
+   "name": "Matthew S Tillett",
+   "title": "",
+   "code": "151631A",
+   "std": 1936,
+   "rapid": 1859,
+   "blitz": null
+  },
+  {
+   "name": "Yaseen Mamanji",
+   "title": "",
+   "code": "379516A",
+   "std": 1936,
+   "rapid": 1794,
+   "blitz": 1782
+  },
+  {
+   "name": "Antony C Hall",
+   "title": "",
+   "code": "111899H",
+   "std": 1926,
+   "rapid": 1862,
+   "blitz": 1897
+  },
+  {
+   "name": "Gabriel J Barr",
+   "title": "",
+   "code": "240190D",
+   "std": 1916,
+   "rapid": null,
+   "blitz": null
+  },
+  {
+   "name": "Tom Mayers",
+   "title": "",
+   "code": "376058D",
+   "std": 1911,
+   "rapid": 1758,
+   "blitz": 1764
+  },
+  {
+   "name": "Karim S Reed",
+   "title": "",
+   "code": "302283D",
+   "std": 1900,
+   "rapid": 1774,
+   "blitz": 1802
+  },
+  {
+   "name": "Kostyantyn Titorenko",
+   "title": "",
+   "code": "295485A",
+   "std": 1880,
+   "rapid": 1939,
+   "blitz": 1759
+  },
+  {
+   "name": "David Rees",
+   "title": "",
+   "code": "137848L",
+   "std": 1873,
+   "rapid": null,
+   "blitz": null
+  },
+  {
+   "name": "Jagdip TK Patel",
+   "title": "",
+   "code": "305039H",
+   "std": 1871,
+   "rapid": 1886,
+   "blitz": 1610
+  },
+  {
+   "name": "Joseph Barr",
+   "title": "",
+   "code": "253181B",
+   "std": 1867,
+   "rapid": null,
+   "blitz": 1662
+  },
+  {
+   "name": "Martin G Smith",
+   "title": "",
+   "code": "171658L",
+   "std": 1852,
+   "rapid": 1770,
+   "blitz": 1702
+  },
+  {
+   "name": "Toby Collins",
+   "title": "",
+   "code": "341214D",
+   "std": 1835,
+   "rapid": 1812,
+   "blitz": 1449
+  },
+  {
+   "name": "Peter Keetley",
+   "title": "",
+   "code": "231249K",
+   "std": 1822,
+   "rapid": 1677,
+   "blitz": null
+  },
+  {
+   "name": "Ruairi Isaacs",
+   "title": "",
+   "code": "313384K",
+   "std": 1817,
+   "rapid": 1780,
+   "blitz": 1648
+  },
+  {
+   "name": "Aniello Attianese",
+   "title": "",
+   "code": "292262K",
+   "std": 1792,
+   "rapid": null,
+   "blitz": 1795
+  },
+  {
+   "name": "James Fox",
+   "title": "",
+   "code": "312869G",
+   "std": 1788,
+   "rapid": 1780,
+   "blitz": null
+  },
+  {
+   "name": "Anthony P Cullen",
+   "title": "CM",
+   "code": "109189L",
+   "std": 1779,
+   "rapid": null,
+   "blitz": null
+  },
+  {
+   "name": "Caelan Gopaldas",
+   "title": "",
+   "code": "357241K",
+   "std": 1759,
+   "rapid": 1522,
+   "blitz": 1485
+  },
+  {
+   "name": "Austin Sopocko",
+   "title": "",
+   "code": "361740D",
+   "std": 1754,
+   "rapid": 1713,
+   "blitz": 1660
+  },
+  {
+   "name": "Matthew C Evans-Young",
+   "title": "",
+   "code": "184370K",
+   "std": 1732,
+   "rapid": null,
+   "blitz": null
+  },
+  {
+   "name": "Nadir Mohamed",
+   "title": "",
+   "code": "282052D",
+   "std": 1729,
+   "rapid": null,
+   "blitz": null
+  },
+  {
+   "name": "Andrea Quattrone",
+   "title": "",
+   "code": "359831H",
+   "std": 1724,
+   "rapid": 1493,
+   "blitz": 1588
+  },
+  {
+   "name": "David A Varley",
+   "title": "",
+   "code": "162198B",
+   "std": 1714,
+   "rapid": 1736,
+   "blitz": null
+  },
+  {
+   "name": "Thomas Corkhill",
+   "title": "",
+   "code": "384438K",
+   "std": 1707,
+   "rapid": 1530,
+   "blitz": 1592
+  },
+  {
+   "name": "Max W Williams",
+   "title": "",
+   "code": "356085F",
+   "std": 1680,
+   "rapid": 1582,
+   "blitz": 1628
+  },
+  {
+   "name": "Ramon Marino Solis",
+   "title": "",
+   "code": "377217C",
+   "std": 1665,
+   "rapid": 1471,
+   "blitz": null
+  },
+  {
+   "name": "Chris PJ Bernard",
+   "title": "",
+   "code": "182369D",
+   "std": 1663,
+   "rapid": 1597,
+   "blitz": 1627
+  },
+  {
+   "name": "Luke Williams",
+   "title": "",
+   "code": "366784E",
+   "std": 1636,
+   "rapid": 1562,
+   "blitz": 1577
+  },
+  {
+   "name": "Matthew Hanney",
+   "title": "",
+   "code": "342091H",
+   "std": 1636,
+   "rapid": 1409,
+   "blitz": 1631
+  },
+  {
+   "name": "Christie Griffiths",
+   "title": "",
+   "code": "320952A",
+   "std": 1630,
+   "rapid": null,
+   "blitz": null
+  },
+  {
+   "name": "Michael Chung",
+   "title": "",
+   "code": "320717B",
+   "std": 1610,
+   "rapid": 1556,
+   "blitz": 1663
+  },
+  {
+   "name": "Adan Muazam",
+   "title": "",
+   "code": "352947C",
+   "std": 1608,
+   "rapid": 1670,
+   "blitz": 1613
+  },
+  {
+   "name": "Henri Pascal",
+   "title": "",
+   "code": "290115J",
+   "std": 1608,
+   "rapid": 1653,
+   "blitz": null
+  },
+  {
+   "name": "Alan P Romeril",
+   "title": "",
+   "code": "287912J",
+   "std": 1602,
+   "rapid": 1714,
+   "blitz": 1697
+  },
+  {
+   "name": "Paul Ritchie",
+   "title": "",
+   "code": "291530D",
+   "std": 1574,
+   "rapid": 1596,
+   "blitz": null
+  },
+  {
+   "name": "John R McKenna",
+   "title": "",
+   "code": "115319F",
+   "std": 1570,
+   "rapid": 1514,
+   "blitz": 1550
+  },
+  {
+   "name": "Amar Adatia",
+   "title": "",
+   "code": "309402K",
+   "std": 1556,
+   "rapid": 1654,
+   "blitz": 1708
+  },
+  {
+   "name": "Martin J Cowley",
+   "title": "",
+   "code": "108976G",
+   "std": 1545,
+   "rapid": null,
+   "blitz": null
+  },
+  {
+   "name": "Bartosz Wojtowicz",
+   "title": "",
+   "code": "347419H",
+   "std": 1540,
+   "rapid": 1567,
+   "blitz": null
+  },
+  {
+   "name": "Richard Tillett",
+   "title": "",
+   "code": "144171B",
+   "std": 1532,
+   "rapid": 1462,
+   "blitz": 1145
+  },
+  {
+   "name": "Brodie Jenner",
+   "title": "",
+   "code": "352948E",
+   "std": 1526,
+   "rapid": 1608,
+   "blitz": 1481
+  },
+  {
+   "name": "Edward Mospan",
+   "title": "",
+   "code": "256299G",
+   "std": 1515,
+   "rapid": 1343,
+   "blitz": 1507
+  },
+  {
+   "name": "David Marshall",
+   "title": "",
+   "code": "356384E",
+   "std": 1507,
+   "rapid": 1418,
+   "blitz": 1431
+  },
+  {
+   "name": "Harry Barton",
+   "title": "",
+   "code": "387312C",
+   "std": 1505,
+   "rapid": 1492,
+   "blitz": 1428
+  },
+  {
+   "name": "John Shortt",
+   "title": "",
+   "code": "182406F",
+   "std": 1495,
+   "rapid": 1268,
+   "blitz": 1286
+  },
+  {
+   "name": "Nimrod Maniv",
+   "title": "",
+   "code": "376292A",
+   "std": 1462,
+   "rapid": 1435,
+   "blitz": null
+  },
+  {
+   "name": "Elliott Hills",
+   "title": "",
+   "code": "359468D",
+   "std": 1461,
+   "rapid": 1499,
+   "blitz": 1720
+  },
+  {
+   "name": "Nicolas Basty",
+   "title": "",
+   "code": "374098F",
+   "std": 1460,
+   "rapid": 1510,
+   "blitz": 1329
+  },
+  {
+   "name": "Sam Lawrence",
+   "title": "",
+   "code": "314838F",
+   "std": 1438,
+   "rapid": 1388,
+   "blitz": null
+  },
+  {
+   "name": "Benjamin Crouch",
+   "title": "",
+   "code": "350340K",
+   "std": 1428,
+   "rapid": 1392,
+   "blitz": null
+  },
+  {
+   "name": "Oscar Waller",
+   "title": "",
+   "code": "372247J",
+   "std": 1424,
+   "rapid": 1326,
+   "blitz": 1526
+  },
+  {
+   "name": "Michael Ngulube",
+   "title": "",
+   "code": "276805H",
+   "std": 1418,
+   "rapid": 1459,
+   "blitz": null
+  },
+  {
+   "name": "Nicholas Hardie-Sowash",
+   "title": "",
+   "code": "364541B",
+   "std": 1417,
+   "rapid": 1328,
+   "blitz": 1422
+  },
+  {
+   "name": "Alex Spencer",
+   "title": "",
+   "code": "317717J",
+   "std": 1398,
+   "rapid": null,
+   "blitz": 1634
+  },
+  {
+   "name": "Olexandra Andronova",
+   "title": "",
+   "code": "348639E",
+   "std": 1374,
+   "rapid": 1331,
+   "blitz": null
+  },
+  {
+   "name": "Benjamin Lavender",
+   "title": "",
+   "code": "385371J",
+   "std": 1358,
+   "rapid": 1050,
+   "blitz": 1237
+  },
+  {
+   "name": "Lohith Vijay",
+   "title": "",
+   "code": "358873H",
+   "std": 1251,
+   "rapid": null,
+   "blitz": null
+  },
+  {
+   "name": "Akinsola Akinlose",
+   "title": "",
+   "code": "233753J",
+   "std": 1236,
+   "rapid": 1255,
+   "blitz": null
+  },
+  {
+   "name": "H Martin Dale",
+   "title": "",
+   "code": "122637L",
+   "std": 1235,
+   "rapid": 965,
+   "blitz": null
+  },
+  {
+   "name": "Simon Richards",
+   "title": "",
+   "code": "390066G",
+   "std": 1223,
+   "rapid": null,
+   "blitz": null
+  },
+  {
+   "name": "Oliver Bachelor",
+   "title": "",
+   "code": "379514H",
+   "std": null,
+   "rapid": 1737,
+   "blitz": 1571
+  },
+  {
+   "name": "Harry J Morgan",
+   "title": "",
+   "code": "295934D",
+   "std": null,
+   "rapid": 1737,
+   "blitz": null
+  },
+  {
+   "name": "Enitan Obasa",
+   "title": "",
+   "code": "309396H",
+   "std": null,
+   "rapid": 1718,
+   "blitz": null
+  },
+  {
+   "name": "Will Moffat",
+   "title": "",
+   "code": "369444G",
+   "std": null,
+   "rapid": 1699,
+   "blitz": null
+  },
+  {
+   "name": "Calum Robinson",
+   "title": "",
+   "code": "356668H",
+   "std": null,
+   "rapid": 1634,
+   "blitz": null
+  },
+  {
+   "name": "Pavel Shevtshenko",
+   "title": "",
+   "code": "369443E",
+   "std": null,
+   "rapid": 1528,
+   "blitz": 1606
+  },
+  {
+   "name": "Ibrahim Ahmed",
+   "title": "",
+   "code": "379513F",
+   "std": null,
+   "rapid": 1466,
+   "blitz": 1564
+  },
+  {
+   "name": "Sami EL-Sbahi",
+   "title": "",
+   "code": "379512D",
+   "std": null,
+   "rapid": 1461,
+   "blitz": 1530
+  },
+  {
+   "name": "Olusegun Orija",
+   "title": "",
+   "code": "340891H",
+   "std": null,
+   "rapid": 1408,
+   "blitz": null
+  },
+  {
+   "name": "Iain MacNaughton",
+   "title": "",
+   "code": "376291K",
+   "std": null,
+   "rapid": 1374,
+   "blitz": 1394
+  },
+  {
+   "name": "Pip Marshall",
+   "title": "",
+   "code": "391856H",
+   "std": null,
+   "rapid": 1341,
+   "blitz": null
+  },
+  {
+   "name": "Oskar Mielewicz",
+   "title": "",
+   "code": "380846E",
+   "std": null,
+   "rapid": 1276,
+   "blitz": null
+  },
+  {
+   "name": "Luke Loughrey",
+   "title": "",
+   "code": "373777K",
+   "std": null,
+   "rapid": 1243,
+   "blitz": 1283
+  },
+  {
+   "name": "Varaprasad Renikunta",
+   "title": "",
+   "code": "376796G",
+   "std": null,
+   "rapid": 1119,
+   "blitz": null
+  },
+  {
+   "name": "Louis French",
+   "title": "",
+   "code": "376056L",
+   "std": null,
+   "rapid": 1078,
+   "blitz": 1338
+  },
+  {
+   "name": "James Khan",
+   "title": "",
+   "code": "376057B",
+   "std": null,
+   "rapid": 1022,
+   "blitz": null
+  },
+  {
+   "name": "Alex Tomkowicz",
+   "title": "",
+   "code": "381350C",
+   "std": null,
+   "rapid": 1000,
+   "blitz": null
+  },
+  {
+   "name": "Andre R Barton-Vega",
+   "title": "",
+   "code": "389396A",
+   "std": null,
+   "rapid": 303,
+   "blitz": null
+  },
+  {
+   "name": "Thomas Caruso",
+   "title": "",
+   "code": "375659C",
+   "std": null,
+   "rapid": 293,
+   "blitz": null
+  },
+  {
+   "name": "Eitel Tchapdeu",
+   "title": "",
+   "code": "381699A",
+   "std": null,
+   "rapid": null,
+   "blitz": 1596
+  },
+  {
+   "name": "Rufus Stones",
+   "title": "",
+   "code": "392493C",
+   "std": null,
+   "rapid": null,
+   "blitz": 1595
+  },
+  {
+   "name": "Patrick Christian",
+   "title": "",
+   "code": "372344G",
+   "std": null,
+   "rapid": null,
+   "blitz": 1559
+  },
+  {
+   "name": "Alex Maslanijs",
+   "title": "",
+   "code": "262306H",
+   "std": null,
+   "rapid": null,
+   "blitz": 1528
+  },
+  {
+   "name": "Archie Lochhead",
+   "title": "",
+   "code": "373142L",
+   "std": null,
+   "rapid": null,
+   "blitz": 1467
+  },
+  {
+   "name": "Martino Testi",
+   "title": "",
+   "code": "384439A",
+   "std": null,
+   "rapid": null,
+   "blitz": 1431
+  },
+  {
+   "name": "Deyan Dachev",
+   "title": "",
+   "code": "381700D",
+   "std": null,
+   "rapid": null,
+   "blitz": 1299
+  },
+  {
+   "name": "Mohamed Mohamud",
+   "title": "",
+   "code": "277729A",
+   "std": null,
+   "rapid": null,
+   "blitz": 1280
+  },
+  {
+   "name": "Mohamed Maalimad",
+   "title": "",
+   "code": "379515K",
+   "std": null,
+   "rapid": null,
+   "blitz": 1078
+  },
+  {
+   "name": "Jack Short",
+   "title": "",
+   "code": "382094E",
+   "std": null,
+   "rapid": null,
+   "blitz": 1075
+  },
+  {
+   "name": "Kelland Thomas-Smith",
+   "title": "",
+   "code": "384440H",
+   "std": null,
+   "rapid": null,
+   "blitz": 1059
+  }
+ ]
+}

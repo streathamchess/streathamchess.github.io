@@ -1,0 +1,41 @@
+name: Update ECF grades
+
+# Every Monday, copy the club's ECF ratings into _data/ecf_grades.json (used by the Members' grades page),
+# and rebuild the site if any rating changed.
+on:
+  schedule:
+    - cron: "17 5 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+
+concurrency:
+  group: update-ecf-grades
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Copy the ratings
+        run: python3 .github/scripts/update_ecf_grades.py
+
+      - name: Commit changed ratings and rebuild the site
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          if [ -z "$(git status --porcelain _data/ecf_grades.json)" ]; then
+            echo "No rating changes"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add _data/ecf_grades.json
+          git commit -m "Update ECF grades"
+          git pull --rebase origin master
+          git push origin HEAD:master
+          gh api -X POST "repos/${{ github.repository }}/pages/builds"
