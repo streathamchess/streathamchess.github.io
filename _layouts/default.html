@@ -1,3 +1,30 @@
+{%- comment -%}
+    Every <img> in the page gets width/height (from _data/image_sizes.yml, built by _tools/image_sizes.py) so the page
+    does not jump while pictures load, and loading="lazy" - except the first picture on the page, which is usually
+    what the visitor sees first. Images that already set width= or loading= are left as they are.
+{%- endcomment -%}
+{%- capture processed_content -%}
+{%- assign img_parts = content | split: '<img ' -%}
+{%- if img_parts.size > 1 -%}
+{{- img_parts[0] -}}
+{%- for part in img_parts offset: 1 -%}
+{%- assign tag = part | split: '>' | first -%}
+{%- assign add = '' -%}
+{%- unless tag contains 'width=' -%}
+{%- assign src_pieces = tag | split: 'src="' -%}
+{%- if src_pieces.size > 1 -%}
+{%- assign src = src_pieces[1] | split: '"' | first -%}
+{%- assign dim = site.data.image_sizes[src] -%}
+{%- if dim -%}{%- assign add = ' width="' | append: dim[0] | append: '" height="' | append: dim[1] | append: '"' -%}{%- endif -%}
+{%- endif -%}
+{%- endunless -%}
+{%- unless tag contains 'loading=' or forloop.first -%}{%- assign add = add | append: ' loading="lazy"' -%}{%- endunless -%}
+<img{{ add }} {{ part }}
+{%- endfor -%}
+{%- else -%}
+{{ content }}
+{%- endif -%}
+{%- endcapture -%}
 <!DOCTYPE html>
 <html lang="en">
 
@@ -75,7 +102,7 @@
 	            <h1 class="page-header">
     	          {{ page.heading | default: page.title }}
         	    </h1>
-    	        {{ content }}
+    	        {{ processed_content }}
                 	{% include ipadnotice.html %}
 			{% include contentfooter.html %}
         	  </div>

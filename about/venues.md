@@ -11,8 +11,7 @@ description: "Drop-in chess Tuesdays 4.30-7.30pm at Streatham Library, 63 Streat
 
 ### Social Chess at Streatham Library
 
-{% include image.html url="/assets/photos/
-social-chess-1024.jpg " description="Social chess at Streatham Library." %}
+{% include image.html url="/assets/photos/social-chess-1024.jpg" description="Social chess at Streatham Library." %}
 
 You can play casual chess at [Streatham Library](https://www.lambeth.gov.uk/libraries-0/streatham-library) every Tuesday throughout the year, except public holidays when the library is closed. We meet in the Mark Bennett Streatham Centre in Streatham Library, 63 Streatham High Road, London SW16 1PN, at the junction with Pinfold Road (access is on Pinfold Road), from 4.30 to 7.30 pm and players of all ages and abilities are welcome. We ask that children under 10 are accompanied by an adult. There is nothing to pay and you don't have to be a member of Streatham & Brixton Chess Club to participate.
 
