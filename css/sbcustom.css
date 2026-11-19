@@ -175,5 +175,19 @@
 .invite .btn { margin: 2px 6px 2px 0; }
 .lead-in { font-size: 1.15em; margin: 0 0 10px; }
 
+/* Club history: the book download card */
+.book {
+    overflow: hidden; /* the cover floats left; keep the card around it */
+    background-color: #eef3f7;
+    border-left: 5px solid #428bca;
+    padding: 14px 18px;
+    margin: 6px 0 18px;
+}
+.book img { float: left; width: 130px; height: auto; margin: 0 18px 6px 0; border: 1px solid #c9d6e2; }
+.book .book-title { font-size: 1.6em; font-weight: 700; margin: 0; }
+.book .book-sub { font-size: 1.1em; margin: 2px 0 10px; }
+.book .book-note { font-size: 0.9em; color: #555; margin: 0; }
+@media (max-width: 480px) { .book img { width: 90px; margin-right: 12px; } }
+
 /* highlights the entry a button links to (e.g. Where we play > Ask a club officer) */
 .jump-target:target { background-color: #fff3cd; padding: 2px 6px; border-radius: 3px; }

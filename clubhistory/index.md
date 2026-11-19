@@ -5,12 +5,16 @@ layout: default
 
 ### Introduction
 
-Streatham and Brixton Chess Club celebrated its 150th Anniversary in 2021/22 -- culminating in an [Anniversary Rapid Tournament](/2022/09/29/rapid-tournament-completes-our-150th-anniversary-celebrations.html) in September 2022. You can read about our celebrations in our [News and Games](/noticeboard) section - this includes the publication of *Movers and
-Takers -- a chess history of Streatham and Brixton 1871-2021*
+Streatham and Brixton Chess Club celebrated its 150th Anniversary in 2021/22 -- culminating in an Anniversary Rapid Tournament in September 2022. You can read about it in [Rapid Tournament completes our 150th Anniversary celebrations](/2022/09/29/rapid-tournament-completes-our-150th-anniversary-celebrations.html).
 
-*Movers and Takers* is now sold out. But a downloadable version is
-available
-[here (PDF, 47 MB download)](https://github.com/streathamchess/streathamchess.github.io/releases/download/club-history/history-of-sb-martin-smith.pdf)
+<div class="book">
+<img src="/assets/clubhistory/movers-and-takers-cover.jpg" alt="Cover of Movers and Takers: a chess history of Streatham and Brixton 1871-2021, by Martin Smith">
+<p class="book-title">Movers and Takers</p>
+<p class="book-sub">A chess history of Streatham and Brixton 1871-2021, by Martin Smith</p>
+<p>The full story of the club in 20 illustrated chapters. The printed book has sold out; the PDF is a free download.</p>
+<p><a class="btn btn-primary" href="https://github.com/streathamchess/streathamchess.github.io/releases/download/club-history/history-of-sb-martin-smith.pdf">Download the book (PDF, 47 MB)</a></p>
+<p class="book-note">It is a large file and downloads rather than opening in the browser.</p>
+</div>
 
 The material below may be read in conjunction with the full 150-year history told in detail in *Movers
 and Takers.*
@@ -59,6 +63,6 @@ and will be slower to download.
 [part 3](/assets/knightmare/Knightmare_79_part3.pdf) - [part 4](/assets/knightmare/Knightmare_79_part4.pdf)
 
 ### More S&BCC History Discovered
-In January 2016 the Povah-Best Trophy returned to the club – you can read about it [here](/2016/03/14/trophy-returns.html). Just a few months later, in March 2016, another bit of our history was also restored: copies of a club newsletter from 1966 to 1967. We are grateful to Martin Cath for their safe-keeping. It seems that, in the mists of time, a S&BCC secretary passed them to him, along with copies of an even more ancient publication “The London Chess Bulletin” on 1949 (of which more in the Appendix <a href="#appendix">below</a>).
+In January 2016 the Povah-Best Trophy returned to the club – you can read about it [here](/2016/03/14/trophy-returns.html). Just a few months later, in March 2016, another bit of our history was also restored: copies of a club newsletter from 1966 to 1967. We are grateful to Martin Cath for their safe-keeping. It seems that, in the mists of time, a S&BCC secretary passed them to him, along with copies of an even more ancient publication “The London Chess Bulletin” on 1949 (of which more in the Appendix <a href="/clubhistory/more.html#appendix">below</a>).
 
 Continue reading [here](/clubhistory/more.html)
