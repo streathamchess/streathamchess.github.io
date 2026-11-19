@@ -17,10 +17,10 @@ On Saturday July 24th we held a birthday party on Tooting Common.
      data-click="true"
      data-swipe="true"
      data-width="100%">
-  <img src="/assets/anniv/anniv-wide.jpg">
-  <img src="/assets/anniv/anniv-cake.jpg">
-  <img src="/assets/anniv/anniv-table.jpg">
-  <img src="/assets/anniv/anniv-martin.jpg">
+  <img src="/assets/anniv/anniv-wide.jpg" alt="Club members and families at the 150th anniversary party under a gazebo on Tooting Common">
+  <img src="/assets/anniv/anniv-cake.jpg" alt="The anniversary cake, decorated with fruit and the club badge: Celebrating 150 years, Streatham & Brixton Chess Club, 24 July 2021">
+  <img src="/assets/anniv/anniv-table.jpg" alt="Members chatting around the party table with the cake and drinks, chess sets on a blue picnic blanket behind">
+  <img src="/assets/anniv/anniv-martin.jpg" alt="A member about to cut the anniversary cake">
 </div>
 
 ### Anniversary Matches and Tournaments

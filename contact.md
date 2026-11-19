@@ -46,8 +46,6 @@ Croydon League C: Ed Mospan <eamospan@aol.com> tel 07936 366424
 
 Croydon League D: Ed Mospan <eamospan@aol.com> tel 07936 366424
 
-<!--Surrey League Alexander Cup: Martin Smith <msmith.ms@btinternet.com> tel
-0208 7672355-->
 
 <span id="online-4ncl" class="jump-target">4NCL Online: Matthew Tillett <tillett@gmail.com> tel 07782 167693</span>
 

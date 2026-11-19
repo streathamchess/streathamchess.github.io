@@ -10,7 +10,7 @@ Takers -- a chess history of Streatham and Brixton 1871-2021*
 
 *Movers and Takers* is now sold out. But a downloadable version is
 available
-[here](https://github.com/streathamchess/streathamchess.github.io/releases/download/club-history/history-of-sb-martin-smith.pdf)
+[here (PDF, 47 MB download)](https://github.com/streathamchess/streathamchess.github.io/releases/download/club-history/history-of-sb-martin-smith.pdf)
 
 The material below may be read in conjunction with the full 150-year history told in detail in *Movers
 and Takers.*

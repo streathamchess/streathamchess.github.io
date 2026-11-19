@@ -25,3 +25,8 @@ defaults:
       path: "admin"
     values:
       sitemap: false
+  -
+    scope:
+      path: "assets/newsletter"
+    values:
+      sitemap: false

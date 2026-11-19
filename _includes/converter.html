@@ -7,12 +7,12 @@ FIDE ratings start at 1400, so results below that are only indicative.</p>
 <script>
 function ecfRatingToFide(ecf) { return ecf <= 1750 ? Math.round(0.6 * ecf + 700) : Math.round(ecf); }
 function fideToEcfRating(fide) { return fide <= 1750 ? Math.round((fide - 700) / 0.6) : Math.round(fide); }
-function showFide(box) { var v = parseFloat(box.value); document.getElementById("fide-now").value = isNaN(v) ? "" : ecfRatingToFide(v); }
-function showEcfRating(box) { var v = parseFloat(box.value); document.getElementById("ecf-now").value = isNaN(v) ? "" : fideToEcfRating(v); }
+function showFide(box) { var v = parseFloat(box.value.replace(/,/g, "")); document.getElementById("fide-now").value = isNaN(v) || v <= 0 ? "" : ecfRatingToFide(v); }
+function showEcfRating(box) { var v = parseFloat(box.value.replace(/,/g, "")); document.getElementById("ecf-now").value = isNaN(v) || v <= 0 ? "" : fideToEcfRating(v); }
 </script>
 <label for="ecf-now" style="font-weight:normal">ECF rating:</label>
 <input type="text" inputmode="numeric" id="ecf-now" value="" onChange="showFide(this)" onkeyup="showFide(this)">
-&nbsp;<-->&nbsp;
+&nbsp;&harr;&nbsp;
 <label for="fide-now" style="font-weight:normal">FIDE rating:</label>
 <input type="text" inputmode="numeric" id="fide-now" value="" onChange="showEcfRating(this)" onkeyup="showEcfRating(this)">
 

@@ -13,7 +13,7 @@ import urllib.request
 
 INCLUDE = re.compile(r"\{%-?\s*include\s+lichess_pgn\.html\s+(.*?)-?%\}", re.S)
 ATTRIBUTE = re.compile(r'(\w+)\s*=\s*"([A-Za-z0-9]+)"')
-SKIP_DIRS = {".git", "_site", "_includes", "assets", "js", "calendar_libs", "node_modules"}
+SKIP_DIRS = {".git", "_site", "_includes", "assets", "js", "node_modules"}
 OUT_DIR = os.path.join("assets", "pgn", "lichess")
 
 
