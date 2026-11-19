@@ -25,6 +25,10 @@ We hold your personal data for as long as you are actively involved with u
 
 Anyone providing us with information about another person has the responsibility to make sure that the other person has given their consent for it to be used as above.
 
+#### Website statistics
+
+Our website uses Google Analytics to count visits. It records which pages are viewed, the approximate location (town or region, not your address) and the type of device, using a cookie. We use it only to see how the site is used and to improve it; we do not use it to identify you, and we have turned off Google's advertising features. If you prefer not to be counted, you can block it with [Google's opt-out add-on](https://tools.google.com/dlpage/gaoptout) or your browser's cookie settings.
+
 #### Rights
 
 If you would like to see the data we hold about you, just ask us and we will send you a copy.
